@@ -88,6 +88,10 @@ module.exports = {
                             'text-transform': 'uppercase',
                             color: theme('colors.green.800'),
                         },
+                        mark: {
+                            backgroundColor: theme('colors.green.200'),
+                            marginLeft: theme('margin.4'),
+                        },
                     },
                 },
             }),
