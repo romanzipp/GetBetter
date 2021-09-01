@@ -11,7 +11,7 @@ Grundsätzlich ist, aus ethischer Sicht, jede Verwendung von tierischen Produkte
 Das Ziel sollte sein, dass ihr langfristig vegan leben könnt, nicht, dass ihr von dem einen auf den anderen Tag alles aus eurem Speiseplan streicht, was euch schmeckt. Jeder hat da sein ganz eigenes individuelles Tempo, jeder hat andere Hürden, die für ihn selbst riesig erscheinen, bei anderen vielleicht kleiner sind und umgekehrt. Wichtig ist die Entscheidung eine Veränderung zu wollen, und diese hat vielleicht schon begonnen, bei der Entscheidung diese Texte zu lesen und sich auf die Thematik einzulassen. Danke.
 
 
-## Tierische Ausbeutung
+# Tierische Ausbeutung
 
 Fleisch zu essen, Milch zu trinken und im Allgemeinen tierische Produkte zu konsumieren ist für uns “normal”. Unsere Eltern und Großeltern sind allesamt mit der Auffassung aufgewachsen, dass wir tierische Produkte brauchen und haben ihren Wissensstand rund um tierische Produkte an uns weitergegeben. So brauchten wir laut ihnen um “groß und stark” zu werden genug Fleisch, für unsere Knochen unbedingt Kuhmilch und wenn wir Sport machen, sollen wir bloß genug Eier essen. Wir gehen in jungen Jahren in Zoos und Tierparks, füttern Ziegen, schauen uns Orcas in Aquarien an, die für uns Kunststücke aufführen. Wir tragen die Haut von Tieren an unseren Füßen, Verstauen unsere Geldscheine darin, schlafen auf heraus gerupften Federn, schmieren uns Beautyprodukte ins Gesicht, für deren Herstellungsprozess Tiere gequält und getötet werden. Wir schlachten Tiere, zerkleinern das Fleisch, Fett und die Innereien und pressen es in den Darm derjenigen Tiere, die wir vorher töteten. Wenn wir ganz verspielt sind, quetschen wir diese in eine niedliche Bärchenform, um sie entweder selbst zu essen oder unseren Kindern zu geben. Dennoch zensieren wir Videos aus Tierbetrieben oder zeigen sie erst gar nicht. Weder anderen Menschen, geschweige denn unseren Kindern. Wir zwangsbefruchten Kühe, entreißen dem Muttertier das gerade geborene Kalb, damit es bloß nicht an die Euter seiner Mama geht um die Milch zu trinken, die wir trinken wollen. Zu besonderen Anlässen füllen wir einen riesen Topf mit Wasser, bringen es zum Kochen und schmeißen ein lebendiges Lebewesen, welches bis zu seinem elenden Tod darin leidet, hinein, um es danach zu essen. Wir bemalen als Tradition das Menstruationsprodukt eines Tieres mit unseren Kindern in leuchtenden Farben. Wir züchten Tiere, welche wir als “Nutztiere” definiert haben auf Effizienz, besonders große Euter für hohe Kapazität von Milch, besonders viel Fett für den guten Geschmack, besonders hohe Befruchtungsrate, damit bloß viele Menschen versorgt sind. Wir streicheln unsere Hunde und Katzen während wir gleichzeitig dafür bezahlen, dass jemand anderes für uns ein kleines Kalb oder ein Schweinchen schlachtet. Wir haben eine klare Linie vorgelebt bekommen, welche Tiere süß und liebenswert sind, welche wir in unsere Familie einschließen und als Teil jener betrachten und welche hingegen ausgebeutet, zwangsbefruchtet, verstümmelt und welchen schlicht die Kehle aufgeschlitzt werden darf. 
 
@@ -31,7 +31,7 @@ Besser für die Gesundheit.<br>Besser für den Planeten.<br>Besser für die Mens
 Wir haben täglich die Entscheidung, ob wir tierische Produkte konsumieren, oder nicht.    
 </div>
 
-## Fleisch
+# Fleisch
 
 <mark>In Deutschland wurden in 2020 mehr als 759 Millionen Tiere geschlachtet.[^1]</mark><br>
 <mark>98% des in Deutschland verzehrten Fleisches stammt aus der Massentierhaltung.[^2]</mark>
@@ -57,7 +57,7 @@ Dass die Betäubung in ~5-12% der Fälle gar nicht, oder viel zu wenig wirkt, f�
 Grundsätzlich verantworten wir durch den Kauf von Fleisch das qualvolle Leben und den Tod von Lebewesen die nicht sterben wollen. 
 
 
-## Milch, Käse und Milchprodukte
+# Milch, Käse und Milchprodukte
 
 > Laut einer Umfrage der Gesellschaft für Konsumforschung gaben von knapp 1.000 Befragten 35,6% an, dass Kühe grundsätzlich Milch geben, egal ob sie ein Kalb zur Welt gebracht haben, oder nicht. 23,4% gaben an, dass sie es nicht wissen und nur 41% der Befragten antworteten richtig, nämlich, dass Kühe nur dann Milch geben, wenn sie ein Kalb zur Welt gebracht haben.[^3]
 
@@ -88,7 +88,7 @@ Grundsätzlich verantworten wir durch den Kauf von Milch, Käse und anderen Milc
 Disclaimer: Niemand zwingt euch, dieses Video anzusehen. Wenn ihr die Bilder nicht ertragen könnt, schaut es euch nicht an. Trifft dies zu, habt ihr einen Grund mehr, keine tierischen Produkte zu konsumieren. https://www.youtube.com/watch?v=2LvYOZXyIYs*
 
 
-## Eier
+# Eier
 
 Hühnereier gelten als perfekte Proteinquelle, für alle Sportler\*innen und alle Menschen, die sich gesund ernähren wollen.
 Jedoch verantworten während des Prozesses der Eierproduktion vermeidbares Leid der Legehennen und Küken.
@@ -108,18 +108,15 @@ Grundsätzlich verantworten wir durch den Kauf von Eiern das qualvolle Leben und
 *Zur Veranschaulichung kann man den Beitrag der Animal Rights Watch ARIWA zur Eierproduktion von BIO-Hühnen ansehen.
 Disclaimer: Niemand zwingt euch, dieses Video anzusehen. Wenn ihr die Bilder nicht ertragen könnt, schaut es euch nicht an. Trifft dies zu, habt ihr einen Grund mehr, keine tierischen Produkte zu konsumieren. https://www.youtube.com/watch?v=YPWv0sxRogQ*
 
-<center>
+<div class="quote">
 Wir wissen, dass eine vegane Lebensweise besser ist.
-   
-Besser für die Gesundheit.
-Besser für den Planeten.
-Besser für die Menschen.
-Besser für die Tiere.
-    
-Wir haben täglich die Entscheidung, ob wir tierische Produkte konsumieren, oder nicht.
-</center>  
 
-## Quellen
+Besser für die Gesundheit.<br>Besser für den Planeten.<br>Besser für die Menschen.<br>Besser für die Tiere.
+
+Wir haben täglich die Entscheidung, ob wir tierische Produkte konsumieren, oder nicht.    
+</div>
+
+# Quellen
 [^1]: https://albert-schweitzer-stiftung.de/aktuell/schlachtzahlen-2020
 [^2]: https://www.geo.de/natur/oekologie/3331-rtkl-massentierhaltung-herzinfarkt-auf-dem-bauernhof
 [^3]: https://www.peta.de/wp-content/uploads/2020/11/PETA_Milchkuehe_15-04-29.pdf
