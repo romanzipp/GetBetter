@@ -32,3 +32,7 @@ body {
         background-size: 105% auto;
     }
 }
+
+.nuxt-content > h1:first-child {
+    margin-top: 0 !important;
+}
