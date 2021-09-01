@@ -8,25 +8,22 @@ description: 'Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Kl
 Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Das die anthropogenen, also von Menschen gemachten Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile unbestreitbar. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen.
 
 <div class="quote">
-»Aber was können wir tun?«
-</div>
-
-<div class="quote">
-»Ist die vegane Ernährung die Lösung aller Probleme?«
+»Aber was können wir tun?«<br>
+»Ist die vegane Ernährung die Lösung aller Probleme?«<br>
 »Wieviel Einfluss hat die Produktion tierischer Produkte auf die Klimaentwicklung?«
 </div>
 
-## Facts
+### Facts
 
 Um den Sachverhalt erstmal oberflächlich zu skizzieren, hier ein paar Statistiken:
 
-<mark>In 30 Jahren wird die Population von jetzigen ~7,5 Milliarden Menschen auf ~10 Milliarden Menschen anwachsen.[^29]</mark><br>
-<mark>77-83% des globalen Argrarlands wird für “Nutztiere” benötigt, dabei liefern diese nur 17-18% des Kalorienbedarfs der Menschheit.[^6][^28]</mark><br>
-<mark>Ohne tierische Produkte könnten die weltweiten Agrarflächen um 76% und die Treibhausgasemissionen der Nahrungsindustrie um 49% reduziert werden.[^28]</mark><br>
-<mark>Die Massentierhaltung, aus der ca. 98% des in Deutschland verzehrten Fleisches stammt, ist ein absolut ausschlaggebender Faktor des Klimawandels und eine allgemeine Belastung unserer Umwelt.[^1][^2]</mark><br>
-<mark>In Deutschland wurden in 2020 mehr als 759 Millionen Tiere geschlachtet.[^3]</mark><br>
-<mark>Zu den aufgeführten Schlachtungen kommt eine nicht definierbare Dunkelziffer zu der zum Beispiel die Tötung von Männlichen Küken auch “Eintagsküken” gehört. Das sind in Deutschland jährlich ca 45 Millionen Küken.[^4]</mark><br>
-<mark>Fische, Krebstiere, Weichtiere etc. werden nicht in getöteten Individuen gezählt, weil es schlicht zu viele wären und werden demnach einfach in Tonnen angegeben. 2020 waren es in Deutschland über 32.000 Tonnen.[^5]</mark>
++ In 30 Jahren wird die Population von jetzigen ~7,5 Milliarden Menschen auf ~10 Milliarden Menschen anwachsen.[^29]
++ 77-83% des globalen Argrarlands wird für “Nutztiere” benötigt, dabei liefern diese nur 17-18% des Kalorienbedarfs der Menschheit.[^6], [^28]
++ Ohne tierische Produkte könnten die weltweiten Agrarflächen um 76% und die Treibhausgasemissionen der Nahrungsindustrie um 49% reduziert werden.[^28]
++ Die Massentierhaltung, aus der ca. 98% des in Deutschland verzehrten Fleisches stammt, ist ein absolut ausschlaggebender Faktor des Klimawandels und eine allgemeine Belastung unserer Umwelt.[^1], [^2]
++ In Deutschland wurden in 2020 mehr als 759 Millionen Tiere geschlachtet.[^3]
++ Zu den aufgeführten Schlachtungen kommt eine nicht definierbare Dunkelziffer zu der zum Beispiel die Tötung von Männlichen Küken auch “Eintagsküken” gehört. Das sind in Deutschland jährlich ca 45 Millionen Küken.[^4]
++ Fische, Krebstiere, Weichtiere etc. werden nicht in getöteten Individuen gezählt, weil es schlicht zu viele wären und werden demnach einfach in Tonnen angegeben. 2020 waren es in Deutschland über 32.000 Tonnen.[^5]
 
 *Um aber die Frage des Ausmaßes der Belastung zu beantworten respektive wie schädlich tierische Produkte für unsere Umwelt sind, gibt es eine ganze Reihe an Faktoren, welche miteinbezogen werden müssen. Hier werden bei weitem nicht alle Faktoren dargestellt.*
 
@@ -84,7 +81,7 @@ Zoonosen sind Infektionskrankheiten, die von Bakterien, Parasiten, Viren oder ä
 
 Die FAO warnte bereits 2007 vor erhöhtem Risiko für Zoonosen. So schrieb sie: »Global animal food production is undergoing a major transformation that could lead to a higher risk of disease transmission from animals to humans«, und erklärte dies hauptsächlich mit der wachsenden Population von Tieren in Massentierhaltung. *»The risk of disease transmission from animals to humans will increase in the future due to human and livestock population growth, dynamic changes in livestock production(...)«* [^21]
 
-Dabei sollte man nicht außer Acht lassen, wie viele Krankheiten beim Menschen in der Vergangenheit sehr wahrscheinlich aufgrund der Übertragung von Tieren auf Menschen entstanden sind. Darunter zählen SARS Viren, Influenza aber auch HIV und Hepatitis C, sowie BSE und die Schweine- und Vogelgrippe.[^22][^23]
+Dabei sollte man nicht außer Acht lassen, wie viele Krankheiten beim Menschen in der Vergangenheit sehr wahrscheinlich aufgrund der Übertragung von Tieren auf Menschen entstanden sind. Darunter zählen SARS Viren, Influenza aber auch HIV und Hepatitis C, sowie BSE und die Schweine- und Vogelgrippe.[^22], [^23]
 
 Die Risiken für Zoonosen sind gerade bei der Massentierhaltung enorm, denn eine Infektionskrankheit hat bei einer großen Masse an Tieren die in engen Räumen, nah aneinander, in den eigenen Fäkalien lebend eine exzellente Brutstätte. Um diesen Infektionskrankheiten vorzubeugen, wird den »Nutztieren« in vielen Teilen der Welt prophylaktisch Antibiotikum verabreicht, jedoch erhöhen die häufigen Antibiotikaeinsätze das Risiko, dass sich antibiotikaresistente Keime bilden.[^24] Dies führt dazu, dass 70-80% des weltweiten Antibiotikums für die industrielle Massentierhaltung verbraucht wird. *»(...) antibiotic use in livestock is likely to account for approximately 70–80% of total consumption.«*[^25]
 
@@ -105,9 +102,7 @@ Selbstverständlich ist eine vegane Ernährung nicht die Lösung all unserer Pro
 
 Diesen Beitrag können wir täglich leisten, für unsere Gesundheit, die Tiere und unseren Planeten, zum Beispiel mit einer veganen Ernährung.
 
-<div class="quote">
-*»Eine vegane Ernährung ist wahrscheinlich die effektivste Weise den eigenen ökologischen Fußabdruck zu reduzieren und das nicht nur in Bezug auf Treibhausgase sondern auch auf die weltweite Übersäuerung der Böden, die Überdüngung sowie die Land- und Wassernutzung.«* - Poore, Joseph. Leiter der Oxfordstudie »Reducing food's environmental impacts through producers and consumers«[^28] aus einem Interview mit *The Guardian*[^30]
-</div>
+<mark>*»Eine vegane Ernährung ist wahrscheinlich die effektivste Weise den eigenen ökologischen Fußabdruck zu reduzieren und das nicht nur in Bezug auf Treibhausgase sondern auch auf die weltweite Übersäuerung der Böden, die Überdüngung sowie die Land- und Wassernutzung.«* - Poore, Joseph. Leiter der Oxfordstudie »Reducing food's environmental impacts through producers and consumers«[^28] aus einem Interview mit *The Guardian*[^30]</mark>
 
 # Quellen 
 [^1]: https://www.stern.de/wirtschaft/news/fleisch--massentierhaltung-in-echtzeit---zu-viel-von-allem-6522504.html
