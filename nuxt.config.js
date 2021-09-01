@@ -53,6 +53,10 @@ export default {
     content: {},
 
     // Build Configuration: https://go.nuxtjs.dev/config-build
-    build: {
+    build: {},
+
+    tailwindcss: {
+        configPath: 'tailwind.config.js',
+        cssPath: '~/assets/scss/tailwind.scss',
     },
 };
