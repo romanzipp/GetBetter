@@ -1,6 +1,6 @@
 <template>
 
-    <div class="flex justify-center mt-16 space-x-6">
+    <div class="flex justify-center mt-64 space-x-6">
 
         <a href="https://ich.wtf/imprint"
            target="_blank"
