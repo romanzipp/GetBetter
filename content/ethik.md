@@ -59,7 +59,7 @@ Grundsätzlich verantworten wir durch den Kauf von Fleisch das qualvolle Leben u
 
 # Milch, Käse und Milchprodukte
 
-> Laut einer Umfrage der Gesellschaft für Konsumforschung gaben von knapp 1.000 Befragten 35,6% an, dass Kühe grundsätzlich Milch geben, egal ob sie ein Kalb zur Welt gebracht haben, oder nicht. 23,4% gaben an, dass sie es nicht wissen und nur 41% der Befragten antworteten richtig, nämlich, dass Kühe nur dann Milch geben, wenn sie ein Kalb zur Welt gebracht haben.[^3]
+<mark>Laut einer Umfrage der Gesellschaft für Konsumforschung gaben von knapp 1.000 Befragten 35,6% an, dass Kühe grundsätzlich Milch geben, egal ob sie ein Kalb zur Welt gebracht haben, oder nicht. 23,4% gaben an, dass sie es nicht wissen und nur 41% der Befragten antworteten richtig, nämlich, dass Kühe nur dann Milch geben, wenn sie ein Kalb zur Welt gebracht haben.[^3]</mark>
 
 Für viele Menschen ist es relativ einfach zu verstehen, dass für ihr Fleisch ein Tier sterben musste, jedenfalls wenn sie sich sich grundlegend damit beschäftigt haben.
 Auch wenn nicht unbedingt die Qualen der Tiere betrachtet werden, ist hier der Zusammenhang besser greifbar.
