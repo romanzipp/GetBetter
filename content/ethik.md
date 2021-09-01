@@ -123,7 +123,7 @@ Wir haben täglich die Entscheidung, ob wir tierische Produkte konsumieren, oder
 </center>  
 
 ### Quellen:
-[^1] https://albert-schweitzer-stiftung.de/aktuell/schlachtzahlen-2020
-[^2] https://www.geo.de/natur/oekologie/3331-rtkl-massentierhaltung-herzinfarkt-auf-dem-bauernhof
-[^3] https://www.peta.de/wp-content/uploads/2020/11/PETA_Milchkuehe_15-04-29.pdf
-[^4] https://www.bmel.de/DE/themen/tiere/tierschutz/tierwohl-forschung-in-ovo.html
+[^1]: https://albert-schweitzer-stiftung.de/aktuell/schlachtzahlen-2020
+[^2]: https://www.geo.de/natur/oekologie/3331-rtkl-massentierhaltung-herzinfarkt-auf-dem-bauernhof
+[^3]: https://www.peta.de/wp-content/uploads/2020/11/PETA_Milchkuehe_15-04-29.pdf
+[^4]: https://www.bmel.de/DE/themen/tiere/tierschutz/tierwohl-forschung-in-ovo.html
