@@ -12,7 +12,7 @@ export default {
 
     async asyncData({ $content }) {
         return {
-            page: await $content('umwelt').fetch(),
+            page: await $content('faq').fetch(),
         };
     },
 };

@@ -13,3 +13,10 @@
     background-position: center;
     background-size: contain;
 }
+
+.bg-rounded {
+    background-image: url('~/static/rounded.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

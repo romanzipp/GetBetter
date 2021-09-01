@@ -4,24 +4,11 @@
 
         <Navbar />
 
-        <Jumbotron />
-
         <div class="flex-grow flex flex-col">
 
             <div class="h-32 bg-rounded" />
 
             <div class="flex-grow flex flex-col justify-between bg-green-100 -mt-px">
-
-                <div class="flex justify-center space-x-8 -mt-12">
-
-                    <router-link v-for="link in links"
-                                 :key="link.url"
-                                 :to="link.url"
-                                 class="bg-green-700 hover:bg-green-800 transition-colors px-8 py-3 text-white text-lg font-normal tracking-wide font-serif leading-normal">
-                        {{ link.title }}
-                    </router-link>
-
-                </div>
 
                 <div class="container mx-auto mt-12">
                     <Nuxt class="content" />
