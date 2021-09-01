@@ -13,5 +13,11 @@ export default {
             page: await $content('ethik').fetch(),
         };
     },
+
+    head() {
+        return {
+            title: 'Ethik - Get Better',
+        };
+    },
 };
 </script>

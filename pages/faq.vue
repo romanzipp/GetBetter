@@ -13,5 +13,11 @@ export default {
             page: await $content('faq').fetch(),
         };
     },
+
+    head() {
+        return {
+            title: 'FAQ - Get Better',
+        };
+    },
 };
 </script>

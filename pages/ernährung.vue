@@ -13,5 +13,11 @@ export default {
             page: await $content('ernaehrung').fetch(),
         };
     },
+
+    head() {
+        return {
+            title: 'Ernährung - Get Better',
+        };
+    },
 };
 </script>

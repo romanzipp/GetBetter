@@ -6,13 +6,29 @@ export default {
     head: {
         title: 'Get Better',
         htmlAttrs: {
-            lang: 'en',
+            lang: 'de',
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '' },
+            { hid: 'description', name: 'description', content: 'Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Das die anthropogenen Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile indisputabel. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen.' },
             { name: 'format-detection', content: 'telephone=no' },
+            { name: 'theme-color', content: '#d2e7cc' },
+
+            // OpenGraph
+
+            { hid: 'og:locale', property: 'og:locale', content: 'de_DE' },
+            { hid: 'og:description', property: 'og:description', content: 'Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Das die anthropogenen Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile indisputabel. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen.' },
+            { hid: 'og:type', property: 'og:type', content: 'website' },
+            { hid: 'og:site_name', property: 'og:site_name', content: 'Get Better' },
+
+            // Twitter
+
+            { hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image' },
+            { hid: 'twitter:site', name: 'twitter:site', content: '@romanzipp' },
+            { hid: 'twitter:creator', name: 'twitter:creator', content: '@romanzipp' },
+            { hid: 'twitter:description', name: 'twitter:description', content: 'Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Das die anthropogenen Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile indisputabel. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen.' },
+            { hid: 'twitter:image', name: 'twitter:image', content: '/images/brand/icon-512.png' },
         ],
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },

@@ -13,5 +13,11 @@ export default {
             page: await $content('umwelt').fetch(),
         };
     },
+
+    head() {
+        return {
+            title: 'Umwelt - Get Better',
+        };
+    },
 };
 </script>
