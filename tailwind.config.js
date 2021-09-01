@@ -90,7 +90,19 @@ module.exports = {
                         },
                         mark: {
                             backgroundColor: theme('colors.green.200'),
-                            marginLeft: theme('margin.4'),
+                        },
+                        '.quote': {
+                            marginTop: theme('margin.8'),
+                            padding: theme('padding.4'),
+                            fontFamily: theme('fontFamily.serif'),
+                            fontSize: theme('fontSize.xl'),
+                            fontStyle: 'italic',
+                            textAlign: 'center',
+                            fontWeight: theme('fontWeight.light'),
+                            backgroundColor: theme('colors.green.200'),
+                        },
+                        '.breathing': {
+                            paddingLeft: theme('padding.4'),
                         },
                     },
                 },

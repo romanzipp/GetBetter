@@ -33,8 +33,10 @@ Wir haben täglich die Entscheidung, ob wir tierische Produkte konsumieren, oder
 
 # Fleisch
 
+<div class="breathing">
 <mark>In Deutschland wurden in 2020 mehr als 759 Millionen Tiere geschlachtet.[^1]</mark><br>
 <mark>98% des in Deutschland verzehrten Fleisches stammt aus der Massentierhaltung.[^2]</mark>
+</div>
 
 Wenn wir im Supermarkt einkaufen und an den Regalen und Kühlschränken vorbeigehen, denken die wenigsten daran, dass die Salami, die wir uns gerade in den Einkaufswagen gelegt haben, aus toten Tieren besteht. Warum auch? Wir haben gelernt, dass der Verzehr von Fleisch absolut normal ist und sogar gut für die Gesundheit sei. Wir assoziieren Fleisch nicht direkt mit dem toten Tier und schon gar nicht mit dem Leid, welches das Tier sein Leben lang ertragen musste. Wir als Endverbraucher müssen die Tiere schließlich nicht selbst schlachten. Wir müssen nicht sehen, wie die Tiere zur Schlachtbank transportiert werden, müssen nicht daran denken, wie viele Tiere aufgrund von unvertretbaren Zuständen bereits im Stall verstorben sind, müssen nicht hören wie sie kreischen und schreien, weil sie Todesangst haben. Wir haben den Bezug zum Töten nie gehabt. Wir sehen lediglich das Produkt, welches wir seit Kindheitstagen kennen und liebend gern essen. Aber wenn wir uns damit beschäftigen, wie die Produktion unserer geliebten tierischen Produkte von statten geht, wenn wir uns Informationen zum Leben und zum Tod der Lebewesen welche wir essen, beschaffen, dann stehen wir in der Verantwortung unser Handeln zu hinterfragen. Wir sollten uns hinterfragen, warum ein Lebewesen für unseren Genuss leiden sollte. 
 
@@ -59,7 +61,9 @@ Grundsätzlich verantworten wir durch den Kauf von Fleisch das qualvolle Leben u
 
 # Milch, Käse und Milchprodukte
 
+<div class="breathing">
 <mark>Laut einer Umfrage der Gesellschaft für Konsumforschung gaben von knapp 1.000 Befragten 35,6% an, dass Kühe grundsätzlich Milch geben, egal ob sie ein Kalb zur Welt gebracht haben, oder nicht. 23,4% gaben an, dass sie es nicht wissen und nur 41% der Befragten antworteten richtig, nämlich, dass Kühe nur dann Milch geben, wenn sie ein Kalb zur Welt gebracht haben.[^3]</mark>
+</div>
 
 Für viele Menschen ist es relativ einfach zu verstehen, dass für ihr Fleisch ein Tier sterben musste, jedenfalls wenn sie sich sich grundlegend damit beschäftigt haben.
 Auch wenn nicht unbedingt die Qualen der Tiere betrachtet werden, ist hier der Zusammenhang besser greifbar.

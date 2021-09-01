@@ -37,13 +37,7 @@ body {
     &> h1:first-child {
         margin-top: 0 !important;
     }
-
-    .quote {
-        @apply mt-8;
-        @apply font-serif;
-        @apply text-xl;
-        @apply italic;
-        @apply text-center;
-        @apply font-light;
+    .quote > p:last-child {
+        margin-bottom: 0 !important;
     }
 }
