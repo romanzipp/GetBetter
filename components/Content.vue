@@ -2,11 +2,12 @@
 
     <article class="max-w-prose mx-auto">
 
-        <div v-if="showNav"
+        <div v-if="showNav && anchors.length > 0"
              @click="showNav = false"
              class="fixed top-0 left-0 w-full h-full bg-black bg-opacity-25" />
 
-        <div :class="{
+        <div v-if="anchors.length > 0"
+             :class="{
                  'left-1/2 z-10 -translate-x-1/2 -translate-y-1/2': showNav,
                  'hidden xl:block pr-4 transform -translate-x-full': !showNav
              }"

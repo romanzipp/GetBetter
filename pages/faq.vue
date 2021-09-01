@@ -1,6 +1,7 @@
 <template>
 
-    <Content :document="page" />
+    <Content v-if="page"
+             :document="page" />
 
 </template>
 
@@ -8,10 +9,12 @@
 export default {
     layout: 'content',
 
-    async asyncData({ $content }) {
-        return {
-            page: await $content('faq').fetch(),
-        };
+    data: () => ({
+        page: null,
+    }),
+
+    async fetch() {
+        this.page = await this.$content('faq').fetch();
     },
 
     head() {
