@@ -25,7 +25,7 @@ Um den Sachverhalt erstmal oberflächlich zu skizzieren, hier ein paar Statistik
 + Zu den aufgeführten Schlachtungen kommt eine nicht definierbare Dunkelziffer zu der zum Beispiel die Tötung von Männlichen Küken auch “Eintagsküken” gehört. Das sind in Deutschland jährlich ca 45 Millionen Küken.[^4]
 + Fische, Krebstiere, Weichtiere etc. werden nicht in getöteten Individuen gezählt, weil es schlicht zu viele wären und werden demnach einfach in Tonnen angegeben. 2020 waren es in Deutschland über 32.000 Tonnen.[^5]
 
-*Um aber die Frage des Ausmaßes der Belastung zu beantworten respektive wie schädlich tierische Produkte für unsere Umwelt sind, gibt es eine ganze Reihe an Faktoren, welche miteinbezogen werden müssen. Hier werden bei weitem nicht alle Faktoren dargestellt.*
+Um aber die Frage des Ausmaßes der Belastung zu beantworten respektive wie schädlich tierische Produkte für unsere Umwelt sind, gibt es eine ganze Reihe an Faktoren, welche miteinbezogen werden müssen. Hier werden bei weitem nicht alle Faktoren dargestellt.
 
 # Treibhausgasemissionen
 
@@ -35,8 +35,8 @@ Unter Treibhausgasemissionen versteht man die Gase in der Atmosphäre, die für 
 Die Zahlen zu den Treibhausgasemissionen der industriellen Massentierhaltung schwanken in vielen Veröffentlichungen stark und können leicht irritieren. Wichtig hierbei ist, die Zahlen in den richtigen Kontext zu setzen und zu hinterfragen, welche Faktoren in die Gestaltung der Studien (nicht) mit eingeflossen sind.
 
 <mark>*»Global livestock production is responsible for around **12%** of global greenhouse gas emissions.«*  - Netherlands Environmental Assessment Agency[^10]</mark><br>
-<mark>»while the livestock sector receives surprisingly little attention, despite the fact that it accounts for **18%** of the greenhouse gas emissions and for 80% of total anthropogenic land use.« - Stehfest, E.[^11]</mark><br>
-<mark>»Total emissions from global livestock: 7.1 Gigatonnes of Co2-equiv per year, representing **14.5%** of all anthropogenic GHG emissions.« - Food and Agriculture Organization of the United Nations (FAO)[^12]</mark>
+<mark>*»while the livestock sector receives surprisingly little attention, despite the fact that it accounts for **18%** of the greenhouse gas emissions and for 80% of total anthropogenic land use.«* - Stehfest, E.[^11]</mark><br>
+<mark>*»Total emissions from global livestock: 7.1 Gigatonnes of Co2-equiv per year, representing **14.5%** of all anthropogenic GHG emissions.«* - Food and Agriculture Organization of the United Nations (FAO)[^12]</mark>
 
 Um auf die Werte zu kommen, bedienen sich die Studien einer Methodik, die sich »life cycle assessment«, respektive Ökobilanz nennt. Hierbei werden alle Emissionen miteinbezogen, welche während des Produktionszyklus ausgestoßen werden. Jedoch wird unter anderem der Faktor der versäumten CO2-Senke außer Acht gelassen. Dieser bezieht sich zum Beispiel auf das Nachwachsen natürlicher Vegetation auf einer ehemaligen Acker- oder Weidefläche, welche dann wiederum mehr CO2 aus der Atmosphäre binden könnte.
 
@@ -67,8 +67,8 @@ Eine umfangreiche Studie der Oxford University mit 40.000 analysierten Agrarbetr
 
 # Artensterben und Überfischung
 
-<mark>»Globally, already around 30% of the total human-induced biodiversity loss is related to livestock production. Currently, about 80% of global commercial fish populations are being fully exploited or overexploited, leading to large impacts on marine biodiversity.«[^16]</mark><br>
-<mark>»(...) the percentage of stocks fished at biologically unsustainable levels increased from 10% in 1974 to 33.1% in 2015 (...)«[^19]</mark>
+<mark>*»Globally, already around 30% of the total human-induced biodiversity loss is related to livestock production. Currently, about 80% of global commercial fish populations are being fully exploited or overexploited, leading to large impacts on marine biodiversity.«*[^16]</mark><br>
+<mark>*»(...) the percentage of stocks fished at biologically unsustainable levels increased from 10% in 1974 to 33.1% in 2015 (...)«*[^19]</mark>
 
 Die Flächennutzung von Monokulturen, wie zum Beispiel Soja als Futtermittel, begünstigen zudem keine Biodiversität. Welche absolut kritisch ist, für den Erhalt der Artenvielfalt[^17] Diese Monokulturen schwächen das dortige Ökosystem und machen es angreifbar für Schädlinge und Krankheiten. Um dies auszugleichen werden Pestizide eingesetzt. Dadurch ist die Biodiversität der Böden verringert, welche wiederum negative Auswirkungen auf die Fruchtbarkeit der Böden hat, deshalb kommen zu den Pestiziden auch noch Düngemittel die dem entgegenwirken sollen. Jedoch wirken diese Pestizide und Düngemittel nicht nur direkt lokal, sondern ziehen auch weitere Kreise in der Umgebung. Folgen davon sind veränderte Niederschlagsmuster und Luftzirkulation in beispielsweise angrenzenden Waldgebieten.[^18]
 
