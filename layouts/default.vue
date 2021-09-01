@@ -1,43 +1,63 @@
 <template>
 
-    <div>
+    <div class="min-h-screen flex flex-col border-16 border-green-100">
 
-        <div class="h-screen flex">
+        <div>
 
-            <div class="w-1/3 flex items-center bg-green-100">
+            <div class="flex justify-center p-6">
 
-                <div class="font-heading-secondary font-normal text-5xl">
-                    Get Better Blog Title
-                </div>
-
-                <div class="font-heading-primary font-normal text-5xl">
-                    Get Better Blog Title
-                </div>
-
-                <img src="/get_better_logo_transparent.png"
-                     class="transform translate-x-1/2"
-                     alt="">
+                <router-link to="/">
+                    <img src="/get_better_logo_transparent.png"
+                         class="h-32"
+                         alt="Logo">
+                </router-link>
 
             </div>
 
-            <div class="w-2/3 bg-white" />
+            <div class="px-12 py-32 bg-nature text-center">
 
-        </div>
+                <div class="container mx-auto">
 
-        <div class="w-full p-6">
+                    <div class="font-serif font-medium text-8xl text-green-800">
+                        Get Better
+                    </div>
 
-            <div class="container mx-auto">
+                    <p class="mt-12 font-serif text-xl leading-normal">
+                        Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Das die anthropogenen Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile indisputabel. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen.
+                    </p>
 
-                <img src="/get_better_logo_transparent.png"
-                     class="h-24"
-                     alt="">
+                </div>
 
             </div>
-            Get Better
+
         </div>
 
-        <div class="container mx-auto">
-            <Nuxt class="flex flex-wrap" />
+        <div class="flex-grow flex flex-col">
+
+            <img src="/rounded.svg"
+                 alt=""
+                 class="w-full">
+
+            <div class="flex-grow flex flex-col justify-between bg-green-100 -mt-px">
+
+                <div class="container mx-auto">
+                    <Nuxt class="content" />
+                </div>
+
+                <div class="flex justify-center space-x-6">
+
+                    <a href="https://ich.wtf/imprint"
+                       target="_blank"
+                       rel="noopener">Impressum</a>
+
+                    <a href="https://ich.wtf/privacy"
+                       target="_blank"
+                       rel="noopener">Datenschutz</a>
+
+                </div>
+
+            </div>
+
         </div>
 
     </div>

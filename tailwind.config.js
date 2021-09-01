@@ -10,19 +10,19 @@ module.exports = {
     darkMode: false,
     theme: {
         fontFamily: {
-            'heading-primary': [
+            serif: [
                 'Kazimir',
                 'serif',
             ],
-            'heading-secondary': [
+            sans: [
                 '"Brandon Grotesque"',
                 'sans-serif',
             ],
-            body: [
-                'Kazimir',
-            ],
         },
         extend: {
+            borderWidth: {
+                16: '16px',
+            },
             colors: {
                 green: {
                     50: '#f6faf5',

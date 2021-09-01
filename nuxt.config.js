@@ -4,7 +4,7 @@ export default {
 
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        title: 'get-better',
+        title: 'Get Better',
         htmlAttrs: {
             lang: 'en',
         },
