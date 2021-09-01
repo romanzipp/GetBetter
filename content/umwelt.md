@@ -87,7 +87,7 @@ Die Risiken für Zoonosen sind gerade bei der Massentierhaltung enorm, denn eine
 
 Auch bei lediglich therapeutischer Verabreichung von Antibiotika, also erst wenn die Tiere Krankheitsanzeichen haben, wird die Bildung von antibiotikaresistenten Keimen begünstigt. Diese antibiotikaresistenten Keime, bei denen also bestimmte Antibiotika schlicht nicht mehr wirken, untersuchte die Deutsche Umwelthilfe (DUH) jüngst *(Stand: 24.08.2021)*. Die Stichprobenartige Untersuchung von unterschiedlichen Putenfleischstücken aus verschiedenen Discountern ergab, dass auf 19 von 62 Proben antibiotikaresistente Keime aufzufinden waren.[^26]
 
-Im Ernstfall, wenn sich antibiotikaresistente Keime weiterhin so extrem verbreiten, könnte dies unser Gesundheitswesen fundamental beeinflussen. Denn auch “einfache” Infektionen können dann unbehandelbar werden. Schon eine Harnwegsinfektion oder eine entzündete Wunde könnte dann tödlich Enden. (27)
+Im Ernstfall, wenn sich antibiotikaresistente Keime weiterhin so extrem verbreiten, könnte dies unser Gesundheitswesen fundamental beeinflussen. Denn auch “einfache” Infektionen können dann unbehandelbar werden. Schon eine Harnwegsinfektion oder eine entzündete Wunde könnte dann tödlich Enden.[^27]
 
 
 # Zusammenfassung
