@@ -1,6 +1,7 @@
 <template>
 
-    <div class="flex flex-wrap flex-col lg:flex-row justify-center p-6 space-x-0 lg:space-x-16">
+    <div id="top"
+         class="flex flex-wrap flex-col lg:flex-row justify-center p-6 space-x-0 lg:space-x-16">
 
         <div class="order-2 lg:order-1 flex-1 flex items-center justify-center lg:justify-end space-x-4">
 

@@ -37,6 +37,11 @@
 
                 </div>
 
+                <a href="#top"
+                   class="block text-black hover:text-green-700 no-underline!important truncate mt-2 pt-2 border-t-2 border-green-300">
+                    Nach oben
+                </a>
+
             </div>
 
         </div>

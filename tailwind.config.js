@@ -101,9 +101,6 @@ module.exports = {
                             fontWeight: theme('fontWeight.light'),
                             backgroundColor: theme('colors.green.200'),
                         },
-                        '.breathing': {
-                            paddingLeft: theme('padding.4'),
-                        },
                     },
                 },
             }),
