@@ -19,8 +19,8 @@
 
             <div class="p-4 mr-0 xl:mr-4 w-64 bg-green-200">
 
-                <div class="mb-2 pb-2 text-xl font-medium border-b-2 border-green-300">
-                    Navigation
+                <div class="mb-2 pb-2 text-2xl font-medium border-b-2 border-green-300">
+                    Inhalte
                 </div>
 
                 <div v-for="anchor in anchors"
