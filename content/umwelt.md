@@ -57,7 +57,7 @@ Würden hier also, ganz hypothetisch, alle Menschen vegan Leben, würde sehr vie
 
 # Flächenverbrauch
 
-Quelle: https://ourworldindata.org/land-use (15)
+Quelle:[^15] https://ourworldindata.org/land-use 
 
 Wir sehen in der Darstellung, dass von dem gesamten potentiell bewohnbaren beziehungsweise vom Menschen nutzbaren Land die Hälfte für Landwirtschaft verwendet wird. **Davon wiederum werden 77% für die industrielle Massentierhaltung genutzt.** Diese Flächen könnten sehr viel effizienter genutzt werden, was auch die Anzahl der globalen Kalorienversorgung zeigt, denn nur 18% der gesamten Kalorienversorgung kommt von tierischen Produkten.
 
