@@ -70,7 +70,7 @@ Viele kennen die Werbungen, in denen einzelne Kühe auf einer riesigen grünen W
 
 Denn ohne den Umweg tierische Produkte zu konsumieren und direkt pflanzliche Nährstoffquellen zu sich zu nehmen lässt sich einiges an Leid vermeiden.
 
-Wie wir bereits unter dem Reiter [»Fleisch«](/ethik#fleisch)) festgestellt haben, sind die allgemeinen Haltungsbedingungen jeglicher Haltungsform oder -stufe katastrophal und lassen sich nicht ethisch rechtfertigen.
+Wie wir bereits unter dem Reiter [»Fleisch«](/ethik/#fleisch) festgestellt haben, sind die allgemeinen Haltungsbedingungen jeglicher Haltungsform oder -stufe katastrophal und lassen sich nicht ethisch rechtfertigen.
 
 Kühe die für die Milchgewinnung gehalten werden, müssen gesondert betrachtet werden, denn diese leben nicht nur unter unvertretbaren Zuständen und werden wenn sie nicht mehr genug »leisten« geschlachtet, sondern haben ein qualvolles, von Krankheit, Leid, psychischer Belastung und Erschöpfung durchzogenes Leben in der Zwischenzeit.
 Sie leben in kleinen Ställen, stehen auf, durch ihre eigenen Exkremente, rutschigen Böden, werden qualvoll enthornt, damit sie sich nicht gegenseitig in den engen Ställen aufspießen können und werden jede Sekunde ihres Lebens ausgebeutet.
