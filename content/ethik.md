@@ -48,10 +48,10 @@ Das System hinter der Fleischproduktion ist natürlich eines, das auf Profit aus
 
 Wer sich jetzt denkt, dass durch den Kauf von Bio-Fleisch aus bester Haltungsstufe den Tieren ein schönes Leben beschert wird, täuscht sich leider. Hier leben die Tiere ebenfalls nicht auf grünen Wiesen mit unendlich viel Platz wie wir uns das gerne vorstellen, sondern haben marginal verbesserte Haltungskriterien. Dennoch werden den Tieren ihre neugeborenen Kälber entrissen, sie müssen in ihren eigenen Exkrementen leben und leiden unter etlichen Krankheiten. Säue werden in sogenannten »Abferkelgittern« fixiert und können sich nicht bewegen, Hühner werden eng nebeneinander auf Stangen in Regalen gehalten, weshalb sie sich gegenseitig verletzen.
 
-```
-Zur Veranschaulichung kann man den Beitrag der Animal Rights Watch ARIWA zur BIO-Haltung von Tieren ansehen.
-Disclaimer: Niemand zwingt euch, dieses Video anzusehen. Wenn ihr die Bilder nicht ertragen könnt, schaut es euch nicht an. Trifft dies zu, habt ihr einen Grund mehr, keine tierischen Produkte zu konsumieren. https://www.youtube.com/watch?v=idQyocRKzYw
-```
+
+*Zur Veranschaulichung kann man den Beitrag der Animal Rights Watch ARIWA zur BIO-Haltung von Tieren ansehen.
+Disclaimer: Niemand zwingt euch, dieses Video anzusehen. Wenn ihr die Bilder nicht ertragen könnt, schaut es euch nicht an. Trifft dies zu, habt ihr einen Grund mehr, keine tierischen Produkte zu konsumieren. https://www.youtube.com/watch?v=idQyocRKzYw*
+
 
 Unabhängig der Haltungsform oder -stufe ist die Schlachtung des Tieres für die Fleischindustrie der einzige Grund für deren Existenz. Für die Tiere, die nicht vorher schon verendet sind, geht es in einem riesigen Wagen zum Schlachthof. Sie werden eng zusammengepfercht, erleiden Stress, Angst und Schmerzen. Sie hören, wie ihre Artgenossen Todesangst haben, erleben ihren Tod mit, bevor sie selbst an der Reihe sind.
 Sie werden entweder mit einem Bolzenschuss, durch Gas oder Strom betäubt, bevor sie letztendlich ihren Hals aufgeschlitzt bekommen, um auszubluten.
@@ -87,10 +87,9 @@ Aber auch die Mutterkuh leidet nach der Geburt des Kalbes weiterhin. Sie wurden 
 So schön die Vorstellung von glücklichen Kühen ist, deren Milch wir nur dann nehmen, wenn sie für den Bedarf ihres Kalbes zu viel produziert hat, so grausam ist die Realität.
 Grundsätzlich verantworten wir durch den Kauf von Milch, Käse und anderen Milchprodukten das qualvolle Leben und den Tod von Lebewesen die nicht sterben wollen. 
 
-```
-Zur Veranschaulichung kann man den Beitrag der Animal Rights Watch ARIWA zur Milchproduktion von Kühen ansehen.
-Disclaimer: Niemand zwingt euch, dieses Video anzusehen. Wenn ihr die Bilder nicht ertragen könnt, schaut es euch nicht an. Trifft dies zu, habt ihr einen Grund mehr, keine tierischen Produkte zu konsumieren. https://www.youtube.com/watch?v=2LvYOZXyIYs
-```
+*Zur Veranschaulichung kann man den Beitrag der Animal Rights Watch ARIWA zur Milchproduktion von Kühen ansehen.
+Disclaimer: Niemand zwingt euch, dieses Video anzusehen. Wenn ihr die Bilder nicht ertragen könnt, schaut es euch nicht an. Trifft dies zu, habt ihr einen Grund mehr, keine tierischen Produkte zu konsumieren. https://www.youtube.com/watch?v=2LvYOZXyIYs*
+
 
 ## Eier
 
@@ -109,10 +108,8 @@ Unabhängig der Haltungsform oder -stufe ist der Profit durch die Eierproduktion
 
 Grundsätzlich verantworten wir durch den Kauf von Eiern das qualvolle Leben und den Tod von Lebewesen die nicht sterben wollen. 
 
-```
-Zur Veranschaulichung kann man den Beitrag der Animal Rights Watch ARIWA zur Eierproduktion von BIO-Hühnen ansehen.
-Disclaimer: Niemand zwingt euch, dieses Video anzusehen. Wenn ihr die Bilder nicht ertragen könnt, schaut es euch nicht an. Trifft dies zu, habt ihr einen Grund mehr, keine tierischen Produkte zu konsumieren. https://www.youtube.com/watch?v=YPWv0sxRogQ 
-```
+*Zur Veranschaulichung kann man den Beitrag der Animal Rights Watch ARIWA zur Eierproduktion von BIO-Hühnen ansehen.
+Disclaimer: Niemand zwingt euch, dieses Video anzusehen. Wenn ihr die Bilder nicht ertragen könnt, schaut es euch nicht an. Trifft dies zu, habt ihr einen Grund mehr, keine tierischen Produkte zu konsumieren. https://www.youtube.com/watch?v=YPWv0sxRogQ*
 
 <center>
 ### Wir wissen, dass eine vegane Lebensweise besser ist.
