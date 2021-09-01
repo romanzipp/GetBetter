@@ -17,6 +17,14 @@
 .bg-rounded {
     background-image: url('~/static/rounded.svg');
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: bottom center;
     background-size: 100% auto;
+}
+
+@media (min-width: 1024px) {
+    .bg-rounded {
+        background-image: url('~/static/rounded-flat.svg');
+        background-position: center;
+        background-size: 105% auto;
+    }
 }
