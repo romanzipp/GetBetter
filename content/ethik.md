@@ -112,12 +112,14 @@ Grundsätzlich verantworten wir durch den Kauf von Eiern das qualvolle Leben und
 Disclaimer: Niemand zwingt euch, dieses Video anzusehen. Wenn ihr die Bilder nicht ertragen könnt, schaut es euch nicht an. Trifft dies zu, habt ihr einen Grund mehr, keine tierischen Produkte zu konsumieren. https://www.youtube.com/watch?v=YPWv0sxRogQ*
 
 <center>
-### Wir wissen, dass eine vegane Lebensweise besser ist.
-### Besser für die Gesundheit.
-### Besser für den Planeten.
-### Besser für die Menschen.
-### Besser für die Tiere.
-### Wir haben täglich die Entscheidung, ob wir tierische Produkte konsumieren, oder nicht.
+Wir wissen, dass eine vegane Lebensweise besser ist.
+
+Besser für die Gesundheit.
+Besser für den Planeten.
+Besser für die Menschen.
+Besser für die Tiere.
+
+Wir haben täglich die Entscheidung, ob wir tierische Produkte konsumieren, oder nicht.
 </center>  
 
 ### Quellen:
