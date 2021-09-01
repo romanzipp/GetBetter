@@ -68,16 +68,28 @@ export default {
     }),
 
     mounted() {
-        console.log(this.document);
-        const headings = this.$refs.content.$el.querySelectorAll('h1,h2,h3,h4');
+        for (const el of this.document.body.children) {
+            if (!el.tag || !el.children) {
+                continue;
+            }
 
-        headings.forEach((el) => {
-            this.anchors.push({
-                id: el.getAttribute('id'),
-                title: el.innerText,
-                depth: parseInt(el.tagName.replace('H', ''), 10),
+            if (el.tag[0] !== 'h') {
+                continue;
+            }
+
+            let title = null;
+            el.children.forEach((child) => {
+                if (child.type === 'text') {
+                    title = child.value;
+                }
             });
-        });
+
+            this.anchors.push({
+                id: el.props.id,
+                title,
+                depth: parseInt(el.tag[1], 10),
+            });
+        }
     },
 
     methods: {

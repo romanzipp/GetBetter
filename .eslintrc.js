@@ -21,6 +21,7 @@ module.exports = {
         'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
         'no-console': 'off',
         'no-shadow': 'off', // Investigate
+        'no-continue': 'off',
         'no-alert': 'off', // TODO
         'no-param-reassign': 'off',
         'no-restricted-syntax': 'off',
