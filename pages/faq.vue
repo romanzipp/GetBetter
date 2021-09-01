@@ -1,8 +1,6 @@
 <template>
 
-    <article class="prose prose-green mx-auto">
-        <nuxt-content :document="page" />
-    </article>
+    <Content :document="page" />
 
 </template>
 

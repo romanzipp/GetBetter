@@ -1,6 +1,7 @@
 /* eslint-disable global-require */
 
 module.exports = {
+    mode: 'jit',
     purge: {
         content: [
             'content/**/**.md',
@@ -24,6 +25,9 @@ module.exports = {
         extend: {
             borderWidth: {
                 16: '16px',
+            },
+            maxWidth: {
+                prose: '65ch',
             },
             colors: {
                 green: {
