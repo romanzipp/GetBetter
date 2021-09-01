@@ -24,12 +24,10 @@ Durch unseren wissenschaftlichen Fortschritt sind wir mittlerweile an dem Punkt 
 Wir wissen also, dass wir, ohne Tiere ausbeuten und schlachten zu müssen, all unsere Nährstoffe decken könnten. Wir wissen, dass wir unseren Planeten entlasten können, wenn wir keine tierischen Produkte konsumieren. Wir wissen, dass wir mehr Menschen mit pflanzlicher Ernährung versorgen könnten. Wir wissen, dass wir damit das Risiko auf weitere Pandemien deutlich verringern könnten.
 
 > Wir wissen, dass eine vegane Lebensweise besser ist.
->
 > Besser für die Gesundheit.
 > Besser für den Planeten.
 > Besser für die Menschen.
 > Besser für die Tiere.
->
 > Wir haben täglich die Entscheidung, ob wir tierische Produkte konsumieren, oder nicht.
 
 
@@ -113,16 +111,16 @@ Disclaimer: Niemand zwingt euch, dieses Video anzusehen. Wenn ihr die Bilder nic
 
 <center>
 Wir wissen, dass eine vegane Lebensweise besser ist.
-
+   
 Besser für die Gesundheit.
 Besser für den Planeten.
 Besser für die Menschen.
 Besser für die Tiere.
-
+    
 Wir haben täglich die Entscheidung, ob wir tierische Produkte konsumieren, oder nicht.
 </center>  
 
-### Quellen:
+## Quellen:
 [^1]: https://albert-schweitzer-stiftung.de/aktuell/schlachtzahlen-2020
 [^2]: https://www.geo.de/natur/oekologie/3331-rtkl-massentierhaltung-herzinfarkt-auf-dem-bauernhof
 [^3]: https://www.peta.de/wp-content/uploads/2020/11/PETA_Milchkuehe_15-04-29.pdf
