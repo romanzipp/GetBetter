@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'Kazimir';
+    font-weight: 900;
+    font-style: italic;
+    src: url('~/assets/fonts/kazimir-font-family/Kazimir Black Italic.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    font-weight: 900;
+    src: url('~/assets/fonts/kazimir-font-family/Kazimir Black.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    font-weight: 700;
+    font-style: italic;
+    src: url('~/assets/fonts/kazimir-font-family/Kazimir Bold Italic.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    font-weight: 700;
+    src: url('~/assets/fonts/kazimir-font-family/Kazimir Bold.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    font-weight: 400;
+    font-style: italic;
+    src: url('~/assets/fonts/kazimir-font-family/Kazimir Italic.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    font-weight: 300;
+    font-style: italic;
+    src: url('~/assets/fonts/kazimir-font-family/Kazimir Light Italic.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    font-weight: 300;
+    src: url('~/assets/fonts/kazimir-font-family/Kazimir Light.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    font-weight: 500;
+    font-style: italic;
+    src: url('~/assets/fonts/kazimir-font-family/Kazimir Medium Italic.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    font-weight: 500;
+    src: url('~/assets/fonts/kazimir-font-family/Kazimir Medium.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    font-weight: 400;
+    src: url('~/assets/fonts/kazimir-font-family/Kazimir.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    font-weight: 900;
+    src: url('~/assets/fonts/Brandon-Grotesque-Font-Family/brandon-grotesque-black.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    font-weight: 700;
+    font-style: italic;
+    src: url('~/assets/fonts/Brandon-Grotesque-Font-Family/brandon-grotesque-bold-italic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    font-weight: 300;
+    font-style: italic;
+    src: url('~/assets/fonts/Brandon-Grotesque-Font-Family/brandon-grotesque-light-italic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    font-weight: 300;
+    src: url('~/assets/fonts/Brandon-Grotesque-Font-Family/brandon-grotesque-light.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    font-weight: 500;
+    font-style: italic;
+    src: url('~/assets/fonts/Brandon-Grotesque-Font-Family/brandon-grotesque-medium-italic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    font-weight: 400;
+    font-style: italic;
+    src: url('~/assets/fonts/Brandon-Grotesque-Font-Family/brandon-grotesque-regular-italic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    font-weight: 100;
+    font-style: italic;
+    src: url('~/assets/fonts/Brandon-Grotesque-Font-Family/brandon-grotesque-thin-italic.otf') format('opentype');
+}
