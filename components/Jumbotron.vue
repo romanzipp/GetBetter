@@ -4,7 +4,7 @@
 
         <div class="container mx-auto">
 
-            <div class="font-serif font-medium text-6xl md:text-8xl text-green-800">
+            <div class="font-serif italic text-6xl md:text-8xl">
                 Get Better
             </div>
 

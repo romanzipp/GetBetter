@@ -1,6 +1,10 @@
 <template>
 
-    <article class="max-w-prose mx-auto">
+    <article class="mt-0 md:-mt-16 max-w-prose mx-auto">
+
+        <h1 class="mb-12 text-center text-5xl md:text-8xl text-green-800 font-normal font-sans">
+            {{ document.title }}
+        </h1>
 
         <div v-if="showNav && anchors.length > 0"
              @click="showNav = false"

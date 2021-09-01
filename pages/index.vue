@@ -14,7 +14,7 @@
             <div :class="index === 1 ? 'order-1 md:order-1' : 'order-2'"
                  class="flex flex-col p-8 space-y-6 md:space-y-8">
 
-                <h1 class="text-5xl md:text-8xl font-sans">
+                <h1 class="text-5xl md:text-8xl text-green-800 font-normal font-sans">
                     {{ link.title }}
                 </h1>
 
