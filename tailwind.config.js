@@ -37,10 +37,45 @@ module.exports = {
                     900: '#254e19',
                 },
             },
+            typography: (theme) => ({
+                DEFAULT: {
+                    css: {
+                        h1: {
+                            'text-align': 'center',
+                            'font-size': theme('fontSize.5xl'),
+                            'font-weight': theme('fontWeight.bold'),
+                            'margin-top': theme('margin.8'),
+                            'margin-bottom': theme('margin.6'),
+                        },
+                        h2: {
+                            'font-size': theme('fontSize.4xl'),
+                            'margin-top': theme('margin.6'),
+                            'margin-bottom': theme('margin.4'),
+                        },
+                        h3: {
+                            'font-size': theme('fontSize.3xl'),
+                            'margin-top': theme('margin.6'),
+                            'margin-bottom': theme('margin.4'),
+                        },
+                        h4: {
+                            'font-size': theme('fontSize.2xl'),
+                            'margin-top': theme('margin.6'),
+                            'margin-bottom': theme('margin.4'),
+                        },
+                        h5: {
+                            'font-size': theme('fontSize.xl'),
+                            'margin-top': theme('margin.6'),
+                            'margin-bottom': theme('margin.4'),
+                        },
+                    },
+                },
+            }),
         },
     },
     variants: {
         extend: {},
     },
-    plugins: [],
+    plugins: [
+        require('@tailwindcss/typography'),
+    ],
 };
