@@ -50,6 +50,29 @@ land use.” (11) - Stehfest, E.
 
 “Total emissions from global livestock: 7.1 Gigatonnes of Co2-equiv per year, representing 14.5 percent of all anthropogenic GHG emissions.” (12) - Food and Agriculture Organization of the United Nations (FAO)
 
+
+# Vitamin B12
+
+Denkt daran, dass die angegebenen Daten, Informationen und Empfehlungen Durchschnittswerte sind. Alter, Krankheiten und besondere Umstände können erhebliche Abweichungen begünstigen. Bei Unsicherheiten wendet euch an den*die Ärzt*in eures Vertrauens.
+
+
+
+
+## Was ist B12?
+
+Vitamin B12 ist ein Coenzym (1) welches in Wechselwirkung mit dem Intrinsischen Faktor (einem Protein, welches unser Körper selbst produziert) (2) unter anderem zur Blutbildung beiträgt und für ein funktionsfähiges Nervensystem sorgt. (3)
+Menschen selbst können kein B12 herstellen, deshalb sind wir darauf angewiesen, B12 aus externen Quellen zu uns nehmen. (4)
+
+
+
+
+
+## Woher bekomme ich B12?
+
+B12 findet man, jedenfalls in nennenswerten Mengen, nur in tierischen Produkten. (4)
+Jedoch ist B12 weder tierischem, noch pflanzlichem, sondern rein bakteriellen Ursprungs. (15) Diese Bakterien konnte man im Grundwasser genauso wie im Boden finden. Durch den Wandel unserer Lebensweise und den immer hygienischer werdenden Vorgängen, genauso wie durch mehr Pestizide, werden diese Bakterien, mit anderen durchaus gefährlichen Bakterien, abgetötet. (5) (8)
+Für alle Veganer*innen und einige Vegetarier*innen ist es also absolut notwendig Vitamin B12 durch eine Nahrungsergänzung zuzuführen. (6)
+
 # Dingsbums
 
 Here's a simple footnote,[^1]
