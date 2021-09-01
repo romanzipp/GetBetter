@@ -23,13 +23,13 @@ Durch unseren wissenschaftlichen Fortschritt sind wir mittlerweile an dem Punkt 
 
 Wir wissen also, dass wir, ohne Tiere ausbeuten und schlachten zu müssen, all unsere Nährstoffe decken könnten. Wir wissen, dass wir unseren Planeten entlasten können, wenn wir keine tierischen Produkte konsumieren. Wir wissen, dass wir mehr Menschen mit pflanzlicher Ernährung versorgen könnten. Wir wissen, dass wir damit das Risiko auf weitere Pandemien deutlich verringern könnten.
 
-> Wir wissen, dass eine vegane Lebensweise besser ist.
-> Besser für die Gesundheit.
-> Besser für den Planeten.
-> Besser für die Menschen.
-> Besser für die Tiere.
-> Wir haben täglich die Entscheidung, ob wir tierische Produkte konsumieren, oder nicht.
+<div class="quote">
+Wir wissen, dass eine vegane Lebensweise besser ist.
 
+Besser für die Gesundheit.<br>Besser für den Planeten.<br>Besser für die Menschen.<br>Besser für die Tiere.
+
+Wir haben täglich die Entscheidung, ob wir tierische Produkte konsumieren, oder nicht.    
+</div>
 
 ## Fleisch
 

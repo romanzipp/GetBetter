@@ -33,6 +33,17 @@ body {
     }
 }
 
-.nuxt-content > h1:first-child {
-    margin-top: 0 !important;
+.nuxt-content {
+    &> h1:first-child {
+        margin-top: 0 !important;
+    }
+
+    .quote {
+        @apply mt-8;
+        @apply font-serif;
+        @apply text-xl;
+        @apply italic;
+        @apply text-center;
+        @apply font-light;
+    }
 }
