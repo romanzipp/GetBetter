@@ -105,33 +105,33 @@ Diesen Beitrag können wir täglich leisten, für unsere Gesundheit, die Tiere u
 <mark>*»Eine vegane Ernährung ist wahrscheinlich die effektivste Weise den eigenen ökologischen Fußabdruck zu reduzieren und das nicht nur in Bezug auf Treibhausgase sondern auch auf die weltweite Übersäuerung der Böden, die Überdüngung sowie die Land- und Wassernutzung.«* - Poore, Joseph. Leiter der Oxfordstudie »Reducing food's environmental impacts through producers and consumers«[^28] aus einem Interview mit *The Guardian*[^30]</mark>
 
 # Quellen 
-[^1]: https://www.stern.de/wirtschaft/news/fleisch--massentierhaltung-in-echtzeit---zu-viel-von-allem-6522504.html
-[^2]: https://www.geo.de/natur/oekologie/3331-rtkl-massentierhaltung-herzinfarkt-auf-dem-bauernhof
-[^3]: https://albert-schweitzer-stiftung.de/aktuell/schlachtzahlen-2020
-[^4]: https://www.bmel.de/DE/themen/tiere/tierschutz/tierwohl-forschung-in-ovo.html
-[^5]: https://www-genesis.destatis.de/genesis//online?operation=table&code=41362-0001&bypass=true&levelindex=0&levelid=1630279383336#abreadcrumb 
-[^6]: https://www.bund.net/fileadmin/user_upload_bund/publikationen/massentierhaltung/massentierhaltung_fleischatlas_2018.pdf (Seite 10 von 52)
-[^7]: https://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/Klimawandel_auf_dem_Teller.pdf
-[^8]: https://bildungsserver.hamburg.de/atmosphaere-und-treibhauseffekt/2069648/treibhauseffekt-natuerlich-artikel/
-[^9]: https://bildungsserver.hamburg.de/atmosphaere-und-treibhauseffekt/2069650/treibhauseffekt-anthropogen-artikel/
-[^10]: https://www.pbl.nl/sites/default/files/downloads/Protein_Puzzle_web_1.pdf
-[^11]: https://foodethics.univie.ac.at/fileadmin/user_upload/p_foodethik/Stehfest__E._Netherlands_Enviro_Ass._Agency_2009._Climate_and_diet.pdf
-[^12]: http://www.fao.org/news/story/en/item/197623/icode/
-[^13]: https://www.regenwald-schuetzen.org/verbrauchertipps/soja-und-fleischkonsum/fleischkonsum-und-regenwald
-[^14]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2373903/
-[^15]: https://ourworldindata.org/land-use
-[^16]: https://www.pbl.nl/sites/default/files/downloads/Protein_Puzzle_web_1.pdf (Seite 16 in digitaler Ansicht, Seite 14 laut Nummerierung des Papers)  
-[^17]: https://www.ingenieur.de/technik/fachbereiche/umwelt/monokulturen-in-landwirtschaft-senken-artenvielfalt-tieren-pflanzen/
-[^18]: https://www.regenwald-schuetzen.org/verbrauchertipps/soja-und-fleischkonsum/die-komplexen-folgen-der-massentierhaltung
-[^19]: http://www.fao.org/3/i9540en/i9540en.pdf (Seite 6)
-[^20]: https://www.bfr.bund.de/de/zoonosen.html
-[^21]: http://www.fao.org/Newsroom/en/news/2007/1000660/index.html
-[^22]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629502/
-[^23]: https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1005&context=sota_2007
-[^24]: https://www.bund.net/massentierhaltung/antibiotika/
-[^25]: https://ourworldindata.org/antibiotic-resistance-from-livestock
-[^26]: https://www.duh.de/fileadmin/user_upload/download/Pressemitteilungen/Naturschutz/Landwirtschaft/Hintergrundpapier_Putenfleischproben_final_01.pdf
-[^27]: https://www.tagesschau.de/inland/gzwanzig-antibiotika-101.html
-[^28]: http://science.sciencemag.org/content/360/6392/987.long
-[^29]: https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900
-[^30]: https://www.theguardian.com/environment/2018/may/31/avoiding-meat-and-dairy-is-single-biggest-way-to-reduce-your-impact-on-earth 
+[^1]: (1) https://www.stern.de/wirtschaft/news/fleisch--massentierhaltung-in-echtzeit---zu-viel-von-allem-6522504.html
+[^2]: (2) https://www.geo.de/natur/oekologie/3331-rtkl-massentierhaltung-herzinfarkt-auf-dem-bauernhof
+[^3]: (3) https://albert-schweitzer-stiftung.de/aktuell/schlachtzahlen-2020
+[^4]: (4) https://www.bmel.de/DE/themen/tiere/tierschutz/tierwohl-forschung-in-ovo.html
+[^5]: (5) https://www-genesis.destatis.de/genesis//online?operation=table&code=41362-0001&bypass=true&levelindex=0&levelid=1630279383336#abreadcrumb 
+[^6]: (6) https://www.bund.net/fileadmin/user_upload_bund/publikationen/massentierhaltung/massentierhaltung_fleischatlas_2018.pdf (Seite 10 von 52)
+[^7]: (7) https://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/Klimawandel_auf_dem_Teller.pdf
+[^8]: (8) https://bildungsserver.hamburg.de/atmosphaere-und-treibhauseffekt/2069648/treibhauseffekt-natuerlich-artikel/
+[^9]: (9) https://bildungsserver.hamburg.de/atmosphaere-und-treibhauseffekt/2069650/treibhauseffekt-anthropogen-artikel/
+[^10]: (10) https://www.pbl.nl/sites/default/files/downloads/Protein_Puzzle_web_1.pdf
+[^11]: (11) https://foodethics.univie.ac.at/fileadmin/user_upload/p_foodethik/Stehfest__E._Netherlands_Enviro_Ass._Agency_2009._Climate_and_diet.pdf
+[^12]: (12) http://www.fao.org/news/story/en/item/197623/icode/
+[^13]: (13) https://www.regenwald-schuetzen.org/verbrauchertipps/soja-und-fleischkonsum/fleischkonsum-und-regenwald
+[^14]: (14) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2373903/
+[^15]: (15) https://ourworldindata.org/land-use
+[^16]: (16) https://www.pbl.nl/sites/default/files/downloads/Protein_Puzzle_web_1.pdf (Seite 16 in digitaler Ansicht, Seite 14 laut Nummerierung des Papers)  
+[^17]: (17) https://www.ingenieur.de/technik/fachbereiche/umwelt/monokulturen-in-landwirtschaft-senken-artenvielfalt-tieren-pflanzen/
+[^18]: (18) https://www.regenwald-schuetzen.org/verbrauchertipps/soja-und-fleischkonsum/die-komplexen-folgen-der-massentierhaltung
+[^19]: (19) http://www.fao.org/3/i9540en/i9540en.pdf (Seite 6)
+[^20]: (20) https://www.bfr.bund.de/de/zoonosen.html
+[^21]: (21) http://www.fao.org/Newsroom/en/news/2007/1000660/index.html
+[^22]: (22) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629502/
+[^23]: (23) https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1005&context=sota_2007
+[^24]: (24) https://www.bund.net/massentierhaltung/antibiotika/
+[^25]: (25) https://ourworldindata.org/antibiotic-resistance-from-livestock
+[^26]: (26) https://www.duh.de/fileadmin/user_upload/download/Pressemitteilungen/Naturschutz/Landwirtschaft/Hintergrundpapier_Putenfleischproben_final_01.pdf
+[^27]: (27) https://www.tagesschau.de/inland/gzwanzig-antibiotika-101.html
+[^28]: (28) http://science.sciencemag.org/content/360/6392/987.long
+[^29]: (29) https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900
+[^30]: (30) https://www.theguardian.com/environment/2018/may/31/avoiding-meat-and-dairy-is-single-biggest-way-to-reduce-your-impact-on-earth 
