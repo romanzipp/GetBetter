@@ -58,6 +58,7 @@ export default {
     props: {
         document: {
             required: true,
+            type: Object,
         },
     },
 
@@ -68,6 +69,7 @@ export default {
     }),
 
     mounted() {
+        console.log(this.document.title);
         for (const el of this.document.body.children) {
             if (!el.tag || !el.children) {
                 continue;
