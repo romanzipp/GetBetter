@@ -49,3 +49,16 @@ counts for 18% of the greenhouse gas emissions and for 80% of total anthropogeni
 land use.” (11) - Stehfest, E.
 
 “Total emissions from global livestock: 7.1 Gigatonnes of Co2-equiv per year, representing 14.5 percent of all anthropogenic GHG emissions.” (12) - Food and Agriculture Organization of the United Nations (FAO)
+
+# Dingsbums
+
+Here's a simple footnote,[^1]
+Here's a simple footnote,[^2]
+
+Unter Treibhausgasemissionen versteht man die Gase in der Atmosphäre, die für den Treibhauseffekt verantwortlich sind.
+Beim Treibhauseffekt unterscheidet man zwischen dem natürlichen Treibhauseffekt, welcher absolut notwendig für menschliches Leben auf dem Planeten ist, da dieser einen durchschnittlichen Temperaturanstieg der Erde von -18° auf +15° (8) möglich macht, und dem anthropologischen Treibhauseffekt, also den menschengemachten Treibhauseffekt, welcher zusätzliche Treibhausgase emittiert und den natürlichen Treibhauseffekt massiv verstärkt. (9)
+
+# Fußnoten
+
+[^1]: This is the first footnote.
+[^2]: This is the second footnote.
