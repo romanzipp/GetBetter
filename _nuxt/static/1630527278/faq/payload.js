@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/faq", {data:[{}],fetch:{"0":{page:{slug:"faq",description:"...",title:"FAQ",toc:[],body:{type:"root",children:[]},dir:"\u002F",path:"\u002Ffaq",extension:".md",createdAt:"2021-09-01T20:13:37.385Z",updatedAt:"2021-09-01T20:13:37.389Z"}}},mutations:void 0});
