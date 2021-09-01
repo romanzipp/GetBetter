@@ -68,6 +68,7 @@ export default {
     }),
 
     mounted() {
+        console.log(this.document);
         const headings = this.$refs.content.$el.querySelectorAll('h1,h2,h3,h4');
 
         headings.forEach((el) => {
@@ -77,8 +78,6 @@ export default {
                 depth: parseInt(el.tagName.replace('H', ''), 10),
             });
         });
-
-        console.log(headings);
     },
 
     methods: {
