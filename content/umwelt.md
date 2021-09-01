@@ -67,7 +67,7 @@ Menschen selbst können kein B12 herstellen, deshalb sind wir darauf angewiesen,
 
 
 
-## Woher bekomme ich B12?
+## Woher bekomme ich B12? indands dadsadasds a
 
 B12 findet man, jedenfalls in nennenswerten Mengen, nur in tierischen Produkten. (4)
 Jedoch ist B12 weder tierischem, noch pflanzlichem, sondern rein bakteriellen Ursprungs. (15) Diese Bakterien konnte man im Grundwasser genauso wie im Boden finden. Durch den Wandel unserer Lebensweise und den immer hygienischer werdenden Vorgängen, genauso wie durch mehr Pestizide, werden diese Bakterien, mit anderen durchaus gefährlichen Bakterien, abgetötet. (5) (8)

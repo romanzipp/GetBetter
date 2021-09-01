@@ -19,13 +19,15 @@
                 </div>
 
                 <div v-for="anchor in anchors"
-                     :style="{ paddingLeft: `${(anchor.depth - 1) * 8}px` }"
-                     :key="anchor.id">
+                     :style="{ paddingLeft: `${(anchor.depth - 1) * 10}px` }"
+                     :key="anchor.id"
+                     class="truncate">
 
                     <a :href="`#${anchor.id}`"
                        @click="jumpTo(anchor)"
-                       class="text-black hover:text-green-700 no-underline!important">
-                        {{ anchor.depth }} - {{ anchor.title }}
+                       :class="{ 'text-sm': anchor.depth > 1 }"
+                       class="text-black hover:text-green-700 no-underline!important truncate">
+                        {{ anchor.title }}
                     </a>
 
                 </div>
