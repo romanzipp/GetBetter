@@ -28,6 +28,7 @@ module.exports = {
             },
             maxWidth: {
                 prose: '65ch',
+                landing: '95ch',
             },
             colors: {
                 green: {

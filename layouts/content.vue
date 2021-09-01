@@ -23,13 +23,3 @@
     </div>
 
 </template>
-
-<script>
-import links from '~/mixins/links';
-
-export default {
-    mixins: [
-        links,
-    ],
-};
-</script>
