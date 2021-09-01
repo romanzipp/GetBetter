@@ -6,7 +6,7 @@
 
         <div class="flex-grow flex flex-col">
 
-            <div class="h-32 bg-rounded" />
+            <div class="hidden md:block h-32 bg-rounded" />
 
             <div class="flex-grow flex flex-col justify-between bg-green-100 -mt-px">
 

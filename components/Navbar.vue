@@ -1,8 +1,8 @@
 <template>
 
-    <div class="flex justify-center p-6 space-x-16">
+    <div class="flex flex-wrap justify-center p-6 space-x-0 md:space-x-16">
 
-        <div class="flex-1 flex items-center justify-end space-x-4">
+        <div class="order-2 md:order-1 flex-1 flex items-center justify-center md:justify-end space-x-4">
 
             <router-link v-for="link in links"
                          :key="link.url"
@@ -13,13 +13,14 @@
 
         </div>
 
-        <router-link to="/">
+        <router-link to="/"
+                     class="order-1 md:order-2">
             <img src="/get_better_logo_transparent.png"
                  class="h-32"
                  alt="Logo">
         </router-link>
 
-        <div class="flex-1 flex items-center justify-start space-x-4">
+        <div class="order-3 md:order-3 flex-1 flex items-center justify-center md:justify-start space-x-4">
 
             <router-link to="/"
                          class="px-4 py-2 tracking-wide text-xl font-sans leading-normal hover:text-green-700">
