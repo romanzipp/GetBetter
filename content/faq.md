@@ -184,7 +184,7 @@ Vegane Produktvorschläge:
     Wo bekomme ich mein Eisen her? Welche Pflanzen enthalten einen hohen Eisenwert?
 </summary>
 
-Dazu gibt es eine übersichtliche Tabelle im Bereich [Ernährung -> Protein](/ernaehrung/#protein)
+Dazu gibt es hier eine [übersichtliche Tabelle](https://greencanteen.stuvus.uni-stuttgart.de/wp-content/uploads/2020/10/image2020-6-23_22-9-29-768x687.png)
 </details>
 
 <details>
@@ -298,7 +298,7 @@ Tatsächlich ist es, wenn man nicht gerade in einer Großstadt lebt, schwierig �
     Wo befinden sich versteckte tierische Produkte, die man ohne Hintergrundwissen gar nicht eindeutig als tierische Produkte erkennt?
 </summary>
 
-Tatsächlich leider überall. Deswegen ist es wichtig, dass man sich damit auseinandersetzt, Hilfe bekommt, oder sich Hilfsmittel wie eine App zur Erkennung holt.
+Tatsächlich leider überall. Deswegen ist es wichtig, dass man sich damit auseinandersetzt, Hilfe bekommt, oder sich Hilfsmittel wie eine App zur Erkennung holt. Eine Übersicht findest du im Bereich [Inhaltsstoffe](/ernaehrung/#inhaltsstoffe)
 </details>
 
 <details>
