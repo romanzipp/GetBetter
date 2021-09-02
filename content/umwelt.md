@@ -59,13 +59,16 @@ Würden hier also, ganz hypothetisch, alle Menschen vegan Leben, würde sehr vie
 
 # Flächenverbrauch
 
-Quelle:[^15] https://ourworldindata.org/land-use 
+Die Erdoberfläche besteht aus 71% Wasser und 29% Land. Von den gesamten Landfläche sind 10% Gletscher, 19% Ödland und nur 71% überhaupt Habitables Land. (Landfläche, die vom Menschen bewohn-, besiedel- oder nutzbar ist)[^15]
+Von all dem Land was wir potentiell bewohnen, besiedeln oder nutzen können sind 37% Wälder, 11% Steppe, 1% sind Flüsse und Seen und wieder 1% sind bebaute Fläche. Die restlichen 50% werden für die Landwirtschaft genutzt. Ganze 77% dieser landwirtschaftlich genutzten Fläche wird nur für die »Nutztier«-haltung belegt. Diese Flächen könnten sehr viel effizienter genutzt werden, was auch die Anzahl der globalen Kalorienversorgung zeigt, denn nur 18% der gesamten Kalorienversorgung kommt von tierischen Produkten.
 
-Wir sehen in der Darstellung, dass von dem gesamten potentiell bewohnbaren beziehungsweise vom Menschen nutzbaren Land die Hälfte für Landwirtschaft verwendet wird. **Davon wiederum werden 77% für die industrielle Massentierhaltung genutzt.** Diese Flächen könnten sehr viel effizienter genutzt werden, was auch die Anzahl der globalen Kalorienversorgung zeigt, denn nur 18% der gesamten Kalorienversorgung kommt von tierischen Produkten.
+Hingegen belegt der Ackerbau für pflanzliche Lebensmittel gerade einmal 23% der gesamten landwirtschaftlich genutzten Fläche, liefert aber gleichzeitig 82% der globalen Kalorienversorgung.
 
 Eine umfangreiche Studie der Oxford University mit 40.000 analysierten Agrarbetrieben in 119 Ländern hat ähnliche Daten veröffentlicht. Hier wurden 83% der landwirtschaftlich genutzten Fläche der Produktion von tierischen Produkten zugeschrieben, welche wiederum nur 18% aller Kalorien liefert. Desweiteren könnten ohne tierische Produkte die weltweiten Agrarflächen um 76% und die Treibhausgasemissionen der Nahrungsindustrie um 49% reduziert werden.[^28]
 
 *Wichtig: Nicht jede Fläche kann als Ackerland genutzt werden, da die Böden in vielen Fällen nicht nährstoffreich genug sind. Diese Fläche wird meistens als Weidefläche für Tiere genutzt oder mit massiven Einsatz von Düngemitteln zu Ackerfläche umgewandelt. Jedoch wäre es für unsere CO2 Bilanz das beste, wären mehr Flächen natürliche Vegetation wie Wälder oder Moore.*
+
+Würden wir nun die Produktion von tierischen Produkten reduzieren oder im besten Falle einstellen, würde eine riesige Fläche unseres Planeten wieder frei werden. Der Boden und die Wälder könnten sich regenerieren und nachwachsen und somit unseren CO2 Ausstoß senken.
 
 # Artensterben und Überfischung
 
