@@ -23,16 +23,10 @@ Das liegt daran, dass wir in einer omnivoren Ernährung durch das Fleisch bestim
 
 **Was sind möglicherweise kritische Nährstoffe in der (veganen) Ernährung?**
 
-<div class="flex items-center space-x-6">
-<img src="https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/kKGEb4t6JiSZPwX?x=1914&y=587&a=true&file=kritische_naehrstoffe.png" class="h-24">
-<div>
-TEXT
-</div>
-</div>
-https://cloud.brandsafe.cc/s/kKGEb4t6JiSZPwX [^2]
-+ Vitamin B12
-+ Vitamin D
-+ Jod
+Hier gibt es eine [Übersicht](https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/kKGEb4t6JiSZPwX?x=1914&y=587&a=true&file=kritische_naehrstoffe.png) zu den kritischen Nährstoffen, sortiert nach Wichtigkeit.[^2] Nachfolgend befassen wir uns näher mit folgenden:
++ **Vitamin B12**
++ **Vitamin D**
++ **Jod**
 
 Weitere möglicherweise kritische Nährstoffe in der (veganen) Ernährung, auf die bis jetzt im Detail noch nicht eingegangen wird, grundsätzlich aber nicht vernachlässigt werden sollten. Für den Einstieg in die Vegetarische oder Vegane Ernährung nicht von oberster Wichtigkeit.
 
@@ -43,7 +37,7 @@ Weitere möglicherweise kritische Nährstoffe in der (veganen) Ernährung, auf d
 + Eisen
 + Vitamin B2
 + Kalzium
-+ Protein
++ **Protein**
 + Energie
 + Lysin
 
