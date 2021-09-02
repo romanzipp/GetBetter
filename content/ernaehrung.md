@@ -231,6 +231,7 @@ Untersuchungen zeigen, dass die vegane Ernährungsweise im Vergleich zur Omnivor
 
 <mark>*»Vegetarian diets confer protection against cardiovascular diseases, cardiometabolic risk factors, some cancers and total mortality. Compared to lacto-ovo-vegetarian diets, vegan diets seem to offer additional protection for obesity, hypertension, type-2 diabetes, and cardiovascular mortality.«*[^41]</mark>
 <br>
+<br>
 <mark>*»High animal protein intake was positively associated with cardiovascular mortality and high plant protein intake was inversely associated with all-cause and cardiovascular mortality, especially among individuals with at least 1 lifestyle risk factor. Substitution of plant protein for animal protein, especially that from processed red meat, was associated with lower mortality, suggesting the importance of protein source.«*[^42]</mark>
 <br>
 <br>
@@ -271,6 +272,7 @@ Es kursieren viele Mythen rund um Soja. So zum Beispiel, dass Sojakonsum die Bru
 Es ist nachweislich nicht nur so, dass Sojakonsum in moderaten Mengen nicht nur keine negative Auswirkung auf das Brustkrebsrisiko hat, sondern Studien aus asiatischen Ländern zeigen, dass sogar ein geringeres Brustkrebsrisiko mit dem regelmäßigen, moderaten Konsum von Soja einhergeht, vor allem dann, wenn im jungen Alter schon Soja zu sich genommen wurde. 
 
 <mark>*»Results reviewed here suggest that women consuming moderate amounts of soy throughout their life have lower breast cancer risk than women who do not consume soy; however, this protective effect may originate from soy intake early in life.«*[^46]</mark><br>
+<br>
 <mark>*»Findings obtained in 2 recent human studies show that a moderate consumption of diet containing this isoflavone does not increase the risk of breast cancer recurrence in Western women, and Asian breast cancer survivors exhibit better prognosis if they continue consuming a soy diet«*[^46]</mark>
 
 **Soja und der Testosteronspiegel**
@@ -286,6 +288,7 @@ Laut Studien haben Isoflavone keinen Effekt auf einen zirkulierenden Östrogensp
 <mark>*»[...] there is essentially no evidence from the nine identified clinical studies that isoflavone exposure affects circulating estrogen levels in men. Clinical evidence also indicates that isoflavones have no effect on sperm or semen parameters [...]«*[^49]</mark><br>
 <br>
 <mark>*»We conclude that the phytoestrogen dose consumed had no effect on semen quality.«*[^50]</mark><br>
+<br>
 <mark>*»Consumption of soy protein of low or high isoflavone content does not adversely affect semen quality in a sample of healthy adult men.«*[^51]</mark>
 
 
@@ -563,17 +566,17 @@ Honig, Bienenwachs (E 901) (oftmals in Fruchtgummis oder als Wachsschicht über 
 
 **Besonders aufpassen bei:**
 + Fruchtgummis
-++ fast immer Gelatine, Bienenwachs (E 901),
-++ außerdem rote Farbe oftmals durch Karmin (E 120) (Zermahlene Schildläuse)
-++ oder Überzugsmittel Schellack (E 904) (Ausscheidungen von Lackschildläusen)
+++ fast immer Gelatine, Bienenwachs (E 901),    
+++ außerdem rote Farbe oftmals durch Karmin (E 120) (Zermahlene Schildläuse)    
+++ oder Überzugsmittel Schellack (E 904) (Ausscheidungen von Lackschildläusen)    
 + Schokolade
-++ fast immer mit Milch(pulver), Lecithin (E 322)
+++ fast immer mit Milch(pulver), Lecithin (E 322)    
 + Chips
-++ Oftmals Käsepulver, Milchpulver
+++ Oftmals Käsepulver, Milchpulver    
 + Brot und Backwaren
-++ oftmals L-Cystein (E 920) (tierische Borsten, Haare und/oder Federn) oder Milchpulver
+++ oftmals L-Cystein (E 920) (tierische Borsten, Haare und/oder Federn) oder Milchpulver    
 + Wein
-++ Fischblasen, Casein, Albumin oder Gelatine beim Klärungsvorgang
+++ Fischblasen, Casein, Albumin oder Gelatine beim Klärungsvorgang    
 
 Hier eine Sammlung an nicht veganen, oder möglicherweise\* nicht veganen E-Nummern:
 Nummer | Inhalt 
