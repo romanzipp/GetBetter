@@ -264,7 +264,7 @@ Die Sojabohne ist eine Leguminose oder auch Hülsenfrucht genannt. Soja enthält
 
 **Ist Soja ungesund?**
 
-Es kursieren viele Mythen rund um Soja. So zum Beispiel, dass Sojakonsum die Brustkrebswahrscheinlichkeit erhöhen, den Testosteronspiegel von Männern senken, die Spermienzahl verringern oder eine grundsätzlich negative Wirkung auf die Schilddrüse haben soll. Der kritischer Betrachtung der Daten- und Studienlage halten diese Mythen aber nicht stand, was nachfolgend belegt wird.
+Es kursieren viele Mythen rund um Soja. So zum Beispiel, dass Sojakonsum die Brustkrebswahrscheinlichkeit erhöhen, den Testosteronspiegel von Männern senken, die Spermienzahl verringern oder eine grundsätzlich negative Wirkung auf die Schilddrüse haben soll. Der kritischen Betrachtung der Daten- und Studienlage halten diese Mythen aber nicht stand, was nachfolgend belegt wird.
 
 **Soja und Brustkrebs**
 
