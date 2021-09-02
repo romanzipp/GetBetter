@@ -1,7 +1,7 @@
 <template>
 
     <div id="top"
-         class="flex flex-wrap flex-col lg:flex-row justify-center p-6 space-x-0 lg:space-x-16">
+         class="flex flex-wrap flex-col lg:flex-row justify-center p-2 lg:p-6 space-x-0 lg:space-x-16">
 
         <div class="order-2 lg:order-1 flex-1 flex items-center justify-center lg:justify-end space-x-4">
 
@@ -26,7 +26,7 @@
 
         </div>
 
-        <div class="order-3 lg:order-3 flex-1 flex items-center justify-center lg:justify-start space-x-4">
+        <div class="order-3 lg:order-3 flex-1 flex items-center justify-center lg:justify-start space-x-0 lg:space-x-4">
 
             <router-link to="/"
                          class="px-4 py-2 tracking-wide text-xl font-sans leading-normal hover:text-green-700">
