@@ -330,7 +330,7 @@ Vegane Produktbeispiele:
 + ALNATURA Räuchertofu
 
 <mark>Hinweis: Tofu schmeckt absolut neutral. Ihr solltet Naturtofu und Räuchertofu abtupfen, abtropfen oder auspressen um soviel Flüssigkeit wie möglich aus dem Tofu zu bekommen.
-Dann solltet ihr den Tofu marinieren und gegebenenfalls in mit Stärke bestäuben um ihn zu braten. Macht ihr das nicht, wird euch Tofu keinesfalls schmecken.</mark>
+Dann solltet ihr den Tofu marinieren und ihn gegebenenfalls mit Stärke bestäuben, um ihn zu braten. Macht ihr das nicht, wird euch Tofu keinesfalls schmecken.</mark>
 
 **Seitan**, auf Basis von Weizeneiweiß (Gluten)
 Schmeckt von allen Ersatzprodukten dem Fleisch am ähnlichsten, Fleischähnliche Konsistenz ähnlich wie Dönerfleisch oder Gyros, gut für Spieße, Burgerpattys und zum Grillen
