@@ -101,7 +101,7 @@ Als Veganer\*in ist es notwendig B12 durch ein Nahrungsergänzungsmittel (oder a
 
 Grundsätzlich gilt aber: Wenn du keine tierischen Produkte zu dir nimmst, ganz klar: **Ja.**[^8]
 
-Wenn du wenig tierische Produkte zu dir nimmst, solltest du dir bewusst sein, wieviel µg B12 du ca täglich zu dir nimmst. Nimmst du *wenig* zu dir, solltest du darüber nachdenken gelegentlich ein Präparat zu dir zu nehmen. 
+Wenn du wenig tierische Produkte zu dir nimmst, solltest du dir bewusst sein, wie viel µg B12 du ca täglich zu dir nimmst. Nimmst du *wenig* zu dir, solltest du darüber nachdenken gelegentlich ein Präparat zu dir zu nehmen. 
 
 <mark> Diese Supplements sind meistens sehr viel höher dosiert als die tägliche Zufuhrempfehlung.</mark>
 Das liegt daran, dass, wie wir wissen nur alle 4–6 Stunden jeweils 1,5 - 2µg B12 aufgenommen werden kann.[^14] Das B12 aus diesen Supplements wird also zu einem nicht unerheblichen Teil über die passive Diffusion aufgenommen.
@@ -148,7 +148,7 @@ Ein Mangel an Vitamin D kann bedeutsame Auswirkungen auf die Knochengesundheit h
 
 Zu den Risikogruppen gehören »Menschen, die sich kaum oder gar nicht im Freien aufhalten (können) oder - etwa aus kulturellen oder religiösen Gründen - nur mit gänzlich bedecktem Körper nach draußen gehen. Außerdem zählen zu den Risikogruppen Menschen mit einer dunklen Hautfarbe (hoher Gehalt an Melanin), da sie weniger Vitamin D bilden können als Menschen mit heller Haut. Eine weitere wichtige Risikogruppe sind ältere Menschen, da die Vitamin-D-Bildung im Alter deutlich abnimmt und es in der älteren Bevölkerung zusätzlich mobilitätseingeschränkte, chronisch kranke und pflegebedürftige Menschen gibt, die sich kaum oder gar nicht im Freien aufhalten (können). Außerdem zählen Säuglinge zu den Risikogruppen für eine Vitamin-D-Unterversorgung, da zum einen der Vitamin-D-Gehalt von Frauenmilch sehr gering ist und zum anderen Säuglinge grundsätzlich nicht einer direkten Sonnenbestrahlung ausgesetzt werden sollen, da sich ihr hauteigener Schutzmechanismus erst noch entwickeln muss.«[^21]
 
-**Wieviel Vitamin D am Tag?**
+**Wie viel Vitamin D am Tag?**
 
 Die DGE (Deutsche Gesellschaft für Ernährung) empfiehlt bei fehlender körpereigener Bildung 20µg pro Tag.[^22]
 
@@ -174,13 +174,13 @@ Jodiertes Speisesalz ist mit 15-25µg pro Gramm Salz eine gute Jodquelle.[^28] A
 
 Jodmangel kann zu einer Unterfunktion der Schilddrüse führen, was wiederum zum Beispiel zu Müdigkeit, Antriebslosigkeit, gesteigerten Schlafbedürfnis, Konzentrationsstörungen, Kälteempfindlichkeit etc. führen kann. Bei längerfristigem Jodmangel kann es zu einer Vergrößerung der Schilddrüse beziehungsweise zur Entwicklung eines Strumas (tastbare, sichtbare oder messbare Vergrößerung der Schilddrüse) kommen.[^30]
 
-**Wieviel Jod am Tag?**
+**Wie viel Jod am Tag?**
 
 Die DGE empfiehlt bei Erwachsenen 200µg Jod am Tag.[^26] Die kritische Dosis, ab der noch keine Mangelerscheinungen auftreten, liegt für eine tägliche Aufnahme bei 60–120µg.[^27]
 
 **Zusammenfassung**
 
-Durch den Verzehr von zum Beispiel jodiertem Speisesalz kann der tägliche Jodbedarf gedeckt werden. Wenn ihr euch bei eurer täglichen Jodzufuhr unsicher seid, wendet euch gegebenenfalls an Fachpersonal zur bestimmung eures Jodspiegels. Bei weiteren Fragen oder Unsicherheiten, fragt gerne im Discord (Mimi#2964) oder schreibt mir auf Twitter (https://twitter.com/heymibbi) 
+Durch den Verzehr von zum Beispiel jodiertem Speisesalz kann der tägliche Jodbedarf gedeckt werden. Wenn ihr euch bei eurer täglichen Jodzufuhr unsicher seid, wendet euch gegebenenfalls an Fachpersonal zur Bestimmung eures Jodspiegels. Bei weiteren Fragen oder Unsicherheiten, fragt gerne im Discord (Mimi#2964) oder schreibt mir auf Twitter (https://twitter.com/heymibbi) 
 
 Desweiteren könnt ihr euch hier intensiver über Jod informieren: [Quarks - Darum brauchen wir mehr Jod](https://www.quarks.de/gesundheit/ernaehrung/darum-brauchen-wir-mehr-jod/) oder schaut euch die Videos eines Ernährungsberaters zum Thema Jod an: [Alles zur Jodversorgung bei veganer Ernährung - N.R.](https://www.youtube.com/watch?v=tFxdQHZHnsg)
 
@@ -197,7 +197,7 @@ Ganz grob zusammengefasst sind Proteine Makromoleküle, große Moleküle bestehe
 
 Hier eine übersichtliche Grafik, welche Funktionen Proteine in unserem Körper erfüllen - [Grafik](https://www.eufic.org/images/uploads/whats-in-food/protein-functions_de.png) [^34]
 
-**Wieviel Proteine brauche ich?**
+**Wie viel Proteine brauche ich?**
 
 Die empfohlene Zufuhr von Protein pro Tag liegt bei ca 0,8g pro Kilogramm.[^35] Beispiel: Für eine Person mit 75 kg wären das 60g Protein pro Tag. Dabei handelt es sich um einen Richtwert. Wenn ihr Sportler\*in seid, liegt der Wert, abhängig von der Intensität, Dauer und Häufigkeit des Trainings, höher (laut des Deutschen Instituts für Sporternährung e.V. bis zu 1,6g pro kg).[^36] Ebenso empfiehlt die DGE, dass man ab einem Alter von 65 Jahren die allgemeine Proteinzufuhr erhöhen sollte (1g pro kg).[^37]
 
@@ -303,7 +303,7 @@ Es gibt keine seriöse, renommierte Ernährungs- Gesundheits- oder Risikobewertu
 <mark>*»There is now scientific agreement that the controversy around isoflavones’ potential to have bad side effects in humans is fuelled only by findings from laboratory or animal studies using pure isoflavones or high doses.«*[^52]</mark>
 
 Das Bundesinstitut für Risikobewertung (BfR) schreibt in ihrem Paper “Fragen und Antworten zur Sicherheit von isoflavonhaltigen Nahrungsergänzungsmitteln und ergänzenden bilanzierten Diäten” folgendes:
-<mark>*»Die Teilnehmer des Expertentreffens waren einig, dass die Aufnahme von Isoflavonen im Rahmen einer normalen Soja-Kost bei üblichen Verzehrsmengen nach dem gegenwärtigen
+<mark>*»Die Teilnehmer des Expertentreffens waren einig, dass die Aufnahme von Isoflavonen im Rahmen einer normalen Soja-Kost bei üblichen Verzehrmengen nach dem gegenwärtigen
 wissenschaftlichen Kenntnisstand als unbedenklich angesehen werden kann. Hingegen stellt sich die Risikobewertung bei Verzehr von Zubereitungen und Produkten mit isolierten/angereicherten Isoflavonen grundsätzlich anders dar.«*[^53]</mark>
 
 **Zusammenfassung**
@@ -387,7 +387,7 @@ Vegane Produktbeispiele:
 + ALPRO Mandel
 + PROVAMEL Almond Mandel
 
-**Hafermilch** hat einen leicht süßlicher Eigengeschmack, leicht dicklüssige Konsistenz, besonders gut für Kaffee, Kakao, Porridge o.Ä.
+**Hafermilch** hat einen leicht süßlicher Eigengeschmack, leicht dickflüssige Konsistenz, besonders gut für Kaffee, Kakao, Porridge o.Ä.
 Vegane Produktbeispiele:
 + ALPRO Hafer
 + ALPRO Barista Hafer (Perfekt für Kaffee)
@@ -488,7 +488,7 @@ Vegane Produktbeispiele:
 + 2 EL Aquafaba aufschlagen (Aquafaba ist das Kochwasser von Kichererbsen)
 
 **Eigeschmack:**
-+ Kala Namak (Schwarzsalz, welches dem typischen Eigeschmack sehr nah kommt)
++ Kala Namak (Schwarzsalz, welches dem typischen Eigengeschmack sehr nah kommt)
 
 **Eifarbe:**
 + Kurkuma (auch: Safranwurz, starke gelbe Farbe)
