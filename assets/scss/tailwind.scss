@@ -4,6 +4,7 @@
 
 body {
     overflow-y: scroll;
+    @apply font-sans;
 }
 
 .bg-pattern {
@@ -34,7 +35,7 @@ body {
 }
 
 .nuxt-content {
-    &> h1:first-child {
+    & > h1:first-child {
         margin-top: 0 !important;
     }
 
@@ -51,5 +52,17 @@ body {
         height: 0.375em;
         top: calc(0.875em - 0.1875em);
         left: 0.25em;
+    }
+
+    details {
+        &:not(:last-child) {
+            @apply mb-6;
+        }
+
+        summary {
+            @apply cursor-pointer;
+            @apply bg-green-200;
+            @apply p-4;
+        }
     }
 }
