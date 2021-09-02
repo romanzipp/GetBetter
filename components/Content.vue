@@ -10,55 +10,61 @@
              @click="showNav = false"
              class="fixed top-0 left-0 w-full h-full bg-black bg-opacity-25 z-10" />
 
-        <div v-if="anchors.length > 0"
-             :class="{
-                 'left-1/2 z-10 -translate-x-1/2 translate-y-0 xl:-translate-y-1/2 top-0 xl:top-auto': showNav,
-                 'hidden xl:block pr-4 transform -translate-x-full': !showNav,
-                 'fixed xl:top-10': stick,
-                 'fixed xl:absolute': !stick,
-             }"
-             class="z-20 p-12 max-w-full">
+        <div class="block xl:hidden fixed mr-10 mb-10 bottom-0 right-0 z-30">
+            <button @click="showNav = !showNav"
+                    class="rounded-full bg-green-300 focus:bg-green-400 p-4 shadow">
+                <img src="~/assets/search-outline.svg"
+                     class="h-5 w-5"
+                     alt="Navigation">
+            </button>
+        </div>
 
-            <div class="p-4 mr-0 xl:mr-4 w-full xl:w-64 bg-green-200">
+        <div class="flex xl:-ml-nav">
 
-                <div class="mb-2 pb-2 text-2xl font-medium border-b-2 border-green-300">
-                    Inhalte
+            <div v-if="anchors.length > 0"
+                 :class="{
+                     'fixed top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 xl:top-auto z-10 top-0': showNav,
+                     'hidden xl:block pr-4': !showNav,
+                 }"
+                 class="z-20 max-h-full w-full xl:w-nav mt-0 xl:-mt-4">
+
+                <div class="relative xl:sticky overflow-y-auto pt-0 xl:pt-4 top-0 px-8 xl:px-0">
+                    <div class="p-4 mr-0 xl:mr-4 w-full bg-green-200">
+
+                        <div class="mb-2 pb-2 text-2xl font-medium border-b-2 border-green-300">
+                            Inhalte
+                        </div>
+
+                        <div v-for="anchor in anchors"
+                             :style="{ paddingLeft: `${(anchor.depth - 1) * 10}px` }"
+                             :key="anchor.id"
+                             class="truncate">
+
+                            <a :href="`#${anchor.id}`"
+                               @click="jumpTo(anchor)"
+                               :class="{ 'text-sm': anchor.depth > 1 }"
+                               class="text-black hover:text-green-700 no-underline!important truncate">
+                                {{ anchor.title }}
+                            </a>
+
+                        </div>
+
+                        <a href="#top"
+                           class="block text-black hover:text-green-700 no-underline!important truncate mt-2 pt-2 border-t-2 border-green-300">
+                            Nach oben
+                        </a>
+
+                    </div>
                 </div>
-
-                <div v-for="anchor in anchors"
-                     :style="{ paddingLeft: `${(anchor.depth - 1) * 10}px` }"
-                     :key="anchor.id"
-                     class="truncate">
-
-                    <a :href="`#${anchor.id}`"
-                       @click="jumpTo(anchor)"
-                       :class="{ 'text-sm': anchor.depth > 1 }"
-                       class="text-black hover:text-green-700 no-underline!important truncate">
-                        {{ anchor.title }}
-                    </a>
-
-                </div>
-
-                <a href="#top"
-                   class="block text-black hover:text-green-700 no-underline!important truncate mt-2 pt-2 border-t-2 border-green-300">
-                    Nach oben
-                </a>
 
             </div>
 
-        </div>
+            <div ref="sticky-guard"
+                 class="prose prose-green max-w-none mx-auto overflow-x-auto">
+                <nuxt-content ref="content"
+                              :document="document" />
+            </div>
 
-        <div ref="sticky-guard"
-             class="prose prose-green max-w-none mx-auto overflow-x-auto">
-            <nuxt-content ref="content"
-                          :document="document" />
-        </div>
-
-        <div class="block xl:hidden fixed mr-10 mb-10 bottom-0 right-0 z-20">
-            <button @click="showNav = !showNav"
-                    class="rounded-full bg-green-300 focus:bg-green-400 p-4 shadow">
-                Nav
-            </button>
         </div>
 
     </article>
@@ -79,7 +85,6 @@ export default {
         anchors: [],
         activeAnchor: null,
         showNav: false,
-        stick: false,
     }),
 
     mounted() {
@@ -105,20 +110,6 @@ export default {
                 depth: parseInt(el.tag[1], 10),
             });
         }
-
-        const stickyListener = () => {
-            const rect = this.$refs['sticky-guard'].getBoundingClientRect();
-            const stick = rect.y <= 0;
-
-            if (this.stick !== stick) {
-                this.stick = stick;
-            }
-        };
-
-        stickyListener();
-        setTimeout(stickyListener, 100);
-
-        window.addEventListener('scroll', stickyListener);
     },
 
     methods: {
