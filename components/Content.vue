@@ -106,14 +106,23 @@ export default {
             });
         }
 
-        window.addEventListener('scroll', () => {
+        const stickyListener = () => {
             const rect = this.$refs['sticky-guard'].getBoundingClientRect();
+            const stick = rect.y <= 0;
 
-            this.stick = rect.y <= 0;
-        });
+            if (this.stick !== stick) {
+                this.stick = stick;
+            }
+        };
+
+        stickyListener();
+        setTimeout(stickyListener, 100);
+
+        window.addEventListener('scroll', stickyListener);
     },
 
     methods: {
+
         jumpTo(anchor) {
             this.activeAnchor = anchor;
 
