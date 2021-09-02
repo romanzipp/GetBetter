@@ -12,14 +12,14 @@
 
         <div v-if="anchors.length > 0"
              :class="{
-                 'left-1/2 z-10 -translate-x-1/2 -translate-y-1/2': showNav,
+                 'left-1/2 z-10 -translate-x-1/2 translate-y-0 xl:-translate-y-1/2 top-0 xl:top-auto': showNav,
                  'hidden xl:block pr-4 transform -translate-x-full': !showNav,
                  'fixed xl:top-10': stick,
                  'fixed xl:absolute': !stick,
              }"
-             class="z-20">
+             class="z-20 p-12 max-w-full">
 
-            <div class="p-4 mr-0 xl:mr-4 w-64 bg-green-200">
+            <div class="p-4 mr-0 xl:mr-4 w-full xl:w-64 bg-green-200">
 
                 <div class="mb-2 pb-2 text-2xl font-medium border-b-2 border-green-300">
                     Inhalte
