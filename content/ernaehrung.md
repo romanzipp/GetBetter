@@ -23,7 +23,13 @@ Das liegt daran, dass wir in einer omnivoren Ernährung durch das Fleisch bestim
 
 **Was sind möglicherweise kritische Nährstoffe in der (veganen) Ernährung?**
 
-https://puu.sh/I5QcE/cd37f20101.png [^2]
+<div class="flex items-center space-x-6">
+<img src="https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/kKGEb4t6JiSZPwX?x=1914&y=587&a=true&file=kritische_naehrstoffe.png" class="h-24">
+<div>
+TEXT
+</div>
+</div>
+https://cloud.brandsafe.cc/s/kKGEb4t6JiSZPwX [^2]
 + Vitamin B12
 + Vitamin D
 + Jod
