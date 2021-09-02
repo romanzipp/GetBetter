@@ -195,7 +195,7 @@ Ganz grob zusammengefasst sind Proteine Makromoleküle, große Moleküle bestehe
 
 **Wofür brauchen wir Proteine?**
 
-Hier eine recht übersichtliche Grafik, welche Funktionen Proteine in unserem Körper erfüllen: https://www.eufic.org/images/uploads/whats-in-food/protein-functions_de.png[^34]
+Hier eine übersichtliche Grafik, welche Funktionen Proteine in unserem Körper erfüllen - [Grafik](https://www.eufic.org/images/uploads/whats-in-food/protein-functions_de.png) [^34]
 
 **Wieviel Proteine brauche ich?**
 
@@ -208,7 +208,8 @@ Wahrscheinlich lautet deshalb auch eine der häufigsten Fragen, die Veganer\*inn
 
 Zur Orientierung habe ich daher von einigen Lebensmitteln den Proteingehalt in einer Tabelle festgehalten: 
 
-<iframe title="PROTEINTABELLE" aria-label="Balken" id="datawrapper-chart-EBXRs" src="https://datawrapper.dwcdn.net/EBXRs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1013"></iframe>
+<iframe title="PROTEINTABELLE" aria-label="Balken" id="datawrapper-chart-EBXRs" src="https://datawrapper.dwcdn.net/EBXRs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1013"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 **Gibt es Unterschiede zwischen pflanzlichen und tierischen Protein?**
 
@@ -541,13 +542,27 @@ Hier ein kleiner Guide, um zu identifizieren, was alles unter “tierische Produ
 Niemand erwartet, dass der Inhalt auswendig gelernt wird, zur Hilfe gibt es Apps, wie zum Beispiel [CodeCheck - Kostenfreie App mit Werbung und zusätzlichen Bezahloptionen.](https://www.codecheck.info/so-gehts/mobil) Persönliche Empfehlung: Nur für die Kennzeichnung ob ein Produkt vegan oder nicht ist benutzen. Das kann zum Einstieg während des Einkaufens helfen. (Es besteht keine Kooperation oder Verbindung zu der Firma.)
 
 Label können auch als Orientierungshilfe genutzt werden, gängige Label sind hier:
-Das V-Label der Europäischen Vegetarier Union. 
-Wichtig! Ohne den unteren Zusatz “Vegan” ist das Produkt vegetarisch und nicht vegan.
 
+<div class="flex items-center space-x-6">
+<img src="https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/x7AyDFZeEd66Srt?x=1914&y=587&a=true&file=vegan.png&scalingup=0" class="h-48">
+<div>
+Das V-Label der Europäischen Vegetarier Union. **Wichtig!** Ohne den unteren Zusatz »Vegan« ist das Produkt vegetarisch und nicht vegan.
+</div>
+</div>
+   
+<div class="flex items-center space-x-6">
+<img src="https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/aKw3Lz3otKKss7D?x=1914&y=587&a=true&file=vegan-society.png&scalingup=0" class="h-48">
+<div>
 Das Vegan-Label der Britischen Vegan Society. 
+</div>
+</div>
 
+<div class="flex items-center space-x-6">
+<img src="https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/ycMgYT664Lgonyp?x=1914&y=587&a=true&file=Vegan-Label-.png&scalingup=0" class="h-48">
+<div>
 Das Vegan-Label der veganen Gesellschaft Deutschland e.V.
-
+</div>
+</div>
 
 Bei allen anderen »Vegan« Schriftzügen auf den Verpackungen, solltet ihr, um sicher zu gehen, die Inhaltsstoffe überprüfen, denn »Vegan« ist kein gesetzlich geschützter Begriff. Wenn Fragen bestehen, steht euch natürlich die Eigenrecherche frei, oder schreibt mir auf Twitter (https://twitter.com/heymibbi), oder im Discord: Mimi#2964.
 
