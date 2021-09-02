@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", (function(a,b){return {data:[{}],fetch:{},mutations:[[a,b],[a,b],[a,b]]}}("setDark",false)));
