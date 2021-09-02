@@ -488,7 +488,7 @@ Vegane Produktbeispiele:
 + 2 EL Aquafaba aufschlagen (Aquafaba ist das Kochwasser von Kichererbsen)
 
 **Eigeschmack:**
-+ Kala Namak (Schwarzsalz, welches dem typischen Eigengeschmack sehr nah kommt)
++ Kala Namak (Schwarzsalz, welches dem typischen Ei-Geschmack sehr nah kommt)
 
 **Eifarbe:**
 + Kurkuma (auch: Safranwurz, starke gelbe Farbe)
