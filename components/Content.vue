@@ -110,13 +110,20 @@ export default {
             const rect = this.$refs['sticky-guard'].getBoundingClientRect();
 
             this.stick = rect.y <= 0;
-            console.log(rect.y, this.stick);
-            // if (rect.y <= 10) {
-            //    const offset = Math.min(rect.y, 0) * -1;
-            //    console.log(offset);
-            //    this.$refs['sticky-container'].classList
-            // }
         });
+
+        window.addEventListener('message', ((e) => {
+            if (e.data['datawrapper-height'] !== 0) {
+                const t = document.querySelectorAll('iframe');
+                // eslint-disable-next-line guard-for-in
+                for (const a in e.data['datawrapper-height']) {
+                    // eslint-disable-next-line no-plusplus
+                    for (let r = 0; r < t.length; r++) {
+                        if (t[r].contentWindow === e.source) t[r].style.height = `${e.data['datawrapper-height'][a]}px`;
+                    }
+                }
+            }
+        }));
     },
 
     methods: {
