@@ -1,7 +1,7 @@
 <template>
 
     <main :class="{ dark }">
-        <div class="min-h-screen flex flex-col border-16 border-green-100 dark:border-greener-600 dark:bg-greener-700">
+        <div class="min-h-screen flex flex-col border-8 md:border-16 border-green-100 dark:border-greener-600 dark:bg-greener-700">
 
             <Navbar />
 
