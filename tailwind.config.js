@@ -26,16 +26,17 @@ module.exports = {
             borderWidth: {
                 16: '16px',
             },
-            width: {
-                nav: '19rem',
+            spacing: {
+                nav: '18.5rem',
+                '-nav': '-18.5rem',
             },
             maxWidth: {
                 prose: '65ch',
                 landing: '95ch',
+                nav: '18.5rem',
             },
-            margin: {
-                nav: '19rem',
-                '-nav': '-19rem',
+            minWidth: {
+                nav: '18.5rem',
             },
             colors: {
                 green: {

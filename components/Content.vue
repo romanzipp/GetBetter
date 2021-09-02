@@ -21,14 +21,15 @@
 
         <div class="flex xl:-ml-nav">
 
-            <div v-if="anchors.length > 0"
-                 :class="{
+            <div :class="{
                      'fixed top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 xl:top-auto z-10 top-0': showNav,
-                     'hidden xl:block pr-4': !showNav,
+                     'hidden xl:block pr-6': !showNav,
                  }"
-                 class="z-20 max-h-full w-full xl:w-nav mt-0 xl:-mt-4">
+                 class="z-20 max-h-full w-full xl:min-w-nav xl:max-w-nav mt-0 xl:-mt-4">
 
-                <div class="relative xl:sticky overflow-y-auto pt-0 xl:pt-4 top-0 px-8 xl:px-0">
+                <div v-if="anchors.length > 0"
+                     class="relative xl:sticky overflow-y-auto pt-0 xl:pt-4 top-0 px-8 xl:px-0">
+
                     <div class="p-4 mr-0 xl:mr-4 w-full bg-green-200">
 
                         <div class="mb-2 pb-2 text-2xl font-medium border-b-2 border-green-300">
@@ -55,6 +56,7 @@
                         </a>
 
                     </div>
+
                 </div>
 
             </div>
