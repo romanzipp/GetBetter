@@ -1,6 +1,9 @@
 name: Deploy
 
-on: [ push, workflow_dispatch ]
+on:
+  workflow_dispatch:
+  push:
+    branches: [ master ]
 
 jobs:
   cd:
