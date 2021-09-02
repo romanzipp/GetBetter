@@ -111,19 +111,6 @@ export default {
 
             this.stick = rect.y <= 0;
         });
-
-        window.addEventListener('message', ((e) => {
-            if (e.data['datawrapper-height'] !== 0) {
-                const t = document.querySelectorAll('iframe');
-                // eslint-disable-next-line guard-for-in
-                for (const a in e.data['datawrapper-height']) {
-                    // eslint-disable-next-line no-plusplus
-                    for (let r = 0; r < t.length; r++) {
-                        if (t[r].contentWindow === e.source) t[r].style.height = `${e.data['datawrapper-height'][a]}px`;
-                    }
-                }
-            }
-        }));
     },
 
     methods: {

@@ -17,7 +17,7 @@ Im Discord von [Dekarldent](https://www.twitch.tv/dekarldent), der das Projekt �
 
 Grundsätzlich kann jeder Nährstoff über pflanzliche Ernährung aufgenommen werden, mit der Ausnahme von B12, welches Veganer*innen auf jeden Fall supplementieren sollten.
 Zu allen möglicherweise kritischen Nährstoffe findet ihr auf der Homepage dafür dedizierte Seiten. Eine Überprüfung der eigenen Blutwerte ist in vielen Fällen äußerst sinnvoll.
--> Siehe: [Ernährung](/ernährung)
+-> Siehe: [Ernährung](/ernaehrung)
 </details>
 
 
@@ -35,7 +35,7 @@ Zu allen möglicherweise kritischen Nährstoffe findet ihr auf der Homepage daf�
     Ist vegane Ernährung denn überhaupt gesund?
 </summary>
 
-Eine vegane Ernährung garantiert nicht gleichzeitig eine gesunde Ernährung. Auch als Veganer\*in kann man sich ungesund ernähren. Grundsätzlich lassen Studien und Untersuchungen aber darauf schließen, dass gerade rotes und verarbeitetes Fleisch als krebsfördernd gilt. Ebenso haben pflanzliche Lebensmittel bessere gesundheitliche Effekte. [Siehe: Proteine](/ernährung/#protein). Außerdem tendieren Veganer\*innen dazu, sich intensiver mit ihrer Ernährung und wichtigen Nährstoffen auseinanderzusetzen. Was dazu führt, dass Veganer\*innen zum Beispiel seltener an Übergewicht und Adipositas Typ 2 erkranken.
+Eine vegane Ernährung garantiert nicht gleichzeitig eine gesunde Ernährung. Auch als Veganer\*in kann man sich ungesund ernähren. Grundsätzlich lassen Studien und Untersuchungen aber darauf schließen, dass gerade rotes und verarbeitetes Fleisch als krebsfördernd gilt. Ebenso haben pflanzliche Lebensmittel bessere gesundheitliche Effekte. [Siehe: Proteine](/ernaehrung/#protein). Außerdem tendieren Veganer\*innen dazu, sich intensiver mit ihrer Ernährung und wichtigen Nährstoffen auseinanderzusetzen. Was dazu führt, dass Veganer\*innen zum Beispiel seltener an Übergewicht und Adipositas Typ 2 erkranken.
 </details>
 
 
@@ -44,7 +44,7 @@ Eine vegane Ernährung garantiert nicht gleichzeitig eine gesunde Ernährung. Au
     Welche Vitamine oder Nährstoffe muss ich mir über Tabletten holen, weil sie über eine ausgewogene vegane Ernährung nicht ausreichend zugeführt werden?
 </summary>
 
-Veganer\*innen sollten in jedem Fall ein B12 Präparat zu sich nehmen. [Siehe: B12](/ernährung/#vitamin-b12). Eine »ausgewogenen veganen Ernährung« impliziert ja bereits, dass man sich so ernährt, dass man alle kritischen Nährstoffe zu sich nimmt. Jedoch sollte man, wenn man sich unsicher ist, seine Blutwerte ärztlich überprüfen lassen um möglichen Mangelerscheinungen (durch vielleicht eine doch nicht so ausgewogene Ernährung) vorbeugen zu können.
+Veganer\*innen sollten in jedem Fall ein B12 Präparat zu sich nehmen. [Siehe: B12](/ernaehrung/#vitamin-b12). Eine »ausgewogenen veganen Ernährung« impliziert ja bereits, dass man sich so ernährt, dass man alle kritischen Nährstoffe zu sich nimmt. Jedoch sollte man, wenn man sich unsicher ist, seine Blutwerte ärztlich überprüfen lassen um möglichen Mangelerscheinungen (durch vielleicht eine doch nicht so ausgewogene Ernährung) vorbeugen zu können.
 </details>
 
 <details>
@@ -93,7 +93,7 @@ Bei einer Kombination von Zöliakie und Schalenfrucht-/Nussallergie gibt es sich
     Was ist mit den Isoflavonen im Soja (Stichwort Hormonhaushalt)? Ist Soja/Tofu ungesund?
 </summary>
 
-Zu Soja und den enthaltenen Isoflavonen gibt es ein komplettes dediziertes Kapitel -> [Ernährung](/ernährung/#soja). Kurz zusammenfassend ist aber Soja nicht ungesund und die Isoflavone haben keine negative hormonelle Wirkung.
+Zu Soja und den enthaltenen Isoflavonen gibt es ein komplettes dediziertes Kapitel -> [Ernährung](/ernaehrung/#soja). Kurz zusammenfassend ist aber Soja nicht ungesund und die Isoflavone haben keine negative hormonelle Wirkung.
 </details>
 
 <details>
@@ -128,7 +128,7 @@ In der Entwicklungsphase sind einige Nährstoffe von höherem Bedarf, gerne kann
     Kann ich mich auch ohne fancy Ersatzprodukte oder Zusätzliche Lebensmittel wie Hefeflocken/Algen etc. ausgewogen ernähren, ohne Tabletten zu mir nehmen zu müssen?
 </summary>
 
-Gänzlich ohne Tabletten respektive B12 Präparate ist eine vegane Ernährung nicht empfehlenswert. Schau aber gerne mal in [Ernährung](/ernährung/#potentiell-kritische-nährstoffe-in-der-veganen-ernährung) vorbei, wo der Grund erklärt wird. Hefeflocken und Algen sind grundsätzlich nicht essentiell in einer ausgewogenen veganen Ernährung, wichtig ist hier nicht *wie*, sondern grundlegend nur, dass der Nährstoffbedarf gedeckt ist.
+Gänzlich ohne Tabletten respektive B12 Präparate ist eine vegane Ernährung nicht empfehlenswert. Schau aber gerne mal in [Ernährung](/ernaehrung/#potentiell-kritische-nährstoffe-in-der-veganen-ernährung) vorbei, wo der Grund erklärt wird. Hefeflocken und Algen sind grundsätzlich nicht essentiell in einer ausgewogenen veganen Ernährung, wichtig ist hier nicht *wie*, sondern grundlegend nur, dass der Nährstoffbedarf gedeckt ist.
 </details>
 
 <details>
@@ -154,7 +154,7 @@ Viele Menschen, die auf eine vegane Ernährung umstellen konsumieren automatisch
     Wo bekomme ich mein Protein her?
 </summary>
 
-Es gibt viele gute pflanzliche Proteinquellen wie zum Beispiel Tofu, Seitan, Bohnen oder viele verschiedene Nüsse. Im [Protein-Bereich](/ernährung/#protein) findet sich eine ausführliche Erklärung sowie eine Tabelle zur Übersicht des Proteingehalts pflanzlicher Lebensmittel.
+Es gibt viele gute pflanzliche Proteinquellen wie zum Beispiel Tofu, Seitan, Bohnen oder viele verschiedene Nüsse. Im [Protein-Bereich](/ernaehrung/#protein) findet sich eine ausführliche Erklärung sowie eine Tabelle zur Übersicht des Proteingehalts pflanzlicher Lebensmittel.
 </details>
 
 <details>
@@ -162,7 +162,7 @@ Es gibt viele gute pflanzliche Proteinquellen wie zum Beispiel Tofu, Seitan, Boh
     Wie ist die Wertigkeit der pflanzlichen Proteine und wie kann der Körper sie verwerten?
 </summary>
 
-Wenn man die Qualität nach dem Faktor der biologischen Wertigkeit messen möchte, haben viele tierische Proteine eine höhere Wertigkeit als pflanzliche Proteine. Diese Wertigkeit kann im Rahmen einer ausgewogenen pflanzlichen Ernährung aber angehoben oder in manchen Fällen sogar die der tierischen Proteine übersteigen. Mehr dazu im dafür dedizierten Bereich [Protein.](/ernährung/#protein)
+Wenn man die Qualität nach dem Faktor der biologischen Wertigkeit messen möchte, haben viele tierische Proteine eine höhere Wertigkeit als pflanzliche Proteine. Diese Wertigkeit kann im Rahmen einer ausgewogenen pflanzlichen Ernährung aber angehoben oder in manchen Fällen sogar die der tierischen Proteine übersteigen. Mehr dazu im dafür dedizierten Bereich [Protein.](/ernaehrung/#protein)
 </details>
 
 <details>
@@ -184,7 +184,7 @@ Vegane Produktvorschläge:
     Wo bekomme ich mein Eisen her? Welche Pflanzen enthalten einen hohen Eisenwert?
 </summary>
 
-Dazu gibt es eine übersichtliche Tabelle im Bereich [Ernährung -> Protein](/ernährung/#protein)
+Dazu gibt es eine übersichtliche Tabelle im Bereich [Ernährung -> Protein](/ernaehrung/#protein)
 </details>
 
 <details>
@@ -250,7 +250,7 @@ Wenn man auf günstige Lebensmittel zurückgreifen möchte oder muss, sollte man
     Was bedeuten die ganzen Labels auf den Verpackungen, welche Voraussetzungen müssen erfüllt werden?
 </summary>
 
-Die 3 häufigsten Vegan-Label siehst du unter [Inhaltsstoffe](/ernährung/#inhaltsstoffe). Produkte mit diesen Siegeln haben weder tierische Inhaltsstoffe, noch tierische Hilfsstoffe und sind Tierversuchsfrei.
+Die 3 häufigsten Vegan-Label siehst du unter [Inhaltsstoffe](/ernaehrung/#inhaltsstoffe). Produkte mit diesen Siegeln haben weder tierische Inhaltsstoffe, noch tierische Hilfsstoffe und sind Tierversuchsfrei.
 </details>
 
 <details>
@@ -282,7 +282,7 @@ Brezel können mit Schweineschmalz bestrichen werden, damit sie schön glänzen.
     Was kann man auf seine Brezel machen? Butter, Frischkäse oder Käse fällt ja weg?
 </summary>
 
-Butter, Käse oder Frischkäse muss nicht wegfallen, es gibt tolle vegane Alternativen, siehe: [Ernährung](/ernährung)
+Butter, Käse oder Frischkäse muss nicht wegfallen, es gibt tolle vegane Alternativen, siehe: [Ernährung](/ernaehrung)
 </details>
 
 <details>

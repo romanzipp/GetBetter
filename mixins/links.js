@@ -9,7 +9,7 @@ export default {
             },
             {
                 title: 'Ernährung',
-                url: '/ernährung',
+                url: '/ernaehrung',
                 image: '/undraw_Chef.svg',
                 intro: 'Für unseren Nährstoffbedarf besteht absolut keine Notwendigkeit, tierische Produkte zu konsumieren. Des Weiteren zeigen Untersuchungen, dass die vegane Ernährungsweise im Vergleich zur Omnivoren Ernährung mit besseren gesundheitlichen Effekten einhergeht. Zum Beispiel mit einem geringeren Risiko für Herz-Kreislauf-Erkrankungen, für einige Krebsarten, Übergewicht, Hypertonie (Bluthochdruck), Typ-2 Diabetes und allgemein einer geringen Sterblichkeit.',
             },

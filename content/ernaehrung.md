@@ -260,7 +260,7 @@ Da einige pflanzliche (Ersatz)produkte aus Soja bestehen, hier eine kurze Einfü
 
 **Was ist Soja?**
 
-Die Sojabohne ist eine Leguminose oder auch Hülsenfrucht genannt. Soja enthält alle essentiellen Aminosäuren [siehe: Protein](/ernährung/#protein) und hat allgemein einen hohen Protein- und Nährstoffgehalt.[^44] Zusätzlich ist Soja eine gute Quelle für zum Beispiel Kalzium, Zink, Eisen, Magnesium und Folsäure.[^45]
+Die Sojabohne ist eine Leguminose oder auch Hülsenfrucht genannt. Soja enthält alle essentiellen Aminosäuren [siehe: Protein](/ernaehrung/#protein) und hat allgemein einen hohen Protein- und Nährstoffgehalt.[^44] Zusätzlich ist Soja eine gute Quelle für zum Beispiel Kalzium, Zink, Eisen, Magnesium und Folsäure.[^45]
 
 **Ist Soja ungesund?**
 
