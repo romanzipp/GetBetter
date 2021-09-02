@@ -50,35 +50,47 @@ module.exports = {
                         h1: {
                             'text-align': 'center',
                             'font-family': theme('fontFamily.serif'),
-                            'font-size': theme('fontSize.5xl'),
+                            'font-size': theme('fontSize.3xl'),
                             'font-weight': theme('fontWeight.normal'),
                             'font-style': 'italic',
                             'margin-top': theme('margin.10'),
                             'margin-bottom': theme('margin.6'),
+                            '@media (min-width: 1024px)': {
+                                'font-size': theme('fontSize.5xl'),
+                            },
                         },
                         h2: {
-                            'font-size': theme('fontSize.4xl'),
+                            'font-size': theme('fontSize.3xl'),
                             'font-weight': theme('fontWeight.normal'),
                             'margin-top': theme('margin.10'),
                             'margin-bottom': theme('margin.4'),
                             'text-transform': 'uppercase',
                             color: theme('colors.green.800'),
+                            '@media (min-width: 1024px)': {
+                                'font-size': theme('fontSize.4xl'),
+                            },
                         },
                         h3: {
-                            'font-size': theme('fontSize.3xl'),
+                            'font-size': theme('fontSize.2xl'),
                             'font-weight': theme('fontWeight.normal'),
                             'margin-top': theme('margin.8'),
                             'margin-bottom': theme('margin.4'),
                             'text-transform': 'uppercase',
                             color: theme('colors.green.800'),
+                            '@media (min-width: 1024px)': {
+                                'font-size': theme('fontSize.3xl'),
+                            },
                         },
                         h4: {
-                            'font-size': theme('fontSize.2xl'),
+                            'font-size': theme('fontSize.xl'),
                             'font-weight': theme('fontWeight.normal'),
                             'margin-top': theme('margin.6'),
                             'margin-bottom': theme('margin.4'),
                             'text-transform': 'uppercase',
                             color: theme('colors.green.800'),
+                            '@media (min-width: 1024px)': {
+                                'font-size': theme('fontSize.2xl'),
+                            },
                         },
                         h5: {
                             'font-size': theme('fontSize.xl'),
