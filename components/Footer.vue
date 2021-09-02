@@ -4,10 +4,12 @@
 
         <a href="https://ich.wtf/imprint"
            target="_blank"
+           class="dark:text-greener-50"
            rel="noopener">Impressum</a>
 
         <a href="https://ich.wtf/privacy"
            target="_blank"
+           class="dark:text-greener-50"
            rel="noopener">Datenschutz</a>
 
         <script async
