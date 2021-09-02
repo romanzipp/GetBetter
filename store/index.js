@@ -38,7 +38,7 @@ export const actions = {
         try {
             dark = !!localStorage.dark;
         } catch (err) {
-            console.log('error retreiving darkmode cookie');
+            console.log('error retreiving darkmode state');
             console.log(err);
         }
 
