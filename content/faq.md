@@ -5,7 +5,7 @@ description: '...'
 
 # Häufig gestellte Fragen
 
-Im Discord von [Dekarldent](https://www.twitch.tv/dekarldent), der das Projekt »Get Better« angestoßen hat, haben wir die Community um Fragen gebeten, die sie rund um vegane Ernährung haben. Nachfolgend hat Mimi hiervon einige Beantwortet. Dieser Bereich wird sich in unregelmäßigen Abständen füllen und weitere Fragen werden beantwortet.
+Im Discord von [Dekarldent](https://www.twitch.tv/dekarldent), der das Projekt »Get Better« angestoßen hat, haben wir die Community um Fragen gebeten, die sie rund um vegane Ernährung haben. Mimi hat die Antworten ausgearbeitet und wir haben sie hier gelistet. Dieser Bereich wird sich in unregelmäßigen Abständen füllen und weitere Fragen werden beantwortet.
 
 
 # Nährstoffe und Gesundheit
