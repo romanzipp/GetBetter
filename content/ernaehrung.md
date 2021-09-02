@@ -565,17 +565,17 @@ Milch, Joghurt, Käse, Frischkäse, Quark, Sahne, Kondensmilch, Butter, Ghee (Bu
 Honig, Bienenwachs (E 901) (oftmals in Fruchtgummis oder als Wachsschicht über Obst, in Kaugummis)
 
 **Besonders aufpassen bei:**
-+ Fruchtgummis
++ Fruchtgummis  
 ++ fast immer Gelatine, Bienenwachs (E 901),    
 ++ außerdem rote Farbe oftmals durch Karmin (E 120) (Zermahlene Schildläuse)    
 ++ oder Überzugsmittel Schellack (E 904) (Ausscheidungen von Lackschildläusen)    
-+ Schokolade
++ Schokolade  
 ++ fast immer mit Milch(pulver), Lecithin (E 322)    
-+ Chips
++ Chips  
 ++ Oftmals Käsepulver, Milchpulver    
-+ Brot und Backwaren
++ Brot und Backwaren    
 ++ oftmals L-Cystein (E 920) (tierische Borsten, Haare und/oder Federn) oder Milchpulver    
-+ Wein
++ Wein  
 ++ Fischblasen, Casein, Albumin oder Gelatine beim Klärungsvorgang    
 
 Hier eine Sammlung an nicht veganen, oder möglicherweise\* nicht veganen E-Nummern:
