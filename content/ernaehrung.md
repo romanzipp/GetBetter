@@ -589,7 +589,7 @@ Nummer | Inhalt
 **E339**     | Natriumphosphate – Antioxidationsmittel, Säuerungsmittel
 **E422**     | Glycerin – Füllstoff- und Feuchthaltemittel – aus tierischen oder pflanzlichen Fetten
 **E434-436** | Polysorbate – Emulgatoren und Komplexbildner – aus tierischen oder pflanzlichen Fetten
-*E445**      | Glycerinester – Stabilisator und Trübungsmittel – aus tierischen oder pflanzlichen Fetten
+**E445**     | Glycerinester – Stabilisator und Trübungsmittel – aus tierischen oder pflanzlichen Fetten
 **E470**     | A und E470 B: Natrium-, Kalium-, Calcium, Magnesiumsalze von Speisefettsäuren – Emulgatoren, Trägerstoffe und Schaummittel – aus tierischen oder pflanzlichen Fetten
 **E471 und E472 A-F** | Mono- und Diglyceride von Speisefettsäuren – (Back-)Emulgatoren, Schaumstabilisatoren, Überzugsmittel – aus tierischen oder pflanzlichen Fetten
 **E473**     | Zuckerester von Speisefettsäuren – Emulgatoren und Mehlbehandlungsmittel – aus tierischen oder pflanzlichen Fetten
@@ -617,6 +617,7 @@ Nummer | Inhalt
 **E920**     | L-Cystein – Mehlbehandlungsmittel – aus Keratin aus Tier-/Menschenhaaren oder Federn oder aus gentechnisch veränderten Bakterien
 **E966**     | Lactit – Süßungsmittel, Zuckeraustauschstoff und Trägerstoff
 **E1105**    | Lysozym – Konservierungsstoff für Hart- sowie Schnittkäse und als Enzym für alle Lebensmittel
+
 *E-Nummern-Liste zusammengetragen von xTowboat*[^55], [^56], [^57], [^58], [^59], [^60]
 
 <mark>Anmerkung zu *möglicherweise vegan*: Es gibt mehrere Möglichkeiten verschiedene Stoffe herzustellen, ein gutes Beispiel ist Lecithin (E322). Lecithin wird meistens aus pflanzlichen Stoffen gewonnen, es gibt aber die Möglichkeit, dass tierische Erzeugnisse zur Gewinnung benutzt werden. [Verbraucherzentrale - Lecithin](https://www.verbraucherzentrale-bayern.de/wissen/haetten-sies-gewusst/ist-der-zusatzstoff-lecithin-tierisch-oder-vegan-8904)</mark>
