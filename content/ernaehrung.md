@@ -67,7 +67,7 @@ Für alle Veganer\*innen und einige Vegetarier\*innen ist es also absolut notwen
 
 **Woher bekommen denn Tiere ihr B12?**
 
-Carnivore, also großteils oder ausschließlich Fleischfressende Tiere, wie zum Beispiel Hunde oder Katzen, bekommen ihr B12 so wie omnivore Menschen durch tierische Produkte. Wiederkäuer hingegen produzieren, wenn sie genug Kobalt zugeführt bekommen, ihr eigenes B12 in ihrem komplexen Magen und Pansenkomplex.[^9]
+Omnivore oder Carnivore, also zum Teil, großteils oder ausschließlich Fleischfressende Tiere, wie zum Beispiel Hunde oder Katzen, bekommen ihr B12 so wie omnivore Menschen durch tierische Produkte. Wiederkäuer hingegen produzieren, wenn sie genug Kobalt zugeführt bekommen, ihr eigenes B12 in ihrem komplexen Magen und Pansenkomplex.[^9]
 
 *»Komplizierter ist es bei Schweinen«*, so Prof. Ingrid Vervuert, kommissarische Leiterin des Instituts für Tierernährung, Ernährungsschäden und Diätetik der Universität Leipzig: 
 *»Außer Milch, Eiern und Fischmehl dürfen keine tierischen Produkte an Schweine verfüttert werden. Dadurch ist das normale Futtermittelspektrum für Schweine ärmer an Vitamin B12.«* Deshalb wird bei diesen Tieren den Futtermitteln Vitamin B12 beigesetzt, ebenso bei Geflügel – aus denselben Gründen.«[^9]
@@ -250,10 +250,10 @@ Es besteht absolut keine Notwendigkeit tierisches Protein zu sich zu nehmen. Auc
 **Interessante Artikel oder Videos zum Thema**
 
 + Sport und pflanzliche Ernährung
-++ [Niko Rittenau (Ernährungswissenschaftler, Ernährungsberater, Koch) und Jasper Caven (Ernährungsberater, Personal Trainer) reden über die optimale vegane Ernährung zum Muskelaufbau.](https://www.youtube.com/watch?v=Gbvg2QTXgcc)
-++ [Positionspapier von der DGE (Deutsche Gesellschaft für Ernährung e.V.) zur Proteinzufuhr im Sport](https://www.dge.de/presse/pm/dge-veroeffentlicht-positionspapier-zur-proteinzufuhr-im-sport/?L=0&cHash=85b6fea961f2f877a442f8c469f9becf)
+  + [Niko Rittenau (Ernährungswissenschaftler, Ernährungsberater, Koch) und Jasper Caven (Ernährungsberater, Personal Trainer) reden über die optimale vegane Ernährung zum Muskelaufbau.](https://www.youtube.com/watch?v=Gbvg2QTXgcc)
+  + [Positionspapier von der DGE (Deutsche Gesellschaft für Ernährung e.V.) zur Proteinzufuhr im Sport](https://www.dge.de/presse/pm/dge-veroeffentlicht-positionspapier-zur-proteinzufuhr-im-sport/?L=0&cHash=85b6fea961f2f877a442f8c469f9becf)
 + Tierische und pflanzliche Proteine:
-++ [Spiegel Artikel “Pflanzliches Eiweiß scheint gesünder als tierisches” arbeitet eine Ernährungsstudie zum genannten Thema auf.](https://www.spiegel.de/gesundheit/ernaehrung/pflanzliches-eiweiss-ist-gesuender-als-tierisches-a-1105632.html)
+  + [Spiegel Artikel “Pflanzliches Eiweiß scheint gesünder als tierisches” arbeitet eine Ernährungsstudie zum genannten Thema auf.](https://www.spiegel.de/gesundheit/ernaehrung/pflanzliches-eiweiss-ist-gesuender-als-tierisches-a-1105632.html)
 
 
 # Pflanzliche Produkte / Ersatzprodukte
