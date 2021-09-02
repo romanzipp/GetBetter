@@ -21,7 +21,7 @@ export default {
             { hid: 'og:description', property: 'og:description', content: 'Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Das die anthropogenen Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile indisputabel. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen.' },
             { hid: 'og:type', property: 'og:type', content: 'website' },
             { hid: 'og:site_name', property: 'og:site_name', content: 'Get Better' },
-            { hid: 'og:image', property: 'og:image', content: '/social.jpg' },
+            { hid: 'og:image', property: 'og:image', content: '/social-1280.jpg' },
 
             // Twitter
 
@@ -29,7 +29,7 @@ export default {
             { hid: 'twitter:site', name: 'twitter:site', content: '@romanzipp' },
             { hid: 'twitter:creator', name: 'twitter:creator', content: '@romanzipp' },
             { hid: 'twitter:description', name: 'twitter:description', content: 'Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Das die anthropogenen Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile indisputabel. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen.' },
-            { hid: 'twitter:image', name: 'twitter:image', content: '/social.jpg' },
+            { hid: 'twitter:image', name: 'twitter:image', content: '/social-1280.jpg' },
         ],
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
