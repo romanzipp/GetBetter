@@ -565,10 +565,10 @@ Milch, Joghurt, Käse, Frischkäse, Quark, Sahne, Kondensmilch, Butter, Ghee (Bu
 Honig, Bienenwachs (E 901) (oftmals in Fruchtgummis oder als Wachsschicht über Obst, in Kaugummis)
 
 **Besonders aufpassen bei:**
-+ Fruchtgummis  
-++ fast immer Gelatine, Bienenwachs (E 901),    
-++ außerdem rote Farbe oftmals durch Karmin (E 120) (Zermahlene Schildläuse)    
-++ oder Überzugsmittel Schellack (E 904) (Ausscheidungen von Lackschildläusen)    
+- Fruchtgummis  
+-- fast immer Gelatine, Bienenwachs (E 901),    
+-- außerdem rote Farbe oftmals durch Karmin (E 120) (Zermahlene Schildläuse)    
+-- oder Überzugsmittel Schellack (E 904) (Ausscheidungen von Lackschildläusen)    
 + Schokolade  
 ++ fast immer mit Milch(pulver), Lecithin (E 322)    
 + Chips  
