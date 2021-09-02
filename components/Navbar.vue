@@ -74,5 +74,9 @@ export default {
         links,
         styles,
     ],
+
+    created() {
+        this.pullDark();
+    },
 };
 </script>

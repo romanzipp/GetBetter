@@ -1,14 +1,16 @@
 <template>
 
-    <Content v-if="page"
-             :document="page" />
+    <MainContent>
+
+        <ArticleContent v-if="page"
+                        :document="page" />
+
+    </MainContent>
 
 </template>
 
 <script>
 export default {
-    layout: 'content',
-
     async asyncData({ $content }) {
         return {
             page: await $content('ernaehrung').fetch(),

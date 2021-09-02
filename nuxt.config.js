@@ -36,6 +36,11 @@ export default {
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
         ],
+        script: [
+            {
+                src: 'https://u.ich.wtf/s.js', async: true, defer: true, 'data-website-id': '3ae24d79-f274-4687-b533-c3421a5aa73e',
+            },
+        ],
     },
 
     // Global CSS: https://go.nuxtjs.dev/config-css
