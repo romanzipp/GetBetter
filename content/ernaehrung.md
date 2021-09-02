@@ -208,8 +208,7 @@ Wahrscheinlich lautet deshalb auch eine der häufigsten Fragen, die Veganer\*inn
 
 Zur Orientierung habe ich daher von einigen Lebensmitteln den Proteingehalt in einer Tabelle festgehalten: 
 
-<iframe title="PROTEINTABELLE" aria-label="Balken" id="datawrapper-chart-EBXRs" src="https://datawrapper.dwcdn.net/EBXRs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1013"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+<iframe title="PROTEINTABELLE" aria-label="Balken" id="datawrapper-chart-EBXRs" src="https://datawrapper.dwcdn.net/EBXRs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1013"></iframe>
 
 **Gibt es Unterschiede zwischen pflanzlichen und tierischen Protein?**
 
