@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/projekt", (function(a){return {data:[{}],fetch:{"0":{page:{slug:"projekt",description:"...",title:"Über uns",toc:[],body:{type:"root",children:[]},dir:"\u002F",path:"\u002Fprojekt",extension:".md",createdAt:a,updatedAt:a}}},mutations:void 0}}("2021-09-02T16:42:11.145Z")));
