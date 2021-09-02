@@ -54,7 +54,7 @@ Unabhängig der Haltungsform oder -stufe ist die Schlachtung des Tieres für die
 Sie werden entweder mit einem Bolzenschuss, durch Gas oder Strom betäubt, bevor sie letztendlich ihren Hals aufgeschlitzt bekommen, um auszubluten.
 Dass die Betäubung in ~5-12% der Fälle gar nicht, oder viel zu wenig wirkt, führt dazu, dass Tieren bei lebendigem Leibe Gliedmaßen abgeschnitten oder sie in siedendem Wasser abgebrüht werden, um dann kümmerlich zu verenden.
 
-Grundsätzlich verantworten wir durch den Kauf von Fleisch das qualvolle Leben und den Tod von Lebewesen die nicht sterben wollen. 
+<mark>Grundsätzlich verantworten wir durch den Kauf von Fleisch das qualvolle Leben und den Tod von Lebewesen die nicht sterben wollen.</mark>
 
 
 # Milch, Käse und Milchprodukte
@@ -82,10 +82,11 @@ Sie wachsen ohne erlerntes Sozialverhalten auf, was spätere Verletzungen in den
 Aber auch die Mutterkuh leidet nach der Geburt des Kalbes weiterhin. Sie wurden auf eine Maximalleistung der Milchproduktion gezüchtet, die Euter sind riesig, die Lebensbedingungen hochgradig unhygienisch. Dies führt zu Mastitis (einer schmerzhaften Euterentzündung), zu Rückenschäden und anderen Infektionen, die mit Antibiotika behandelt werden. Diese Rückstände finden wir dann nachweislich neben Pestiziden, Medikamentenresten, Schwermetallen, Eiter und Blut in der Milch. **Wir zapfen einer anderen Spezies also ihre Muttermilch ab, entfernen brutal ihre Kälber und nehmen auch noch in Kauf, diese enthaltenen Rückstände zu konsumieren.**
 
 So schön die Vorstellung von glücklichen Kühen ist, deren Milch wir nur dann nehmen, wenn sie für den Bedarf ihres Kalbes zu viel produziert hat, so grausam ist die Realität.
-Grundsätzlich verantworten wir durch den Kauf von Milch, Käse und anderen Milchprodukten das qualvolle Leben und den Tod von Lebewesen die nicht sterben wollen. 
 
 *Zur Veranschaulichung kann man den Beitrag der Animal Rights Watch ARIWA zur Milchproduktion von Kühen ansehen.
 Disclaimer: Niemand zwingt euch, dieses Video anzusehen. Wenn ihr die Bilder nicht ertragen könnt, schaut es euch nicht an. Trifft dies zu, habt ihr einen Grund mehr, keine tierischen Produkte zu konsumieren. https://www.youtube.com/watch?v=2LvYOZXyIYs*
+
+<mark>Grundsätzlich verantworten wir durch den Kauf von Milch, Käse und anderen Milchprodukten das qualvolle Leben und den Tod von Lebewesen die nicht sterben wollen.</mark>
 
 
 # Eier
@@ -103,18 +104,10 @@ Auch bei Eiern gilt, dass Bio-Qualität die Qualen der Aufzucht und der Tötung 
 
 Unabhängig der Haltungsform oder -stufe ist der Profit durch die Eierproduktion und die Schlachtung für die Eierindustrie der einzige Grund für die Existenz der Tiere.
 
-Grundsätzlich verantworten wir durch den Kauf von Eiern das qualvolle Leben und den Tod von Lebewesen die nicht sterben wollen. 
-
 *Zur Veranschaulichung kann man den Beitrag der Animal Rights Watch ARIWA zur Eierproduktion von BIO-Hühnen ansehen.
 Disclaimer: Niemand zwingt euch, dieses Video anzusehen. Wenn ihr die Bilder nicht ertragen könnt, schaut es euch nicht an. Trifft dies zu, habt ihr einen Grund mehr, keine tierischen Produkte zu konsumieren. https://www.youtube.com/watch?v=YPWv0sxRogQ*
 
-<div class="quote">
-Wir wissen, dass eine vegane Lebensweise besser ist.
-
-Besser für die Gesundheit.<br>Besser für den Planeten.<br>Besser für die Menschen.<br>Besser für die Tiere.
-
-Wir haben täglich die Entscheidung, ob wir tierische Produkte konsumieren, oder nicht.    
-</div>
+<mark>Grundsätzlich verantworten wir durch den Kauf von Eiern das qualvolle Leben und den Tod von Lebewesen die nicht sterben wollen.</mark>
 
 # Quellen
 [^1]: (1) https://albert-schweitzer-stiftung.de/aktuell/schlachtzahlen-2020
