@@ -33,6 +33,11 @@
                 Startseite
             </router-link>
 
+            <router-link to="/projekt"
+                         class="px-4 py-2 tracking-wide text-xl font-sans leading-normal hover:text-green-700">
+                Über uns
+            </router-link>
+
             <router-link to="/faq"
                          class="px-4 py-2 tracking-wide text-xl font-sans leading-normal hover:text-green-700">
                 FAQ
