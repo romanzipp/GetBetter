@@ -17,7 +17,7 @@
                  'fixed xl:top-10': stick,
                  'fixed xl:absolute': !stick,
              }"
-             class="h-full z-20">
+             class="z-20">
 
             <div class="p-4 mr-0 xl:mr-4 w-64 bg-green-200">
 
