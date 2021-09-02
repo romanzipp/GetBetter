@@ -10,7 +10,7 @@ Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu sp
 <div class="quote">
 »Aber was können wir tun?«<br>
 »Ist die vegane Ernährung die Lösung aller Probleme?«<br>
-»Wieviel Einfluss hat die Produktion tierischer Produkte auf die Klimaentwicklung?«
+»Wie viel Einfluss hat die Produktion tierischer Produkte auf die Klimaentwicklung?«
 </div>
 
 ### Facts
