@@ -45,13 +45,13 @@
 
             <a class="px-4 py-2 hover:text-green-700 dark:hover:text-greener-100 cursor-pointer">
 
-                <img v-if="!dark"
+                <img v-show="!dark"
                      @click="toggleDark"
                      src="~/assets/moon-outline.svg"
                      class="h-6 w-6 fill-current"
                      alt="Darkmode">
 
-                <img v-if="dark"
+                <img v-show="dark"
                      @click="toggleDark"
                      src="~/assets/sunny-outline.svg"
                      class="h-6 w-6 fill-current"
