@@ -61,10 +61,10 @@
 
             </div>
 
-            <div ref="sticky-guard"
-                 class="prose prose-green max-w-none mx-auto overflow-x-auto">
-                <nuxt-content ref="content"
-                              :document="document" />
+            <div class="prose prose-green dark:prose-dark max-w-none mx-auto overflow-x-auto">
+
+                <nuxt-content :document="document" />
+
             </div>
 
         </div>

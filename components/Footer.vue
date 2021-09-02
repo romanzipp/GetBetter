@@ -20,3 +20,13 @@
     </div>
 
 </template>
+
+<script>
+import styles from '~/mixins/style';
+
+export default {
+    mixins: [
+        styles,
+    ],
+};
+</script>

@@ -10,7 +10,7 @@ module.exports = {
             'components/**/*.vue',
         ],
     },
-    darkMode: 'media',
+    darkMode: 'class',
     theme: {
         fontFamily: {
             serif: [
@@ -70,18 +70,42 @@ module.exports = {
                 },
             },
             typography: (theme) => ({
-                DEFAULT: {
+                dark: {
                     css: {
-                        fontSize: theme('fontSize.base'),
-                        '@media (prefers-color-scheme: dark)': {
+                        color: theme('colors.white'),
+                        'strong, b': {
                             color: theme('colors.white'),
-                            'strong, b': {
-                                color: theme('colors.white'),
-                            },
-                            blockquote: {
-                                color: theme('colors.white'),
-                            },
                         },
+                        blockquote: {
+                            color: theme('colors.white'),
+                        },
+                        h1: {
+                            color: theme('colors.greener.50'),
+                        },
+                        h2: {
+                            color: theme('colors.greener.200'),
+                        },
+                        h3: {
+                            color: theme('colors.greener.200'),
+                        },
+                        h4: {
+                            color: theme('colors.greener.200'),
+                        },
+                        h5: {
+                            color: theme('colors.greener.200'),
+                        },
+                        mark: {
+                            backgroundColor: theme('colors.greener.500'),
+                            color: theme('colors.white'),
+                        },
+                        '.quote': {
+                            backgroundColor: theme('colors.greener.500'),
+                        },
+                    },
+                },
+                green: {
+                    css: {
+                        fontSize: theme('fontSize.base')[0],
                         '&.prose-green': {
                             a: {
                                 color: theme('colors.greener.50'),
@@ -98,9 +122,6 @@ module.exports = {
                             '@media (min-width: 1024px)': {
                                 'font-size': theme('fontSize.5xl'),
                             },
-                            '@media (prefers-color-scheme: dark)': {
-                                color: theme('colors.greener.50'),
-                            },
                         },
                         h2: {
                             'font-size': theme('fontSize.3xl'),
@@ -111,9 +132,6 @@ module.exports = {
                             color: theme('colors.green.800'),
                             '@media (min-width: 1024px)': {
                                 'font-size': theme('fontSize.4xl'),
-                            },
-                            '@media (prefers-color-scheme: dark)': {
-                                color: theme('colors.greener.200'),
                             },
                         },
                         h3: {
@@ -126,9 +144,6 @@ module.exports = {
                             '@media (min-width: 1024px)': {
                                 'font-size': theme('fontSize.3xl'),
                             },
-                            '@media (prefers-color-scheme: dark)': {
-                                color: theme('colors.greener.200'),
-                            },
                         },
                         h4: {
                             'font-size': theme('fontSize.xl'),
@@ -140,9 +155,6 @@ module.exports = {
                             '@media (min-width: 1024px)': {
                                 'font-size': theme('fontSize.2xl'),
                             },
-                            '@media (prefers-color-scheme: dark)': {
-                                color: theme('colors.greener.200'),
-                            },
                         },
                         h5: {
                             'font-size': theme('fontSize.xl'),
@@ -151,16 +163,9 @@ module.exports = {
                             'margin-top': theme('margin.6'),
                             'text-transform': 'uppercase',
                             color: theme('colors.green.800'),
-                            '@media (prefers-color-scheme: dark)': {
-                                color: theme('colors.greener.200'),
-                            },
                         },
                         mark: {
                             backgroundColor: theme('colors.green.200'),
-                            '@media (prefers-color-scheme: dark)': {
-                                backgroundColor: theme('colors.greener.500'),
-                                color: theme('colors.white'),
-                            },
                         },
                         '.quote': {
                             backgroundColor: theme('colors.green.200'),
@@ -171,9 +176,6 @@ module.exports = {
                             marginTop: theme('margin.8'),
                             padding: theme('padding.4'),
                             textAlign: 'center',
-                            '@media (prefers-color-scheme: dark)': {
-                                backgroundColor: theme('colors.greener.600'),
-                            },
                         },
                     },
                 },
@@ -181,7 +183,9 @@ module.exports = {
         },
     },
     variants: {
-        extend: {},
+        extend: {
+            typography: ['dark'],
+        },
     },
     plugins: [
         require('@tailwindcss/typography'),
