@@ -20,6 +20,10 @@ export default {
     head() {
         return {
             title: 'Umwelt - Get Better',
+            meta: [
+                { hid: 'og:title', name: 'og:title', content: 'Umwelt - Get Better' },
+                { hid: 'twitter:title', name: 'twitter:title', content: 'Umwelt - Get Better' },
+            ],
         };
     },
 };

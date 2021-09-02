@@ -20,6 +20,10 @@ export default {
     head() {
         return {
             title: 'Ernährung - Get Better',
+            meta: [
+                { hid: 'og:title', name: 'og:title', content: 'Ernährung - Get Better' },
+                { hid: 'twitter:title', name: 'twitter:title', content: 'Ernährung - Get Better' },
+            ],
         };
     },
 };

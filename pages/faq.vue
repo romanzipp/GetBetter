@@ -20,6 +20,10 @@ export default {
     head() {
         return {
             title: 'FAQ - Get Better',
+            meta: [
+                { hid: 'og:title', name: 'og:title', content: 'FAQ - Get Better' },
+                { hid: 'twitter:title', name: 'twitter:title', content: 'FAQ - Get Better' },
+            ],
         };
     },
 };

@@ -122,7 +122,6 @@ export default {
     },
 
     methods: {
-
         jumpTo(anchor) {
             this.activeAnchor = anchor;
 

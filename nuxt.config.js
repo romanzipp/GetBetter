@@ -18,6 +18,7 @@ export default {
             // OpenGraph
 
             { hid: 'og:locale', property: 'og:locale', content: 'de_DE' },
+            { hid: 'og:title', name: 'og:title', content: 'Get Better' },
             { hid: 'og:description', property: 'og:description', content: 'Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Das die anthropogenen Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile indisputabel. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen.' },
             { hid: 'og:type', property: 'og:type', content: 'website' },
             { hid: 'og:site_name', property: 'og:site_name', content: 'Get Better' },
@@ -25,6 +26,7 @@ export default {
 
             // Twitter
 
+            { hid: 'twitter:title', name: 'twitter:title', content: 'Get Better' },
             { hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image' },
             { hid: 'twitter:site', name: 'twitter:site', content: '@romanzipp' },
             { hid: 'twitter:creator', name: 'twitter:creator', content: '@romanzipp' },

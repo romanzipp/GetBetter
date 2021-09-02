@@ -20,6 +20,10 @@ export default {
     head() {
         return {
             title: 'Ethik - Get Better',
+            meta: [
+                { hid: 'og:title', name: 'og:title', content: 'Ethik - Get Better' },
+                { hid: 'twitter:title', name: 'twitter:title', content: 'Ethik - Get Better' },
+            ],
         };
     },
 };

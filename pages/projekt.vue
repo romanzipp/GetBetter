@@ -20,6 +20,10 @@ export default {
     head() {
         return {
             title: 'Über uns - Get Better',
+            meta: [
+                { hid: 'og:title', name: 'og:title', content: 'Über uns - Get Better' },
+                { hid: 'twitter:title', name: 'twitter:title', content: 'Über uns - Get Better' },
+            ],
         };
     },
 };
