@@ -1,11 +1,11 @@
 ---
 title: Umwelt
-description: 'Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Das die anthropogenen Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile indisputabel. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen.'
+description: 'Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Dass die anthropogenen Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile indisputabel. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen.'
 ---
 
 # Vorwort
 
-Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Das die anthropogenen, also von Menschen gemachten Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile unbestreitbar. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen.
+Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Dass die anthropogenen, also von Menschen gemachten Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile unbestreitbar. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen.
 
 <div class="quote">
 »Aber was können wir tun?«<br>
