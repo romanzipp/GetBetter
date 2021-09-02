@@ -409,7 +409,7 @@ Das mag für manche Menschen eine logische Alternative zu pflanzlichen Produkten
     Wie geht man mit der Hilflosigkeit um wenn es um das Nachempfinden des Bewusstseins der Tiere geht, zum Beispiel wenn man an Zuchtbetrieben, Schlachtereien oder Tiertransporten vorbei fährt?
 </summary>
 
-<mark>Unser Freund und Diplom-Psychologe Christoph, auch bekannt alt [Confus3r](https://www.twitch.tv/confus3r) hat uns diese Frage beantwortet</mark>
+<mark>Unser Freund und Diplom-Psychologe Christoph, auch bekannt als [Confus3r](https://www.twitch.tv/confus3r) hat uns diese Frage beantwortet</mark>
 
 Wenn wir Empathie mit Tieren in Tiertransportern oder Schlachthöfen zeigen, können negative Gefühle entstehen - Traurigkeit, Wut oder Angst. Das ist eine normale Reaktion des Körpers und kann dazu dienen, uns zum Handeln zu motivieren. Kommt aber Hilflosigkeit oder Hoffnungslosigkeit in uns auf, kann uns dieser Zustand lähmen. Hilflosigkeit empfinden wir, wenn wir keine Kontrolle über die Situation haben und eine niedrige Erwartung an unsere eigenen Handlungsmöglichkeiten ("Ich kann nichts machen, ich fühl mich machtlos."). Eine Hoffnungslosigkeit stellt sich ein, wenn wir ausschließlich negative Erwartungen an die Zukunft haben ("Es ändert sich eh nichts"). 
 
