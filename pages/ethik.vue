@@ -9,12 +9,10 @@
 export default {
     layout: 'content',
 
-    data: () => ({
-        page: null,
-    }),
-
-    async fetch() {
-        this.page = await this.$content('ethik').fetch();
+    async asyncData({ $content }) {
+        return {
+            page: await $content('ethik').fetch(),
+        };
     },
 
     head() {
