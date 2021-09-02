@@ -5,6 +5,7 @@
 body {
     overflow-y: scroll;
     @apply font-sans;
+    @apply text-base;
 }
 
 .bg-pattern {
@@ -17,6 +18,9 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
+    @media (prefers-color-scheme: dark) {
+        background-image: url('~/static/nature-dark.svg');
+    }
 }
 
 .bg-rounded {
@@ -24,6 +28,9 @@ body {
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: 100% auto;
+    @media (prefers-color-scheme: dark) {
+        background-image: url('~/static/rounded-dark.svg');
+    }
 }
 
 @media (min-width: 1024px) {
@@ -31,6 +38,9 @@ body {
         background-image: url('~/static/rounded-flat.svg');
         background-position: center;
         background-size: 105% auto;
+        @media (prefers-color-scheme: dark) {
+            background-image: url('~/static/rounded-flat-dark.svg');
+        }
     }
 }
 
@@ -63,6 +73,9 @@ body {
             @apply cursor-pointer;
             @apply bg-green-200;
             @apply p-4;
+            @media (prefers-color-scheme: dark) {
+                @apply bg-greener-500;
+            }
         }
     }
 }

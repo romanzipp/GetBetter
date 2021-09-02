@@ -2,7 +2,7 @@
 
     <article class="mt-0 md:-mt-16 max-w-prose mx-auto">
 
-        <h1 class="mb-12 text-center text-5xl md:text-8xl text-green-800 font-normal font-sans">
+        <h1 class="mb-12 text-center text-5xl md:text-8xl text-green-800 dark:text-white font-normal font-sans">
             {{ document.title }}
         </h1>
 
@@ -30,9 +30,9 @@
                 <div v-if="anchors.length > 0"
                      class="relative xl:sticky overflow-y-auto pt-0 xl:pt-4 top-0 px-8 xl:px-0">
 
-                    <div class="p-4 mr-0 xl:mr-4 w-full bg-green-200">
+                    <div class="p-4 mr-0 xl:mr-4 w-full bg-green-200 dark:bg-greener-500 dark:text-white">
 
-                        <div class="mb-2 pb-2 text-2xl font-medium border-b-2 border-green-300">
+                        <div class="mb-2 pb-2 text-2xl font-medium border-b-2 border-green-300 dark:border-greener-400">
                             Inhalte
                         </div>
 
@@ -44,14 +44,14 @@
                             <a :href="`#${anchor.id}`"
                                @click="jumpTo(anchor)"
                                :class="{ 'text-sm': anchor.depth > 1 }"
-                               class="text-black hover:text-green-700 no-underline!important truncate">
+                               class="text-black dark:text-white hover:text-green-700 dark:hover:text-green-200 no-underline!important truncate">
                                 {{ anchor.title }}
                             </a>
 
                         </div>
 
                         <a href="#top"
-                           class="block text-black hover:text-green-700 no-underline!important truncate mt-2 pt-2 border-t-2 border-green-300">
+                           class="block text-black dark:text-white hover:text-green-700 dark:hover:text-green-200 no-underline!important truncate mt-2 pt-2 border-t-2 border-green-300 dark:border-greener-400">
                             Nach oben
                         </a>
 
