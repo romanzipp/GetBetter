@@ -89,7 +89,7 @@ export default {
         showNav: false,
     }),
 
-    mounted() {
+    created() {
         for (const el of this.document.body.children) {
             if (!el.tag || !el.children) {
                 continue;
