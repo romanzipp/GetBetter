@@ -144,7 +144,7 @@ Ja, das ist natürlich »mehr Aufwand«, aber grundsätzlich möglich, wenn man 
     Welchen Einfluss hat die Nahrungsumstellung auf meine Verdauung? Wie kann man dem entgegenwirken?
 </summary>
 
-Viele Menschen, die auf eine vegane Ernährung umstellen konsumieren automatisch mehr Ballaststoffe, Hülsenfrüchte und/oder mehr Rohkost (was alles grundsätzlich für eine gesunde Ernährung super ist). Dies kann zu mehr Darmaktivität und dadurch zu mehr Flatulenzen führen. Dem entgegenwirken kann mit einer langsamen erhöhung der Ballaststoffe, ausgiebigen Kauen der Mahlzeiten, sowie mit der Zugabe von zum Beispiel Kreuzkümmel zu den Mahlzeiten. Der Umstieg zu einer anderen Ernährungsweise kann den Magen-Darm-Trakt beanspruchen, in den meisten Fällen gewöhnt sich der Körper aber recht schnell an die Umstellung. Sollten jedoch andere Beschwerden auftreten, ist ein Besuch bei einem\*einer Ärzt\*in ratsam.
+Viele Menschen, die auf eine vegane Ernährung umstellen konsumieren automatisch mehr Ballaststoffe, Hülsenfrüchte und/oder mehr Rohkost (was alles grundsätzlich für eine gesunde Ernährung super ist). Dies kann zu mehr Darmaktivität und dadurch zu mehr Flatulenzen führen. Dem entgegenwirken kann mit einer langsamen Erhöhung der Ballaststoffe, ausgiebigen Kauen der Mahlzeiten, sowie mit der Zugabe von zum Beispiel Kreuzkümmel zu den Mahlzeiten. Der Umstieg zu einer anderen Ernährungsweise kann den Magen-Darm-Trakt beanspruchen, in den meisten Fällen gewöhnt sich der Körper aber recht schnell an die Umstellung. Sollten jedoch andere Beschwerden auftreten, ist ein Besuch bei einem\*einer Ärzt\*in ratsam.
 </details>
 
 # Proteine
