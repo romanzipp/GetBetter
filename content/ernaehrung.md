@@ -16,7 +16,7 @@ Allgemeine Ernährungstipps oder Hinweise finden sich in diesen Texten ebenfalls
 
 # Potentiell kritische Nährstoffe in der (veganen) Ernährung
 
-**Was sind “kritische Nährstoffe?**
+**Was sind »kritische Nährstoffe?«**
 
 Als kritische Nährstoffe bezeichnet man Nährstoffe, deren Aufnahme innerhalb der Bevölkerung häufig ungenügend ist.[^1] Gesondert gibt es für jede Ernährungsform unterschiedliche kritische Nährstoffe. So sind zum Beispiel bei der veganen Ernährung andere Nährstoffe als kritischer zu betrachten, als bei einer omnivoren (Mischkost, »Allesfresser«) Ernährung. 
 Das liegt daran, dass wir in einer omnivoren Ernährung durch das Fleisch bestimmte Nährstoffe bekommen, die den Tieren durch ihr Futter zugesetzt werden und somit im Fleisch enthalten sind. Da diese Produkte bei pflanzlicher Ernährung wegfallen, müssen diese anders aufgenommen werden. Im Falle von B12, sollte dies durch ein Nahrungsergänzungspräparat geschehen.
