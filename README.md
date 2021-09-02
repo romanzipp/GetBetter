@@ -1,5 +1,8 @@
 # Get Better
 
+[![Lint](https://github.com/romanzipp/GetBetter/actions/workflows/ci.yml/badge.svg)](https://github.com/romanzipp/GetBetter/actions/workflows/ci.yml)
+[![Deploy](https://github.com/romanzipp/GetBetter/actions/workflows/cd.yml/badge.svg)](https://github.com/romanzipp/GetBetter/actions/workflows/cd.yml)
+
 ## Content
 
 [Content pages are located in /content](content)
