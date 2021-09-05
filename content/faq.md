@@ -300,7 +300,7 @@ Tatsächlich ist es, wenn man nicht gerade in einer Großstadt lebt, schwierig �
     Wo befinden sich versteckte tierische Produkte, die man ohne Hintergrundwissen gar nicht eindeutig als tierische Produkte erkennt?
 </summary>
 
-Tatsächlich leider überall. Deswegen ist es wichtig, dass man sich damit auseinandersetzt, Hilfe bekommt, oder sich Hilfsmittel wie eine App zur Erkennung holt. Eine Übersicht findest du im Bereich [Inhaltsstoffe](/ernaehrung/#inhaltsstoffe)
+Tatsächlich leider überall. Deswegen ist es wichtig, dass man sich damit auseinandersetzt, Hilfe bekommt, oder sich Hilfsmittel wie eine App zur Erkennung holt. Eine Übersicht findest du im Bereich [Inhaltsstoffe](/ernaehrung/#inhaltsstoffe). Zur Hilfe gibt es auch Apps, wie zum Beispiel [CodeCheck - Kostenfreie App mit Werbung und zusätzlichen Bezahloptionen.](https://www.codecheck.info/so-gehts/mobil) (Es besteht keine Kooperation oder Verbindung zu der Firma.)
 </details>
 
 <details>
