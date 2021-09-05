@@ -17,8 +17,15 @@
 import styles from '~/mixins/style';
 
 export default {
+
     mixins: [
         styles,
     ],
+
+    head: {
+        bodyAttrs: {
+            class: 'bg-green-100',
+        },
+    },
 };
 </script>

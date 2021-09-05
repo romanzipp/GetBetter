@@ -13,7 +13,7 @@ export default {
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
             { hid: 'description', name: 'description', content: 'Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Dass die anthropogenen Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile indisputabel. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen. Dieses Projekt soll Menschen informieren und den Umstieg auf eine vegane Ernährung erleichtern.' },
             { name: 'format-detection', content: 'telephone=no' },
-            { name: 'theme-color', content: '#d2e7cc' },
+            { name: 'theme-color', content: '#edf5eb' },
 
             // OpenGraph
 
