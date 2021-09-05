@@ -107,6 +107,11 @@ module.exports = {
                         '.quote': {
                             backgroundColor: theme('colors.greener.500'),
                         },
+                        table: {
+                            th: {
+                                color: theme('colors.white'),
+                            },
+                        },
                     },
                 },
                 green: {
