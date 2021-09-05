@@ -53,6 +53,12 @@ yarn lint
 
 This repository is hosted on [GitHub Pages](https://pages.github.com). The latest master commit will be [automatically deployed](.github/workflows/cd.yml). 
 
+## Credits
+
+- Icons: [ionicons](https://ionic.io/ionicons) ([MIT License](https://github.com/ionic-team/ionicons/blob/master/LICENSE))
+- Illustrations: [Katerina Limpitsouni's](https://twitter.com/NinaLimpi) [undraw](https://undraw.co/license) ([License](https://undraw.co/license))
+- Illustrations: [illu station](https://themeisle.com/illustrations)
+
 ## Authors
 
 - [Roman Zipp](https://github.com/romanzipp)
