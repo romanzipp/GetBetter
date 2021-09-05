@@ -5,26 +5,56 @@
 
 ![](preview.png)
 
+## Requirements
+
+- [NodeJS](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/)
+
+## Build Setup
+
+This project is based on the [NuxtJS](https://nuxtjs.org/) Vue frontend framework.
+
+**Clone project**
+```shell
+git clone https://github.com/romanzipp/GetBetter.git
+```
+
+**Install dependencies**
+```shell
+yarn install
+```
+
+**Serve with hot reload at localhost:3000**
+```shell
+yarn dev
+```
+
+**Build for production and launch server**
+```shell
+yarn build
+yarn start
+```
+
+**Generate static project**
+```shell
+yarn generate
+```
+
+**Check for linting errors**
+```shell
+yarn lint
+```
+
 ## Content
 
 [Content pages are located in /content](content)
 
-## Build Setup
+## Deployment
 
-```bash
-# install dependencies
-$ yarn install
+This repository is hosted on [GitHub Pages](https://pages.github.com). The latest master commit will be [automatically deployed](.github/workflows/cd.yml). 
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+## Authors
 
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-
-# deploy project to github pages
-$ yarn deploy
-```
+- [Roman Zipp](https://github.com/romanzipp)
+- [Tamaaa](https://twitter.com/tamaaalol)
+- [Mibbi](https://twitter.com/HeyMibbi)
