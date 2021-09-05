@@ -2,15 +2,21 @@
 
     <div class="flex justify-center mt-64 space-x-6 py-16">
 
-        <a href="https://ich.wtf/imprint"
+        <a v-for="link in links"
+           :key="link.title"
+           :href="link.url"
            target="_blank"
-           class="dark:text-greener-50"
-           rel="noopener">Impressum</a>
+           class="flex items-center dark:text-greener-50"
+           rel="noopener">
 
-        <a href="https://ich.wtf/privacy"
-           target="_blank"
-           class="dark:text-greener-50"
-           rel="noopener">Datenschutz</a>
+            <img v-if="link.logo"
+                 :src="link.logo"
+                 :alt="link.title"
+                 class="h-5 mr-2">
+
+            {{ link.title }}
+
+        </a>
 
     </div>
 
@@ -18,10 +24,20 @@
 
 <script>
 import styles from '~/mixins/style';
+import GitHubLogo from '~/assets/logo-github.svg';
 
 export default {
+
     mixins: [
         styles,
     ],
+
+    data: () => ({
+        links: [
+            { title: 'Open Source', url: 'https://github.com/romanzipp/GetBetter', logo: GitHubLogo },
+            { title: 'Impressum', url: 'https://ich.wtf/imprint' },
+            { title: 'Datenschutz', url: 'https://ich.wtf/privacy' },
+        ],
+    }),
 };
 </script>
