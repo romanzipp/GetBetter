@@ -73,6 +73,12 @@ module.exports = {
                 dark: {
                     css: {
                         color: theme('colors.white'),
+                        a: {
+                            color: theme('colors.greener.100'),
+                            '&:hover': {
+                                color: theme('colors.greener.200'),
+                            },
+                        },
                         'strong, b': {
                             color: theme('colors.white'),
                         },
@@ -106,62 +112,63 @@ module.exports = {
                 green: {
                     css: {
                         fontSize: theme('fontSize.base')[0],
-                        '&.prose-green': {
-                            a: {
-                                color: theme('colors.greener.50'),
+                        a: {
+                            color: theme('colors.green.500'),
+                            '&:hover': {
+                                color: theme('colors.green.600'),
                             },
                         },
                         h1: {
-                            'font-family': theme('fontFamily.serif'),
-                            'font-size': theme('fontSize.3xl'),
-                            'font-style': 'italic',
-                            'font-weight': theme('fontWeight.normal'),
-                            'margin-bottom': theme('margin.6'),
-                            'margin-top': theme('margin.10'),
-                            'text-align': 'center',
+                            fontFamily: theme('fontFamily.serif'),
+                            fontSize: theme('fontSize.3xl'),
+                            fontStyle: 'italic',
+                            fontWeight: theme('fontWeight.normal'),
+                            marginBottom: theme('margin.6'),
+                            marginTop: theme('margin.10'),
+                            textAlign: 'center',
                             '@media (min-width: 1024px)': {
-                                'font-size': theme('fontSize.5xl'),
+                                fontSize: theme('fontSize.5xl'),
                             },
                         },
                         h2: {
-                            'font-size': theme('fontSize.3xl'),
-                            'font-weight': theme('fontWeight.normal'),
-                            'margin-bottom': theme('margin.4'),
-                            'margin-top': theme('margin.10'),
-                            'text-transform': 'uppercase',
+                            fontSize: theme('fontSize.3xl'),
+                            fontWeight: theme('fontWeight.normal'),
+                            marginBottom: theme('margin.4'),
+                            marginTop: theme('margin.10'),
+                            textTransform: 'uppercase',
                             color: theme('colors.green.800'),
                             '@media (min-width: 1024px)': {
-                                'font-size': theme('fontSize.4xl'),
+                                fontSize: theme('fontSize.4xl'),
                             },
                         },
                         h3: {
-                            'font-size': theme('fontSize.2xl'),
-                            'font-weight': theme('fontWeight.normal'),
-                            'margin-bottom': theme('margin.4'),
-                            'margin-top': theme('margin.8'),
-                            'text-transform': 'uppercase',
+                            fontSize: theme('fontSize.2xl'),
+                            fontWeight: theme('fontWeight.normal'),
+                            marginBottom: theme('margin.4'),
+                            marginTop: theme('margin.8'),
+                            textTransform: 'uppercase',
                             color: theme('colors.green.800'),
                             '@media (min-width: 1024px)': {
-                                'font-size': theme('fontSize.3xl'),
+                                fontSize: theme('fontSize.3xl'),
                             },
                         },
                         h4: {
-                            'font-size': theme('fontSize.xl'),
-                            'font-weight': theme('fontWeight.normal'),
-                            'margin-bottom': theme('margin.4'),
-                            'margin-top': theme('margin.6'),
-                            'text-transform': 'uppercase',
+                            fontSize: theme('fontSize.xl'),
+                            fontWeight: theme('fontWeight.normal'),
+                            marginBottom: theme('margin.4'),
+                            marginTop: theme('margin.6'),
+                            textTransform: 'uppercase',
                             color: theme('colors.green.800'),
                             '@media (min-width: 1024px)': {
-                                'font-size': theme('fontSize.2xl'),
+                                fontSize: theme('fontSize.2xl'),
                             },
                         },
                         h5: {
-                            'font-size': theme('fontSize.xl'),
-                            'font-weight': theme('fontWeight.normal'),
-                            'margin-bottom': theme('margin.4'),
-                            'margin-top': theme('margin.6'),
-                            'text-transform': 'uppercase',
+                            fontSize: theme('fontSize.xl'),
+                            fontWeight: theme('fontWeight.normal'),
+                            marginBottom: theme('margin.4'),
+                            marginTop: theme('margin.6'),
+                            textTransform: 'uppercase',
                             color: theme('colors.green.800'),
                         },
                         mark: {
