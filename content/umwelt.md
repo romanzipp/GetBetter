@@ -19,7 +19,7 @@ Um den Sachverhalt erstmal oberflächlich zu skizzieren, hier ein paar Statistik
 
 + In 30 Jahren wird die Population von jetzigen ~7,5 Milliarden Menschen auf ~10 Milliarden Menschen anwachsen.[^29]
 + 77-83% des globalen Argrarlands wird für “Nutztiere” benötigt, dabei liefern diese nur 17-18% des Kalorienbedarfs der Menschheit.[^6], [^28]
-+ Ohne tierische Produkte könnten die weltweiten Agrarflächen um 76% und die Treibhausgasemissionen der Nahrungsindustrie um 49% reduziert werden.[^28]
++ Ohne tierische Produkte könnten die weltweiten Agrarflächen um 76% und die globalen Treibhausgasemissionen um 28% reduziert werden.[^28], [^31]
 + Die Massentierhaltung, aus der ca. 98% des in Deutschland verzehrten Fleisches stammt, ist ein absolut ausschlaggebender Faktor des Klimawandels und eine allgemeine Belastung unserer Umwelt.[^1], [^2]
 + In Deutschland wurden in 2020 mehr als 759 Millionen Tiere geschlachtet.[^3]
 + Zu den aufgeführten Schlachtungen kommt eine nicht definierbare Dunkelziffer zu der zum Beispiel die Tötung von Männlichen Küken auch “Eintagsküken” gehört. Das sind in Deutschland jährlich ca 45 Millionen Küken.[^4]
@@ -141,3 +141,4 @@ Diesen Beitrag können wir täglich leisten, für unsere Gesundheit, die Tiere u
 [^28]: (28) http://science.sciencemag.org/content/360/6392/987.long
 [^29]: (29) https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900
 [^30]: (30) https://www.theguardian.com/environment/2018/may/31/avoiding-meat-and-dairy-is-single-biggest-way-to-reduce-your-impact-on-earth 
+[^31]: (31) https://www.science.org/doi/10.1126/science.aaw9908
