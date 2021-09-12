@@ -1,6 +1,6 @@
 ---
 title: Ethik
-description: '...'
+description: "Unsere Gesellschaft und die Wissenschaft entwickeln sich stets weiter, doch bei der ethischen Frage ob wir Lebewesen für unseren Genuss quälen und töten dürfen, scheint es nur ganz langsam Fortschritt zu geben. Wir haben täglich die Wahl: Kaufen wir tierische Produkte und verantworten das qualvolle Leben und den Tod von Lebewesen, die nicht sterben wollen, oder stehen wir für die Lebewesen ein, die selbst keine Stimme haben sich zu äußern und leben ohne Tierleid zu verursachen – vegan."
 ---
 
 # Vorwort

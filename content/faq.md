@@ -1,6 +1,6 @@
 ---
 title: FAQ
-description: '...'
+description: Häufig gestellte Fragen
 ---
 
 # Häufig gestellte Fragen

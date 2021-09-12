@@ -125,7 +125,18 @@ export default {
     },
 
     head() {
+        const title = `${this.document.title} - Get Better`;
+        const { description } = this.document;
+
         return {
+            title,
+            meta: [
+                { hid: 'og:title', name: 'og:title', content: title },
+                { hid: 'twitter:title', name: 'twitter:title', content: title },
+                { hid: 'description', name: 'description', content: description },
+                { hid: 'og:description', property: 'og:description', content: description },
+                { hid: 'twitter:description', name: 'twitter:description', content: description },
+            ],
             link: [
                 { rel: 'canonical', href: `https://get-better.me${this.document.path}/` },
             ],
