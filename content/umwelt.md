@@ -1,6 +1,6 @@
 ---
 title: Umwelt
-description: 'Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Dass die anthropogenen Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile indisputabel. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen.'
+description: "Unser Planet ist unser Lebensraum, für alle jetzigen und für alle kommenden Generationen. Unser oberstes Ziel sollte es sein, diesen Lebensraum zu bewahren. »Eine vegane Ernährung ist wahrscheinlich die effektivste Weise den eigenen ökologischen Fußabdruck zu reduzieren und das nicht nur in Bezug auf Treibhausgase sondern auch auf die weltweite Übersäuerung der Böden, die Überdüngung sowie die Land- und Wassernutzung.« Poore, J."
 ---
 
 # Vorwort
