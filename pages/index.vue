@@ -56,6 +56,9 @@ export default {
     head() {
         return {
             title: 'Get Better',
+            link: [
+                { rel: 'canonical', href: 'https://get-better.me/' },
+            ],
         };
     },
 };
