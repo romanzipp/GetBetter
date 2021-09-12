@@ -57,7 +57,7 @@ export default {
         return {
             title: 'Get Better',
             link: [
-                { rel: 'canonical', href: 'https://get-better.me/' },
+                { rel: 'canonical', href: `${this.$config.baseUrl}/` },
             ],
         };
     },

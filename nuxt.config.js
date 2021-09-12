@@ -1,6 +1,14 @@
+const production = process.env.NODE_ENV === 'production';
+const baseUrl = production ? 'https://get-better.me' : 'http://localhost:3000';
+
 export default {
     // Target: https://go.nuxtjs.dev/config-target
     target: 'static',
+
+    // Configuration: https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-runtime-config
+    publicRuntimeConfig: {
+        baseUrl,
+    },
 
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
@@ -22,7 +30,7 @@ export default {
             { hid: 'og:description', property: 'og:description', content: 'Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Dass die anthropogenen Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile indisputabel. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen. Dieses Projekt soll Menschen informieren und den Umstieg auf eine vegane Ernährung erleichtern.' },
             { hid: 'og:type', property: 'og:type', content: 'website' },
             { hid: 'og:site_name', property: 'og:site_name', content: 'Get Better' },
-            { hid: 'og:image', property: 'og:image', content: 'https://get-better.me/social-1280.jpg' },
+            { hid: 'og:image', property: 'og:image', content: `${baseUrl}/social-1280.jpg` },
 
             // Twitter
 
@@ -31,25 +39,21 @@ export default {
             { hid: 'twitter:site', name: 'twitter:site', content: '@romanzipp' },
             { hid: 'twitter:creator', name: 'twitter:creator', content: '@romanzipp' },
             { hid: 'twitter:description', name: 'twitter:description', content: 'Gerade in jüngster Zeit bekommen wir alle die Auswirkungen der Klimakrise zu spüren. Dass die anthropogenen Einflüsse die Hauptursache der globalen Klimaentwicklung sind, ist mittlerweile indisputabel. Wir sollten uns allen bewusst sein, dass wir jetzt Änderungen brauchen. Dieses Projekt soll Menschen informieren und den Umstieg auf eine vegane Ernährung erleichtern.' },
-            { hid: 'twitter:image', name: 'twitter:image', content: 'https://get-better.me/social-1280.jpg' },
+            { hid: 'twitter:image', name: 'twitter:image', content: `${baseUrl}/social-1280.jpg` },
         ],
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
         ],
         script: [
-            {
+            ...production ? [{
                 src: 'https://u.ich.wtf/s.js', async: true, defer: true, 'data-website-id': '3ae24d79-f274-4687-b533-c3421a5aa73e',
-            },
+            }] : [],
         ],
     },
 
     // Global CSS: https://go.nuxtjs.dev/config-css
     css: [
         '~/assets/css/fonts.css',
-    ],
-
-    // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-    plugins: [
     ],
 
     // Auto import components: https://go.nuxtjs.dev/config-components
@@ -70,9 +74,6 @@ export default {
         // https://go.nuxtjs.dev/content
         '@nuxt/content',
     ],
-
-    // Axios module configuration: https://go.nuxtjs.dev/config-axios
-    axios: {},
 
     // Content module configuration: https://go.nuxtjs.dev/config-content
     content: {},
