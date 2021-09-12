@@ -138,7 +138,7 @@ export default {
                 { hid: 'twitter:description', name: 'twitter:description', content: description },
             ],
             link: [
-                { rel: 'canonical', href: `https://get-better.me${this.document.path}/` },
+                { rel: 'canonical', href: `${this.$config.baseUrl}${this.document.path}/` },
             ],
         };
     },
