@@ -123,5 +123,13 @@ export default {
             }
         },
     },
+
+    head() {
+        return {
+            link: [
+                { rel: 'canonical', href: `https://get-better.me${this.document.path}/` },
+            ],
+        };
+    },
 };
 </script>
