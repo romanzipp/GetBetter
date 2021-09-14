@@ -73,7 +73,16 @@ export default {
         '@nuxtjs/axios',
         // https://go.nuxtjs.dev/content
         '@nuxt/content',
+        '@nuxtjs/i18n',
     ],
+
+    i18n: {
+        locales: ['de', 'en'],
+        defaultLocale: 'de',
+        vueI18n: {
+            fallbackLocale: 'de',
+        },
+    },
 
     // Content module configuration: https://go.nuxtjs.dev/config-content
     content: {},
