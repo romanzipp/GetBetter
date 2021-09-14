@@ -5,43 +5,39 @@
 
         <div class="order-2 lg:order-1 flex-1 flex items-center justify-center lg:justify-end space-x-4">
 
-            <router-link v-for="link in links"
-                         :key="link.url"
-                         :to="link.url"
-                         class="px-4 py-2 tracking-wide text-base lg:text-xl font-sans leading-normal hover:text-green-700 dark:hover:text-greener-100">
+            <nuxt-link v-for="link in links"
+                       :key="link.url"
+                       :to="localePath(link.url)"
+                       class="px-4 py-2 tracking-wide text-base lg:text-xl font-sans leading-normal hover:text-green-700 dark:hover:text-greener-100">
                 {{ link.title }}
-            </router-link>
+            </nuxt-link>
 
         </div>
 
         <div class="order-1 lg:order-2 flex justify-center">
-
-            <router-link to="/">
-
+            <nuxt-link to="/">
                 <img src="/get_better_logo_transparent.png"
                      class="h-32"
                      alt="Logo">
-
-            </router-link>
-
+            </nuxt-link>
         </div>
 
         <div class="order-3 lg:order-3 flex-1 flex items-center justify-center lg:justify-start space-x-0 lg:space-x-4">
 
-            <router-link to="/"
-                         class="px-4 py-2 tracking-wide text-base lg:text-xl font-sans leading-normal hover:text-green-700 dark:hover:text-greener-100">
+            <nuxt-link :to="localePath('/')"
+                       class="px-4 py-2 tracking-wide text-base lg:text-xl font-sans leading-normal hover:text-green-700 dark:hover:text-greener-100">
                 Startseite
-            </router-link>
+            </nuxt-link>
 
-            <router-link to="/projekt"
-                         class="px-4 py-2 tracking-wide text-base lg:text-xl font-sans leading-normal hover:text-green-700 dark:hover:text-greener-100">
+            <nuxt-link :to="localePath('/projekt')"
+                       class="px-4 py-2 tracking-wide text-base lg:text-xl font-sans leading-normal hover:text-green-700 dark:hover:text-greener-100">
                 Über uns
-            </router-link>
+            </nuxt-link>
 
-            <router-link to="/faq"
-                         class="px-4 py-2 tracking-wide text-base lg:text-xl font-sans leading-normal hover:text-green-700 dark:hover:text-greener-100">
+            <nuxt-link :to="localePath('/faq')"
+                       class="px-4 py-2 tracking-wide text-base lg:text-xl font-sans leading-normal hover:text-green-700 dark:hover:text-greener-100">
                 FAQ
-            </router-link>
+            </nuxt-link>
 
             <a class="px-4 py-2 hover:text-green-700 dark:hover:text-greener-100 cursor-pointer">
 
@@ -58,6 +54,13 @@
                      alt="Darkmode">
 
             </a>
+            <nuxt-link
+                v-for="locale in availableLocales"
+                :key="locale.code"
+                :to="switchLocalePath(locale.code)"
+                class="px-4 py-2 hover:text-green-700 dark:hover:text-greener-100 cursor-pointer">
+                {{ locale.name }}
+            </nuxt-link>
 
         </div>
 
@@ -74,6 +77,12 @@ export default {
         links,
         styles,
     ],
+
+    computed: {
+        availableLocales() {
+            return this.$i18n.locales.filter((i) => i.code !== this.$i18n.locale);
+        },
+    },
 
     created() {
         this.pullDark();

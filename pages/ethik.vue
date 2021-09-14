@@ -11,9 +11,9 @@
 
 <script>
 export default {
-    async asyncData({ $content }) {
+    async asyncData({ $content, i18n }) {
         return {
-            page: await $content('ethik').fetch(),
+            page: await $content(`${i18n.locale}/ethik`).fetch(),
         };
     },
 };
