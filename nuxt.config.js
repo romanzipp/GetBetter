@@ -77,7 +77,16 @@ export default {
     ],
 
     i18n: {
-        locales: ['de', 'en'],
+        locales: [
+            {
+                code: 'de',
+                name: 'Deutsch',
+            },
+            {
+                code: 'en',
+                name: 'English',
+            },
+        ],
         defaultLocale: 'de',
         vueI18n: {
             fallbackLocale: 'de',

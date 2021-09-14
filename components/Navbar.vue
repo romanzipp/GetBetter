@@ -15,17 +15,11 @@
         </div>
 
         <div class="order-1 lg:order-2 flex justify-center">
-            <nuxt-link :to="switchLocalePath('en')">
-                English
-            </nuxt-link>
             <nuxt-link to="/">
-
                 <img src="/get_better_logo_transparent.png"
                      class="h-32"
                      alt="Logo">
-
             </nuxt-link>
-
         </div>
 
         <div class="order-3 lg:order-3 flex-1 flex items-center justify-center lg:justify-start space-x-0 lg:space-x-4">
@@ -60,6 +54,13 @@
                      alt="Darkmode">
 
             </a>
+            <nuxt-link
+                v-for="locale in availableLocales"
+                :key="locale.code"
+                :to="switchLocalePath(locale.code)"
+                class="px-4 py-2 hover:text-green-700 dark:hover:text-greener-100 cursor-pointer">
+                {{ locale.name }}
+            </nuxt-link>
 
         </div>
 
@@ -76,6 +77,12 @@ export default {
         links,
         styles,
     ],
+
+    computed: {
+        availableLocales() {
+            return this.$i18n.locales.filter((i) => i.code !== this.$i18n.locale);
+        },
+    },
 
     created() {
         this.pullDark();
