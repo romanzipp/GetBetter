@@ -50,7 +50,7 @@ Denkt daran, dass die angegebenen Daten, Informationen und Empfehlungen Durchsch
 **Was ist B12?**
 
 Vitamin B12 ist ein Coenzym[^3] welches in Wechselwirkung mit dem Intrinsischen Faktor (einem Protein, welches unser Körper selbst produziert)[^4] unter anderem zur Blutbildung beiträgt und für ein funktionsfähiges Nervensystem sorgt.[^5]
-Menschen selbst können kein B12 herstellen, deshalb sind wir darauf angewiesen, B12 aus externen Quellen zu uns nehmen.[^6] 
+Menschen selbst können kein B12 herstellen, deshalb sind wir darauf angewiesen, B12 aus externen Quellen zu uns zu nehmen.[^6] 
 
 
 **Woher bekomme ich B12?**
