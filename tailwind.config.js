@@ -45,6 +45,7 @@ module.exports = {
                 prose: '65ch',
                 landing: '95ch',
                 nav: '18.5rem',
+                notice: '28rem',
             },
             minWidth: {
                 nav: '18.5rem',
