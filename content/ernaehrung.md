@@ -512,7 +512,12 @@ Vegane Produktbeispiele:
 
 ## Honig
 
-**Agavendicksaft/Agavensirup** ist ein Süßungsmittel auf Basis der Agave. Süßer als Honig, leicht dünnflüssiger. Allround-Ersatz für Honig.
+**Zuckerrübensirup** ist ein Süßungsmittel mit karamellartigem Eigengeschmack auf Basis von Zuckerrüben. Die Ernte und Herstellung erfolgt meist regional in Deutschland oder Frankreich. Gut als Brotaufstrich.
+Vegane Produktbeispiele:
++ Grafschafter Goldsaft
++ ALNATURA Goldsirup
+
+**Agavendicksaft/Agavensirup** ist ein Süßungsmittel auf Basis der Agave. Dünnflüssiger und süßer als Honig mit mildem Eigengeschmack. Aufgrund eines sehr hohen Fructoseanteils und der Gewinnung aus Agaven-Monokulturen in Mexiko sollte er jedoch nur sparsam verwendet werden.
 Vegane Produktbeispiele:
 + REWE Agavendicksaft
 + EDEKA Agavendicksaft
