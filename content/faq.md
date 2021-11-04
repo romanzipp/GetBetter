@@ -35,7 +35,7 @@ Zu allen möglicherweise kritischen Nährstoffe findet ihr auf der Homepage daf�
     Ist vegane Ernährung denn überhaupt gesund?
 </summary>
 
-Eine vegane Ernährung garantiert nicht gleichzeitig eine gesunde Ernährung. Auch als Veganer\*in kann man sich ungesund ernähren. Grundsätzlich lassen Studien und Untersuchungen aber darauf schließen, dass gerade rotes und verarbeitetes Fleisch als krebsfördernd gilt. Ebenso haben pflanzliche Lebensmittel bessere gesundheitliche Effekte. [Siehe: Proteine](/ernaehrung/#protein). Außerdem tendieren Veganer\*innen dazu, sich intensiver mit ihrer Ernährung und wichtigen Nährstoffen auseinanderzusetzen. Was dazu führt, dass Veganer\*innen zum Beispiel seltener an Übergewicht und Adipositas Typ 2 erkranken.
+Eine vegane Ernährung garantiert nicht gleichzeitig eine gesunde Ernährung. Auch als Veganer\*in kann man sich ungesund ernähren. Grundsätzlich lassen Studien und Untersuchungen aber darauf schließen, dass gerade rotes und verarbeitetes Fleisch als krebsfördernd gilt. Ebenso haben pflanzliche Lebensmittel bessere gesundheitliche Effekte. [Siehe: Proteine](/ernaehrung/#protein). Außerdem tendieren Veganer\*innen dazu, sich intensiver mit ihrer Ernährung und wichtigen Nährstoffen auseinanderzusetzen. Was dazu führt, dass Veganer\*innen zum Beispiel seltener an Übergewicht und Diabetes Typ 2 erkranken.
 </details>
 
 
