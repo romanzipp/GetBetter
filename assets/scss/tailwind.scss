@@ -65,6 +65,10 @@ main.dark {
         margin-bottom: 0 !important;
     }
 
+    .footnotes {
+        @apply break-words;
+    }
+
     .footnotes > ol > li::before {
         content: "";
         position: absolute;
