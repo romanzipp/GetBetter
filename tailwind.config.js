@@ -23,6 +23,13 @@ module.exports = {
             ],
         },
         extend: {
+            screens: {
+                sm: '640px',
+                md: '768px',
+                lg: '1024px',
+                xl: '1380px',
+                '2xl': '1536px',
+            },
             fontSize: {
                 base: ['1.125rem', { lineHeight: '1.75rem' }],
                 lg: ['1.175rem', { lineHeight: '1.75rem' }],
