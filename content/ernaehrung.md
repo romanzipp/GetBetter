@@ -545,7 +545,7 @@ Label können auch als Orientierungshilfe genutzt werden, gängige Label sind hi
 <div class="flex items-center space-x-6">
 <img src="https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/x7AyDFZeEd66Srt?x=1914&y=587&a=true&file=vegan.png&scalingup=0" class="h-48">
 <div>
-Das V-Label der Europäischen Vegetarier Union. **Wichtig!** Ohne den unteren Zusatz »Vegan« ist das Produkt vegetarisch und nicht vegan.
+    Das V-Label der Europäischen Vegetarier Union. <strong>Wichtig!</strong> Ohne den unteren Zusatz »Vegan« ist das Produkt vegetarisch und nicht vegan.
 </div>
 </div>
    
