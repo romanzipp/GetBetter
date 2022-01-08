@@ -542,26 +542,26 @@ Niemand erwartet, dass der Inhalt auswendig gelernt wird, zur Hilfe gibt es Apps
 
 Label können auch als Orientierungshilfe genutzt werden, gängige Label sind hier:
 
-<div class="flex items-center space-x-6">
-<img src="https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/x7AyDFZeEd66Srt?x=1914&y=587&a=true&file=vegan.png&scalingup=0" class="h-48">
-<div>
-Das V-Label der Europäischen Vegetarier Union. **Wichtig!** Ohne den unteren Zusatz »Vegan« ist das Produkt vegetarisch und nicht vegan.
-</div>
-</div>
+<figure class="flex flex-col md:flex-row items-center gap-6">
+<img src="https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/x7AyDFZeEd66Srt?x=1914&y=587&a=true&file=vegan.png&scalingup=0" class="h-48" alt="Das V-Label der Europäischen Vegetarier Union">
+<figcaption>
+Das V-Label der Europäischen Vegetarier Union. <strong>Wichtig!</strong> Ohne den unteren Zusatz »Vegan« ist das Produkt vegetarisch und nicht vegan.
+</figcaption>
+</figure>
    
-<div class="flex items-center space-x-6">
-<img src="https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/aKw3Lz3otKKss7D?x=1914&y=587&a=true&file=vegan-society.png&scalingup=0" class="h-48">
-<div>
+<figure class="flex flex-col md:flex-row items-center gap-6">
+<img src="https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/aKw3Lz3otKKss7D?x=1914&y=587&a=true&file=vegan-society.png&scalingup=0" class="h-48" alt="Vegan-Label der Britischen Vegan Society">
+<figcaption>
 Das Vegan-Label der Britischen Vegan Society. 
-</div>
-</div>
+</figcaption>
+</figure>
 
-<div class="flex items-center space-x-6">
-<img src="https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/ycMgYT664Lgonyp?x=1914&y=587&a=true&file=Vegan-Label-.png&scalingup=0" class="h-48">
-<div>
+<figure class="flex flex-col md:flex-row items-center gap-6">
+<img src="https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/ycMgYT664Lgonyp?x=1914&y=587&a=true&file=Vegan-Label-.png&scalingup=0" class="h-48" alt="Das Vegan-Label der veganen Gesellschaft Deutschland e.V.">
+<figcaption>
 Das Vegan-Label der veganen Gesellschaft Deutschland e.V.
-</div>
-</div>
+</figcaption>
+</figure>
 
 Bei allen anderen »Vegan« Schriftzügen auf den Verpackungen, solltet ihr, um sicher zu gehen, die Inhaltsstoffe überprüfen, denn »Vegan« ist kein gesetzlich geschützter Begriff. Wenn Fragen bestehen, steht euch natürlich die Eigenrecherche frei, oder schreibt mir auf Twitter (https://twitter.com/heymibbi), oder im Discord: Mimi#2964.
 
