@@ -9,7 +9,9 @@
                 <Navbar />
             </header>
 
-            <Nuxt class="content" />
+            <main>
+                <Nuxt class="content" />
+            </main>
 
             <Footer />
 
