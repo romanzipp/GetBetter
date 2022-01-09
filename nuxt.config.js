@@ -81,6 +81,10 @@ export default {
     // Build Configuration: https://go.nuxtjs.dev/config-build
     build: {},
 
+    plugins: [
+        { src: '~/plugins/vue-announcer.js', mode: 'client' },
+    ],
+
     tailwindcss: {
         configPath: 'tailwind.config.js',
         cssPath: '~/assets/scss/tailwind.scss',

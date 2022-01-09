@@ -1,11 +1,19 @@
 <template>
-
-    <main :class="{ dark }">
+    <section :class="{'dark': dark}"
+             class="focus:outline-none"
+             ref="mainContent"
+             tabindex="-1">
         <div class="min-h-screen flex flex-col border-8 md:border-16 border-green-100 dark:border-greener-600 bg-green-100 dark:bg-greener-600">
+            <vue-announcer />
+            <header>
+                <Navbar />
+            </header>
 
-            <Navbar />
+            <main>
+                <Nuxt class="content" />
+            </main>
 
-            <Nuxt class="content" />
+            <Footer />
 
             <div v-if="notice && !noticeDismissed"
                  class="fixed right-0 bottom-0 p-4 lg:p-6 w-full lg:max-w-notice z-30">
@@ -44,9 +52,7 @@
             </div>
 
         </div>
-
-    </main>
-
+    </section>
 </template>
 
 <script>
@@ -93,5 +99,15 @@ export default {
             this.noticeDismissed = true;
         },
     },
+
+    watch: {
+        $route: {
+            handler() {
+                console.log('HIER');
+                this.$refs.mainContent.focus();
+            },
+        },
+    },
+
 };
 </script>
