@@ -1,6 +1,7 @@
 <template>
 
     <section id="main-content">
+
         <MainContent>
 
             <template #before>
