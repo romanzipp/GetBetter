@@ -9,7 +9,7 @@
                 :key="link.title">
                 <a :href="link.url"
                    target="_blank"
-                   aria-label="link.title"
+                   :aria-label="link.title"
                    class="flex items-center dark:text-greener-50"
                    rel="noopener">
 

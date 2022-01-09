@@ -20,8 +20,7 @@
             </button>
         </div>
 
-        <div class="flex xl:-ml-nav"
-             aria-hidden="true">
+        <div class="flex xl:-ml-nav">
 
             <aside :class="{
                        'fixed top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 xl:top-auto z-10 top-0': showNav,
@@ -33,21 +32,17 @@
                      class="relative xl:sticky overflow-y-auto pt-0 xl:pt-4 top-0 px-8 xl:px-0">
 
                     <div class="p-4 mr-0 xl:mr-4 w-full bg-green-200 dark:bg-greener-500 dark:text-white"
-                         role="navigation"
-                         tabindex="-1"
-                         id="navigation">
+                         role="navigation">
                         <div class="mb-2 pb-2 text-2xl font-medium border-b-2 border-green-300 dark:border-greener-400">
                             Inhalte
                         </div>
                         <div v-for="(anchor) in anchors"
                              :style="{ paddingLeft: `${(anchor.depth - 2) * 10}px` }"
-                             :id="index === 0 ? 'navigation' : ''"
                              :key="anchor.id"
                              class="truncate">
                             <a :href="`#${anchor.id}`"
                                :class="{ 'text-sm': anchor.depth > 2 }"
-                               class="text-black dark:text-white hover:text-green-700 dark:hover:text-green-200 no-underline!important truncate"
-                               tabindex="0">{{ anchor.title }}</a>
+                               class="text-black dark:text-white hover:text-green-700 dark:hover:text-green-200 no-underline!important truncate">{{ anchor.title }}</a>
 
                         </div>
 
