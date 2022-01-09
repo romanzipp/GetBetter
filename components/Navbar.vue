@@ -3,11 +3,22 @@
     <div id="top"
          class="flex flex-wrap flex-col lg:flex-row justify-center p-2 lg:p-6 space-x-0 lg:space-x-16 text-black dark:text-white bg-white dark:bg-greener-700">
 
-        <div class="order-2 lg:order-1 flex-1 flex items-center justify-center lg:justify-end space-x-4">
+        <!-- a11y skip to links-->
+        <a href="#navigation"
+           class="absolute rounded-full px-2 bg-gray-500 top-10 left-10 transform -translate-x-96 focus:translate-x-0 transition focus:ease-in"
+           tabindex="0">
+            Springe zum Inhaltsverzeichnis
+        </a>
+        <a href="#footer"
+           class="absolute rounded-full px-2 bg-gray-500 top-10 left-10 transform -translate-x-96 focus:translate-x-0 transition focus:ease-in"
+           tabindex="0">
+            Springe zum Footer
+        </a>
 
+        <div class="order-2 lg:order-1 flex-1 flex items-center justify-center lg:justify-end space-x-4">
             <router-link v-for="link in links"
                          :key="link.url"
-                         :to="link.url"
+                         to="#footer"
                          class="px-4 py-2 tracking-wide text-base lg:text-xl font-sans leading-normal hover:text-green-700 dark:hover:text-greener-100">
                 {{ link.title }}
             </router-link>

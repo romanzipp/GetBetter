@@ -37,11 +37,13 @@
                         <div class="mb-2 pb-2 text-2xl font-medium border-b-2 border-green-300 dark:border-greener-400">
                             Inhalte
                         </div>
-                        <div v-for="anchor in anchors"
+                        <div v-for="(anchor, index) in anchors"
                              :style="{ paddingLeft: `${(anchor.depth - 2) * 10}px` }"
+                             :id="index === 0 ? 'navigation' : ''"
                              :key="anchor.id"
                              class="truncate">
                             <router-link :to="{hash: anchor.id}"
+                                         tabindex="0"
                                          :class="{ 'text-sm': anchor.depth > 2 }"
                                          class="text-black dark:text-white hover:text-green-700 dark:hover:text-green-200 no-underline!important truncate">
                                 {{ anchor.title }}
@@ -60,8 +62,9 @@
 
             </aside>
 
-            <article class="prose prose-green dark:prose-dark max-w-none mx-auto overflow-x-auto"
-                     id="main-content">
+            <article class="prose prose-green dark:prose-dark max-w-none mx-auto overflow-x-auto focus:border-4"
+                     id="main-content"
+                     tabindex="-1">
 
                 <nuxt-content :document="document" />
 

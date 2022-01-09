@@ -2,7 +2,9 @@
 
     <footer class="flex justify-center mt-64 space-x-6 py-16">
 
-        <ul class="flex gap-8">
+        <ul class="flex gap-8 focus:border-4"
+            tabindex="-1"
+            id="footer">
             <li v-for="link in links"
                 :key="link.title">
                 <a :href="link.url"
