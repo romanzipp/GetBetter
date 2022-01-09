@@ -7,6 +7,8 @@
 
             <Nuxt class="content" />
 
+            <Footer />
+
             <div v-if="notice && !noticeDismissed"
                  class="fixed right-0 bottom-0 p-4 lg:p-6 w-full lg:max-w-notice z-30">
 

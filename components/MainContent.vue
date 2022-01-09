@@ -14,8 +14,6 @@
                     <slot />
                 </div>
 
-                <Footer />
-
             </div>
 
         </div>
