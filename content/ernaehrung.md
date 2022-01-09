@@ -3,9 +3,9 @@ title: Ernährung
 description: "Für unseren Nährstoffbedarf besteht absolut keine Notwendigkeit, tierische Produkte zu konsumieren. Des Weiteren zeigen Untersuchungen, dass die vegane Ernährungsweise im Vergleich zur Omnivoren Ernährung mit besseren gesundheitlichen Effekten einhergeht. Zum Beispiel mit einem geringeren Risiko für Herz-Kreislauf-Erkrankungen, für einige Krebsarten, Übergewicht, Hypertonie (Bluthochdruck), Typ-2 Diabetes und allgemein einer geringen Sterblichkeit."
 ---
 
-# Vorwort
+## Vorwort
 
-<mark>*»The most ethical diet just so happens to be the most environmentally sound diet and just so happens to be the healthiest.«* ― Dr. Michael Greger, Arzt und Ernährungswissenschaftler</mark>
+<blockquote> <p>The most ethical diet just so happens to be the most environmentally sound diet and just so happens to be the healthiest.</p> <span>―</span> <cite>Dr. Michael Greger, Arzt und Ernährungswissenschaftler</cite></blockquote>
 
 Als gesunde Ernährung wird eine Ernährung bezeichnet, die den Bedarf aller Nährstoffe deckt und dabei möglichst wenig Lebensmittel, mit potentiell abträglichen Effekten bei erhöhtem Verzehr, beinhaltet.
 
@@ -14,14 +14,16 @@ Grundsätzlich kann jede Ernährungsform, ob vegan, vegetarisch, omnivor o. Ä. 
 Allgemeine Ernährungstipps oder Hinweise finden sich in diesen Texten ebenfalls, jedoch mit dem klaren Fokus auf die vegane Ernährung und welche Faktoren hier besonders berücksichtigt werden müssen, damit keine Mangelerscheinungen auftreten oder verschlimmert werden. Eine Ernährungsumstellung ist am Anfang immer relativ schwierig und verbunden mit Eigeninitiative sich mit seiner Ernährung auseinanderzusetzen. 
 
 
-# Potentiell kritische Nährstoffe in der (veganen) Ernährung
+## Potentiell kritische Nährstoffe in der (veganen) Ernährung
 
-**Was sind »kritische Nährstoffe?«**
+### »kritische Nährstoffe«
+
+#### Was sind »kritische Nährstoffe?«
 
 Als kritische Nährstoffe bezeichnet man Nährstoffe, deren Aufnahme innerhalb der Bevölkerung häufig ungenügend ist.[^1] Gesondert gibt es für jede Ernährungsform unterschiedliche kritische Nährstoffe. So sind zum Beispiel bei der veganen Ernährung andere Nährstoffe als kritischer zu betrachten, als bei einer omnivoren (Mischkost, »Allesfresser«) Ernährung. 
 Das liegt daran, dass wir in einer omnivoren Ernährung durch das Fleisch bestimmte Nährstoffe bekommen, die den Tieren durch ihr Futter zugesetzt werden und somit im Fleisch enthalten sind. Da diese Produkte bei pflanzlicher Ernährung wegfallen, müssen diese anders aufgenommen werden. Im Falle von B12, sollte dies durch ein Nahrungsergänzungspräparat geschehen.
 
-**Was sind möglicherweise kritische Nährstoffe in der (veganen) Ernährung?**
+#### Was sind möglicherweise kritische Nährstoffe in der (veganen) Ernährung?
 
 Hier gibt es eine [Übersicht](https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/kKGEb4t6JiSZPwX?x=1914&y=587&a=true&file=kritische_naehrstoffe.png) zu den kritischen Nährstoffen, sortiert nach Wichtigkeit.[^2] Nachfolgend befassen wir uns näher mit folgenden:
 + **Vitamin B12**
@@ -42,24 +44,24 @@ Weitere möglicherweise kritische Nährstoffe in der (veganen) Ernährung, auf d
 + Lysin
 
 
-## Vitamin B12
+### Vitamin B12
 
 Denkt daran, dass die angegebenen Daten, Informationen und Empfehlungen Durchschnittswerte sind. Alter, Krankheiten und besondere Umstände können erhebliche Abweichungen begünstigen. Bei Unsicherheiten wendet euch an den\*die Ärzt\*in eures Vertrauens.
 
 
-**Was ist B12?**
+#### Was ist B12?
 
 Vitamin B12 ist ein Coenzym[^3] welches in Wechselwirkung mit dem Intrinsischen Faktor (einem Protein, welches unser Körper selbst produziert)[^4] unter anderem zur Blutbildung beiträgt und für ein funktionsfähiges Nervensystem sorgt.[^5]
 Menschen selbst können kein B12 herstellen, deshalb sind wir darauf angewiesen, B12 aus externen Quellen zu uns zu nehmen.[^6] 
 
 
-**Woher bekomme ich B12?**
+#### Woher bekomme ich B12?
 
 B12 findet man, jedenfalls in nennenswerten Mengen, nur in tierischen Produkten.[^6] Jedoch ist B12 weder tierischem, noch pflanzlichem, sondern rein bakteriellen Ursprungs.[^17] Diese Bakterien konnte man im Grundwasser genauso wie im Boden finden. Durch den Wandel unserer Lebensweise und den immer hygienischer werdenden Vorgängen, genauso wie durch mehr Pestizide, werden diese Bakterien, mit anderen durchaus gefährlichen Bakterien, abgetötet.[^7], [^10]
 Für alle Veganer\*innen und einige Vegetarier\*innen ist es also absolut notwendig Vitamin B12 durch eine Nahrungsergänzung zuzuführen.[^8]
 
 
-**Woher bekommen denn Tiere ihr B12?**
+#### Woher bekommen denn Tiere ihr B12?
 
 Omnivore oder Carnivore, also zum Teil, großteils oder ausschließlich Fleischfressende Tiere, wie zum Beispiel Hunde oder Katzen, bekommen ihr B12 so wie omnivore Menschen durch tierische Produkte. Wiederkäuer hingegen produzieren, wenn sie genug Kobalt zugeführt bekommen, ihr eigenes B12 in ihrem komplexen Magen und Pansenkomplex.[^9]
 
@@ -69,7 +71,7 @@ Omnivore oder Carnivore, also zum Teil, großteils oder ausschließlich Fleischf
 Tiere in der Agrarindustrie würden potentiell also selbst an Vitamin B12 Mangel leiden, wenn ihnen nicht B12 in ihr Futter gegeben werden würde.[^10]
 
 
-**Wie viel B12 brauche ich?**
+#### Wie viel B12 brauche ich?
 
 Erwachsenen wird eine tägliche Vitamin B12-Zufuhr von 4 µg empfohlen.[^12]
 
@@ -82,20 +84,20 @@ Dies bedeutet also, dass wir mit einer Mahlzeit nicht auf die empfohlene Tagesdo
 Außerdem wird 1-2% des zugeführten B12s durch passive Diffusion aufgenommen. Ganz kurz erklärt, ist das ein Prozess, bei dem ein Bruchteil des B12s durch die Darmwand und die Schleimhäute aufgenommen werden kann. Der Rest, der nicht entweder direkt (1,5–2µg alle 4–6 Stunden) oder durch die passive Diffusion aufgenommen werden kann, wird ausgeschieden. [^14]
 
 
-**Was ist, wenn ich nicht genug Vitamin B12 zu mir nehme?**
+#### Was ist, wenn ich nicht genug Vitamin B12 zu mir nehme?
 
 Mögliche Folgen eines Vitamin B12 Mangels sind Störung der Zellteilung, Blutarmut, psychische Auffälligkeiten wie Gedächtnisschwäche, Ermüdungserscheinungen, Aufmerksamkeitsdefizite, depressive Verstimmungen sowie neurologische Störungen.[^13]
 
 Hier ein interessanter Beitrag zu Möglichen Problematiken bei B12 Mangel, auch bei nicht Veganer\*innen: [ARD Mediathek - Quarks - Gefahr für die Nerven: Vitamin B12-Mangel](https://www.ardmediathek.de/video/quarks/gefahr-fuer-die-nerven-vitamin-b12-mangel/wdr-fernsehen/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTMyMGQ1YmNjLWQ0MTEtNGMwYy1iODc4LWExMzU2NTVmZjdlZQ/)
 
-**Wie bekommt man als Veganer\*in oder Vegetarier\*in nun B12?**
+#### Wie bekommt man als Veganer\*in oder Vegetarier\*in nun B12?
 
 Als Vegetarier\*in ist es möglich seinen B12 Bedarf durch tierische Produkte wie Eier, Käse, etc zu decken.[^13] Wenn wenig tierische Produkte konsumiert werden, sollte man hier jedoch supplementieren.
 
 Als Veganer\*in ist es notwendig B12 durch ein Nahrungsergänzungsmittel (oder auch: Supplement) zuzuführen.[^8]
 
 
-**Also B12 supplementieren?**
+#### Also B12 supplementieren?
 
 <mark>Disclaimer: Ich kenne weder eure Blutwerte noch eure Essgewohnheiten. Ich bin keine Ärztin oder Ernährungswissenschaftlerin. Zur optimalen Bestimmung eures B12 Spiegels könnt ihr einen Serum-B12 oder einen Holo-TC Test bei euren Ärzt\*innen anfragen.</mark>
 
@@ -115,7 +117,7 @@ Beispiel:
 > Möglich wäre auch 2x am Tag ein sehr gering dosiertes Präparat zu sich zu nehmen. Oder aber, eine Tablette mit 500µg alle 2 Tage zu sich zu nehmen.
 
 
-**Welches Supplement?**
+#### Welches Supplement?
 
 Schaut man z.b. auf Amazon nach B12 Präparaten, sieht man vorrangig Tabletten und Tropfen. Es gibt aber auch Zahnpasta und andere Produkte die mit B12 versetzt sind. Am besten dosieren lässt sich die B12 Zufuhr mit Vitamin B12 Tropfen. Nachfolgend jeweils ein Produktbeispiel von B12 Tropfen und B12 Tabletten:
 
@@ -128,80 +130,80 @@ Schaut man z.b. auf Amazon nach B12 Präparaten, sieht man vorrangig Tabletten u
 Wenn ihr Fragen zur Dosierung, Bedenken zur Supplementierung o. Ä. habt, schreibt mir gerne bei Discord (Mimi#2964) oder auf Twitter (https://twitter.com/heymibbi). 
 
 
-## Vitamin D
+### Vitamin D
 
 <mark>Die Einordnung von Vitamin D als potentiell kritischen Nährstoff hat sehr wenig bis gar nichts mit einer veganen Ernährung zu tun. Dennoch zur Vollständigkeit und für eure Gesundheit habe ich kurz alles wichtige zu Vitamin D zusammengetragen. Denkt daran, dass die angegebenen Daten, Informationen und Empfehlungen Durchschnittswerte sind. Alter, Krankheiten und besondere Umstände können erhebliche Abweichungen begünstigen. Bei Unsicherheiten wendet euch an den\*die Ärzt\*in eures Vertrauens.</mark>
 
-**Was ist Vitamin D?**
+#### Was ist Vitamin D?
 
 Vitamin D umfasst eine Gruppe an Vitaminen, auch Calciferole genannt, welche unter anderem wichtig für den Knochenstoffwechsel als auch zur Förderung der Aufnahme von Calcium beiträgt.[^18] Laut der »Nationalen Verzehrs Studie 2« des Bundes erreichen insgesamt 82% der Männer und 91% der Frauen die empfohlene tägliche Zufuhr von Vitamin D nicht.[^23] 
 
-**Woher bekomme ich Vitamin D?**
+#### Woher bekomme ich Vitamin D?
 
 Vitamin D ist ein Nährstoff den wir zu 80–90% selbst bilden können. Um Vitamin D selbst herstellen zu können benötigen wir jedoch Sonnenlicht (genauer: UV-B Strahlung).[^19] Die DGE (Deutsche Gesellschaft für Ernährung) empfiehlt zusammengefasst eine Sonnenlichtexposition von 5–25 Minuten täglich, abhängig vom Hauttyp. Eine nach Hauttypen unterteile Tabelle findet ihr [hier](https://www.dge.de/wissenschaft/weitere-publikationen/faqs/vitamin-d/?L=0#sonnenexposition).[^20]
 
-**Was ist, wenn ich nicht genug Vitamin D zu mir nehme?**
+#### Was ist, wenn ich nicht genug Vitamin D zu mir nehme?
 
 Ein Mangel an Vitamin D kann bedeutsame Auswirkungen auf die Knochengesundheit haben. Darunter fallen zum Beispiel die Entkalkung und Erweichung der Knochen, verringerte Muskelkraft, Knochenschmerzen, Muskelschwäche und im voranschreitenden Alter ebenfalls Osteoporose (geringe Knochendichte, poröse Knochen).[^18]
 
-**Risikogruppen für einen Vitamin-D-Mangel**
+#### Risikogruppen für einen Vitamin-D-Mangel
 
 Zu den Risikogruppen gehören »Menschen, die sich kaum oder gar nicht im Freien aufhalten (können) oder - etwa aus kulturellen oder religiösen Gründen - nur mit gänzlich bedecktem Körper nach draußen gehen. Außerdem zählen zu den Risikogruppen Menschen mit einer dunklen Hautfarbe (hoher Gehalt an Melanin), da sie weniger Vitamin D bilden können als Menschen mit heller Haut. Eine weitere wichtige Risikogruppe sind ältere Menschen, da die Vitamin-D-Bildung im Alter deutlich abnimmt und es in der älteren Bevölkerung zusätzlich mobilitätseingeschränkte, chronisch kranke und pflegebedürftige Menschen gibt, die sich kaum oder gar nicht im Freien aufhalten (können). Außerdem zählen Säuglinge zu den Risikogruppen für eine Vitamin-D-Unterversorgung, da zum einen der Vitamin-D-Gehalt von Frauenmilch sehr gering ist und zum anderen Säuglinge grundsätzlich nicht einer direkten Sonnenbestrahlung ausgesetzt werden sollen, da sich ihr hauteigener Schutzmechanismus erst noch entwickeln muss.«[^21]
 
-**Wie viel Vitamin D am Tag?**
+#### Wie viel Vitamin D am Tag?
 
 Die DGE (Deutsche Gesellschaft für Ernährung) empfiehlt bei fehlender körpereigener Bildung 20µg pro Tag.[^22]
 
-**Zusammenfassung**
+#### Zusammenfassung
 
 Wenn ihr euch selbst zur Risikogruppe für eine Unterversorgung an Vitamin D zählen würdet, empfehle ich euch, vermehrt auf die Aufnahme von Vitamin D zu achten und euren Vitamin-D-Spiegel von Fachpersonal erheben zu lassen. Bei weiteren Fragen oder Unsicherheiten, fragt gerne im Discord (Mimi#2964) oder schreibt mir auf Twitter (https://twitter.com/heymibbi) 
 
 Desweiteren könnt ihr euch hier intensiver über Vitamin D informieren: [RKI - Vitamin D FAQ](https://www.rki.de/SharedDocs/FAQ/Vitamin_D/Vitamin_D_FAQ-Liste.html) oder schaut euch die Videos eines Ernährungsberaters zum Thema Vitamin D an: [Alles zu Vitamin D bei veganer Ernährung - N.R.](https://www.youtube.com/watch?v=SU3bLXmc8wc), [Wie hoch ist die optimate Vitamin D Dosis? - N.R.](https://www.youtube.com/watch?v=ZBl68nv-2Ow)
 
-## Jod
+### Jod
 
-<mark>Die Einordnung von Jod als potentiell kritischen Nährstoff hat wenig mit einer veganen Ernährung zu tun. Dennoch zur Vollständigkeit und für eure Gesundheit habe ich kurz alles wichtige zu Jod zusammengetragen. Denkt daran, dass die angegebenen Daten, Informationen und Empfehlungen Durchschnittswerte sind. Alter, Krankheiten und besondere Umstände können erhebliche Abweichungen begünstigen. Bei Unsicherheiten wendet euch an den\*die Ärzt\*in eures Vertrauens.</mark>
+<mark>Die Einordnung von Jod als potentiell kritischen Nährstoff hat wenig mit einer veganen Ernährung zu tun. Dennoch zur Vollständigkeit und für eure Gesundheit habe ich kurz alles Wichtige zu Jod zusammengetragen. Denkt daran, dass die angegebenen Daten, Informationen und Empfehlungen Durchschnittswerte sind. Alter, Krankheiten und besondere Umstände können erhebliche Abweichungen begünstigen. Bei Unsicherheiten wendet euch an den\*die Ärzt\*in eures Vertrauens.</mark>
 
-**Was ist Jod?**
+#### Was ist Jod?
 
-Jod ist ein Spurenelement welches dem Aufbau von Schilddrüsenhormonen dient. Diese wiederum steuern Prozesse wie Wachstum, Knochenbildung, Energiestoffwechsel und die Entwicklung des Gehirns.[^24] Laut der »Nationalen Verzehrs Studie 2«, erreichen 96% der Männer und 97% der Frauen die Zufuhrempfehlungen für Jod nicht, wenn sie nicht jodiertes Speisesalz zu sich nehmen.[^25]
+Jod ist ein Spurenelement, welches dem Aufbau von Schilddrüsenhormonen dient. Diese wiederum steuern Prozesse wie Wachstum, Knochenbildung, Energiestoffwechsel und die Entwicklung des Gehirns.[^24] Laut der »Nationalen Verzehrs Studie 2«, erreichen 96% der Männer und 97% der Frauen die Zufuhrempfehlungen für Jod nicht, wenn sie nicht jodiertes Speisesalz zu sich nehmen.[^25]
 
-**Woher bekomme ich Jod?**
+#### Woher bekomme ich Jod?
 
-Jodiertes Speisesalz ist mit 15-25µg pro Gramm Salz eine gute Jodquelle.[^28] Achtet also beim Kauf eures Salzes zum Kochen auf eine jodierte Variante. Wer kein jodiertes Speisesalz benutzt oder damit seinen täglichen Jodbedarf nicht decken kann, kann auf Algen zurückgreifen. Die Nori Alge zum Beispiel hat einen Jodgehalt von 50–80µg pro Gramm.[^29] Achtet bitte gerade bei Algenprodukten auf seriöse Hersteller, die unter ständiger Qualitätskontrolle stehen, denn viele Algenprodukte haben zum Beispiel einen übermäßig hohen Jodgehalt. Alternativ kann man auf ein Jodpräparat zurückgreifen.
+Jodiertes Speisesalz ist mit 15-25 µg pro Gramm Salz eine gute Jodquelle.[^28] Achtet also beim Kauf eures Salzes zum Kochen auf eine jodierte Variante. Wer kein jodiertes Speisesalz benutzt oder damit seinen täglichen Jodbedarf nicht decken kann, kann auf Algen zurückgreifen. Die Nori Alge zum Beispiel hat einen Jodgehalt von 50–80µg pro Gramm.[^29] Achtet bitte gerade bei Algenprodukten auf seriöse Hersteller, die unter ständiger Qualitätskontrolle stehen, denn viele Algenprodukte haben zum Beispiel einen übermäßig hohen Jodgehalt. Alternativ kann man auf ein Jodpräparat zurückgreifen.
 
-**Was ist, wenn ich nicht genug Jod zu mir nehme?**
+#### Was ist, wenn ich nicht genug Jod zu mir nehme?
 
 Jodmangel kann zu einer Unterfunktion der Schilddrüse führen, was wiederum zum Beispiel zu Müdigkeit, Antriebslosigkeit, gesteigerten Schlafbedürfnis, Konzentrationsstörungen, Kälteempfindlichkeit etc. führen kann. Bei längerfristigem Jodmangel kann es zu einer Vergrößerung der Schilddrüse beziehungsweise zur Entwicklung eines Strumas (tastbare, sichtbare oder messbare Vergrößerung der Schilddrüse) kommen.[^30]
 
-**Wie viel Jod am Tag?**
+#### Wie viel Jod am Tag?
 
-Die DGE empfiehlt bei Erwachsenen 200µg Jod am Tag.[^26] Die kritische Dosis, ab der noch keine Mangelerscheinungen auftreten, liegt für eine tägliche Aufnahme bei 60–120µg.[^27]
+Die DGE empfiehlt bei Erwachsenen 200 µg Jod am Tag.[^26] Die kritische Dosis, ab der noch keine Mangelerscheinungen auftreten, liegt für eine tägliche Aufnahme bei 60–120µg.[^27]
 
-**Zusammenfassung**
+#### Zusammenfassung
 
 Durch den Verzehr von zum Beispiel jodiertem Speisesalz kann der tägliche Jodbedarf gedeckt werden. Wenn ihr euch bei eurer täglichen Jodzufuhr unsicher seid, wendet euch gegebenenfalls an Fachpersonal zur Bestimmung eures Jodspiegels. Bei weiteren Fragen oder Unsicherheiten, fragt gerne im Discord (Mimi#2964) oder schreibt mir auf Twitter (https://twitter.com/heymibbi) 
 
 Desweiteren könnt ihr euch hier intensiver über Jod informieren: [Quarks - Darum brauchen wir mehr Jod](https://www.quarks.de/gesundheit/ernaehrung/darum-brauchen-wir-mehr-jod/) oder schaut euch die Videos eines Ernährungsberaters zum Thema Jod an: [Alles zur Jodversorgung bei veganer Ernährung - N.R.](https://www.youtube.com/watch?v=tFxdQHZHnsg)
 
 
-## Protein
+### Protein
 
 <mark>Disclaimer: Ich bin keine Biologin, Sport-, Ernährungswissenschaftlerin o. Ä. Dieser Abschnitt richtet sich vorwiegend an diejenigen, die vermehrt auf ihre Proteinzufuhr, zum Beispiel durch überdurchschnittlich viel Sport, achten sollten. Damit ihr eine einfache Übersicht bekommt, wie ihr eure tägliche Proteinzufuhr decken könnt, folgt weiter unten eine Gegenüberstellung der unterschiedlichen Proteinquellen.</mark>
 
-**Was sind Proteine?**
+#### Was sind Proteine?
 
 Ganz grob zusammengefasst sind Proteine Makromoleküle, große Moleküle bestehend aus vielen ähnlichen Atomen und Atomgruppen, bestehend aus Aminosäuren, welche als Peptidbindungen, also einer Verbindung mehrerer Aminosäuren verknüpft sind.[^31] Es gibt 21 verschiedene Aminosäuren, welche man sich als Bausteine vorstellen kann. Wir brauchen in unserem Körper alle 21 Bausteine in vielen verschiedenen Verbindungen, damit unser Körper alle wichtigen Aufgaben (siehe: *Wofür brauchen wir Proteine*) erfüllen kann. Von diesen 21 verschiedenen Aminosäuren gibt es 8 essentielle Aminosäuren, die unser Körper nicht selbst herstellen kann. Isoleucin, Leucin, Lysin, Methionin, Phenylalanin, Threonin, Tryptophan und Valin.[^32] Als junger Heranwachsender oder im hohen Alter gibt es 2 als semi-essentiell eingestufte Aminosäuren (Histidin und Arginin) auf wessen Zufuhr man gegebenenfalls zusätzlich achten muss.[^33] Diese 8 Aminosäuren müssen wir über unsere Nahrung zu uns nehmen.[^34]
 
-**Wofür brauchen wir Proteine?**
+#### Wofür brauchen wir Proteine?
 
 Hier eine übersichtliche Grafik, welche Funktionen Proteine in unserem Körper erfüllen - [Grafik](https://www.eufic.org/images/uploads/whats-in-food/protein-functions_de.png) [^34]
 
-**Wie viel Proteine brauche ich?**
+#### Wie viel Proteine brauche ich?
 
 Die empfohlene Zufuhr von Protein pro Tag liegt bei ca 0,8g pro Kilogramm.[^35] Beispiel: Für eine Person mit 75 kg wären das 60g Protein pro Tag. Dabei handelt es sich um einen Richtwert. Wenn ihr Sportler\*in seid, liegt der Wert, abhängig von der Intensität, Dauer und Häufigkeit des Trainings, höher (laut des Deutschen Instituts für Sporternährung e.V. bis zu 1,6g pro kg).[^36] Ebenso empfiehlt die DGE, dass man ab einem Alter von 65 Jahren die allgemeine Proteinzufuhr erhöhen sollte (1g pro kg).[^37]
 
-**Wie decke ich meinen Proteinbedarf als Veganer\*in oder Vegetarier\*in?**
+#### Wie decke ich meinen Proteinbedarf als Veganer\*in oder Vegetarier\*in?
 
 Wenn ich an die Ernährung der Sportler\*innen denke, mit denen ich in der Vergangenheit Kontakt hatte, waren deren primäre Proteinquellen meistens Hähnchenbrust und Magerquark.
 Wahrscheinlich lautet deshalb auch eine der häufigsten Fragen, die Veganer\*innen gestellt wird: *»Wie bekommen Veganer\*innen denn überhaupt genug Protein?«*
@@ -210,7 +212,7 @@ Zur Orientierung habe ich daher von einigen Lebensmitteln den Proteingehalt in e
 
 <iframe title="PROTEINTABELLE" aria-label="Balken" id="datawrapper-chart-EBXRs" src="https://datawrapper.dwcdn.net/EBXRs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1013"></iframe>
 
-**Gibt es Unterschiede zwischen pflanzlichen und tierischen Protein?**
+#### Gibt es Unterschiede zwischen pflanzlichen und tierischen Protein?
 
 Grundsätzlich versucht man Proteinen eine bestimmte Qualität zuzuschreiben. Ein möglicher Wert für die Bestimmung der Qualität eines Proteins ist die biologische Wertigkeit (nachfolgend abgekürzt mit BW). Dabei nimmt man das Vollei als Referenz und erteilt ihm die Wertigkeit 100. Diese BW bemisst den Wert wie viel eines aufgenommenen Proteins in körpereigenes Protein umgewandelt werden kann. Die BW kann zum Beispiel durch Kombination von verschiedenen Lebensmitteln steigen.[^38]
 
@@ -220,7 +222,7 @@ Einen weiteren Faktor stellen die limitierenden Aminosäuren dar. Nicht jedes Le
 
 Tierische Proteine besitzen in der Regel übrigens eine höhere BW im Vergleich zu pflanzlichen Proteinen.[^38] Das liegt daran, dass der Aufbau der tierischen Proteine dem Aufbau der im menschlichen Körper vorhandenen Proteine ähnlicher ist, als der der pflanzlichen Proteine. Dennoch sind sowohl in tierischen und pflanzlichen Produkten grundsätzlich ein und dieselben Aminosäuren enthalten. Nur die Zusammensetzung und Menge unterscheidet sich bei den jeweiligen Lebensmitteln. Wir können also alle Aminosäuren aus beiden Quellen beziehen.[^39]
 
-**Tierisches Protein > pflanzliches Protein?**
+#### Tierisches Protein > pflanzliches Protein?
 
 Tierische Proteine sind für die meisten ein besseres Rundumpaket, zum einen weil sie es gewohnt sind Fleisch und Milchprodukte zu konsumieren, zum anderen weil die Proteinstrukturen von tierischem Protein dem des Menschen ähneln und deswegen etwas schneller resorbiert werden können.[^39] 
 
@@ -236,11 +238,11 @@ Untersuchungen zeigen, dass die vegane Ernährungsweise im Vergleich zur Omnivor
 <br>
 <mark>*»Convincing association was found between larger intake of red meat and cancer, especially with colorectal, lung, esophageal and gastric malignancies. Increased consumption of processed meat was also found to be associated with colorectal, esophageal, gastric and bladder cancers.«*[^43]</mark>
 
-**Fazit**
+#### Fazit
     
 Es besteht absolut keine Notwendigkeit tierisches Protein zu sich zu nehmen. Auch Sportler\*innen oder Menschen mit erhöhtem Proteinbedarf können jenen rein pflanzlich decken. Alle nötigen Aminosäuren können durch eine pflanzliche Ernährungsweise aufgenommen werden und eliminieren die gesundheitlichen Risiken die mit tierischen Produkten einhergehen.
 
-**Interessante Artikel oder Videos zum Thema**
+#### Interessante Artikel oder Videos zum Thema
 
 + Sport und pflanzliche Ernährung
   + [Niko Rittenau (Ernährungswissenschaftler, Ernährungsberater, Koch) und Jasper Caven (Ernährungsberater, Personal Trainer) reden über die optimale vegane Ernährung zum Muskelaufbau.](https://www.youtube.com/watch?v=Gbvg2QTXgcc)
@@ -249,24 +251,24 @@ Es besteht absolut keine Notwendigkeit tierisches Protein zu sich zu nehmen. Auc
   + [Spiegel Artikel “Pflanzliches Eiweiß scheint gesünder als tierisches” arbeitet eine Ernährungsstudie zum genannten Thema auf.](https://www.spiegel.de/gesundheit/ernaehrung/pflanzliches-eiweiss-ist-gesuender-als-tierisches-a-1105632.html)
 
 
-# Pflanzliche Produkte / Ersatzprodukte
+## Pflanzliche Produkte / Ersatzprodukte
 
 <mark>Grundsätzlich gilt: Viele Ersatzprodukte lassen sich auch selbst herstellen. Wer aber weniger Zeit aufwenden möchte, kann sich die folgenden convenience Produkte anschauen.
 Außerdem zählt eine ausgewogene vegane Ernährung in den meisten Fällen nicht nur darauf ab, nicht-vegane Produkte mit veganen Ersatzprodukten auszutauschen. Es stellt aber eben eine Alternative dar, für jene Produkte, die viele von uns unser Leben lang gerne konsumiert haben.</mark>
 
-## Soja
+### Soja
 
 Da einige pflanzliche (Ersatz)produkte aus Soja bestehen, hier eine kurze Einführung.
 
-**Was ist Soja?**
+#### Was ist Soja?
 
-Die Sojabohne ist eine Leguminose oder auch Hülsenfrucht genannt. Soja enthält alle essentiellen Aminosäuren [siehe: Protein](/ernaehrung/#protein) und hat allgemein einen hohen Protein- und Nährstoffgehalt.[^44] Zusätzlich ist Soja eine gute Quelle für zum Beispiel Kalzium, Zink, Eisen, Magnesium und Folsäure.[^45]
+Die Sojabohne ist eine Leguminose oder auch Hülsenfrucht genannt. Soja enthält alle essentiellen Aminosäuren [siehe: Protein](#protein) und hat allgemein einen hohen Protein- und Nährstoffgehalt.[^44] Zusätzlich ist Soja eine gute Quelle für zum Beispiel Kalzium, Zink, Eisen, Magnesium und Folsäure.[^45]
 
-**Ist Soja ungesund?**
+#### Ist Soja ungesund?
 
 Es kursieren viele Mythen rund um Soja. So zum Beispiel, dass Sojakonsum die Brustkrebswahrscheinlichkeit erhöhen, den Testosteronspiegel von Männern senken, die Spermienzahl verringern oder eine grundsätzlich negative Wirkung auf die Schilddrüse haben soll. Der kritischen Betrachtung der Daten- und Studienlage halten diese Mythen aber nicht stand, was nachfolgend belegt wird.
 
-**Soja und Brustkrebs**
+#### Soja und Brustkrebs
 
 Es ist nachweislich nicht nur so, dass Sojakonsum in moderaten Mengen nicht nur keine negative Auswirkung auf das Brustkrebsrisiko hat, sondern Studien aus asiatischen Ländern zeigen, dass sogar ein geringeres Brustkrebsrisiko mit dem regelmäßigen, moderaten Konsum von Soja einhergeht, vor allem dann, wenn im jungen Alter schon Soja zu sich genommen wurde. 
 
@@ -274,13 +276,13 @@ Es ist nachweislich nicht nur so, dass Sojakonsum in moderaten Mengen nicht nur 
 <br>
 <mark>*»Findings obtained in 2 recent human studies show that a moderate consumption of diet containing this isoflavone does not increase the risk of breast cancer recurrence in Western women, and Asian breast cancer survivors exhibit better prognosis if they continue consuming a soy diet«*[^46]</mark>
 
-**Soja und der Testosteronspiegel**
+#### Soja und der Testosteronspiegel
 
 Die Verwirrung rund um den Testosteron- beziehungsweise Östrogenspiegel stammt daher, dass Sojabohnen Isoflavone, oftmals auch Phytoöstrogene genannt, enthalten, die einen chemisch gesehen ähnlichen Aufbau zum weiblichen Sexualhormon Östrogen haben.[^47] Jedoch ist die Wirkung von diesen Isoflavonen um den Faktor 100–10000 geringer als die des im Körper vorkommenden Östradiols.[^54] Sojakonsum senkt in moderaten, gängigen Mengen, laut einer Metaanalyse, aber nicht den Testosteronspiegel bei Männern. 
 
 <mark>*»The results of this meta-analysis suggest that neither soy foods nor isoflavone supplements alter measures of bioavailable T concentrations in men.«*[^48]</mark>
 
-**Soja und Spermienqualität**
+#### Soja und Spermienqualität
 
 Laut Studien haben Isoflavone keinen Effekt auf einen zirkulierenden Östrogenspiegel bei Männern, genauso wenig wie einen negativen Effekt auf die Anzahl oder Qualität der Spermien.
 
@@ -291,12 +293,12 @@ Laut Studien haben Isoflavone keinen Effekt auf einen zirkulierenden Östrogensp
 <mark>*»Consumption of soy protein of low or high isoflavone content does not adversely affect semen quality in a sample of healthy adult men.«*[^51]</mark>
 
 
-**Soja und Schilddrüse**
+#### Soja und Schilddrüse
 
 Laut der British Dietetic Association gibt es keine negativen Auswirkungen auf die Schilddrüse, bei Menschen die grundsätzlich eine funktionale Schilddrüse haben.
 <mark>*»A review of 14 studies has confirmed that there is no harmful effect of soya food consumption in healthy humans with a normal functioning thyroid gland.«*[^52]</mark>
 
-**Gesundheitliche Einordnung des Sojakonsums**
+#### Gesundheitliche Einordnung des Sojakonsums
 
 Es gibt keine seriöse, renommierte Ernährungs- Gesundheits- oder Risikobewertungsorganisation die davon abrät Sojaprodukte zu konsumieren. Zum Beispiel berichtet die British Dietetic Association (BDA) davon, dass es mittlerweile einen wissenschaftlichen Konsens gibt, dass die Kontroverse, rund um die möglicherweise negativen Effekte von Isoflavonen bei Menschen, nur durch Erkenntnisse von Laboren, welche Tierversuche mit hochdosierten, isolierten Isoflavonen, angeheizt wurde.
 
@@ -306,23 +308,23 @@ Das Bundesinstitut für Risikobewertung (BfR) schreibt in ihrem Paper “Fragen 
 <mark>*»Die Teilnehmer des Expertentreffens waren einig, dass die Aufnahme von Isoflavonen im Rahmen einer normalen Soja-Kost bei üblichen Verzehrmengen nach dem gegenwärtigen
 wissenschaftlichen Kenntnisstand als unbedenklich angesehen werden kann. Hingegen stellt sich die Risikobewertung bei Verzehr von Zubereitungen und Produkten mit isolierten/angereicherten Isoflavonen grundsätzlich anders dar.«*[^53]</mark>
 
-**Zusammenfassung**
+#### Zusammenfassung
 
 Die Studien zeigen, dass es keinen Grund für Angst vor gesundheitlich abträglichen Effekten aufgrund des Konsums von Sojaprodukten gibt. Bedeutet, dass ihr in eurer Ernährung auf Sojaprodukte gut und gerne zurückgreifen könnt. Außer es besteht eine Sojaallergie. Wenn ihr abseits von den oben aufgeführten Mythen zu Soja gelesen/gehört habt, könnt ihr mir diese gerne zukommen lassen und ich überprüfe diese. Oder aber ihr habt weitere Fragen, die ihr mir ebenfalls gerne im Discord (Mimi#2964) oder auf Twitter (https://twitter.com/heymibbi).
 
 
-## Fleisch
+### Fleisch
 
 Wie bereits oben beschrieben können Sojaprodukte vor allem aufgrund ihres Proteingehalts und Aminosäurenprofil als guter Fleischersatz dienen.
 
-**Naturtofu**, auf Sojabasis
+#### **Naturtofu**, auf Sojabasis
 neutraler Geschmack, eingelegt in Lake, schnittfest, perfekt um ihn in eigene Marinaden einzulegen
 
 Vegane Produktbeispiele:
 + TAIFUN Natur
 + REWE Natur-Tofu
 
-**Räuchertofu**, auf Sojabasis
+#### **Räuchertofu**, auf Sojabasis
 leichtes Raucharoma, leicht fester als Naturtofu und deshalb gut zu würfeln z.b., gut zum marinieren
 
 Vegane Produktbeispiele:
@@ -332,81 +334,82 @@ Vegane Produktbeispiele:
 <mark>Hinweis: Tofu schmeckt absolut neutral. Ihr solltet Naturtofu und Räuchertofu abtupfen, abtropfen oder auspressen um soviel Flüssigkeit wie möglich aus dem Tofu zu bekommen.
 Dann solltet ihr den Tofu marinieren und ihn gegebenenfalls mit Stärke bestäuben, um ihn zu braten. Macht ihr das nicht, wird euch Tofu keinesfalls schmecken.</mark>
 
-**Seitan**, auf Basis von Weizeneiweiß (Gluten)
+#### **Seitan**, auf Basis von Weizeneiweiß (Gluten)
 Schmeckt von allen Ersatzprodukten dem Fleisch am ähnlichsten, Fleischähnliche Konsistenz ähnlich wie Dönerfleisch oder Gyros, gut für Spieße, Burgerpattys und zum Grillen
 
 Vegane Produktbeispiele:
 + VEGANZ Seitan-Basis (zum selbst zubereiten)
 + NAGEL Seitan
 
-### Fertigprodukte:
+### Fertigprodukte
 
 Es gibt unglaublich viele Fertigprodukte, die dabei helfen können, bekannte fleischhaltige Gerichte einfach vegan zuzubereiten. Häufig wird ein unterschiedlicher Ansatz verfolgt und die Produkte unterscheiden sich sehr vom Geschmack. Probiert einfach verschiedene aus und findet für euch das passende Produkt. Nicht alle Ersatzprodukte, die ihr vermutlich kennt, sind jedoch vegan. Es gibt auch viele, die noch tierische Erzeugnisse beinhalten. Hier sind nachfolgend einige, ausschließlich vegane Ersatzprodukte aufgelistet.
 
-**Nuggets**
+#### Nuggets
 Vegane Produktbeispiele:
 + LIKE MEAT - Like Nuggets
 + FOOD FOR FUTURE - Vegane Nuggets
 + IGLO GREEN CUISINE - *»Chicken«* Nuggets
 
-**Schnitzel**
+#### Schnitzel
 Vegane Produktbeispiele:
 + LIKE MEAT - Like Schnitzel
 + VIVERA - Veganes Knuspriges Schnitzel Hähnchen-Art
 
-**Bratwurst**
+
+#### Bratwurst
 Vegane Produktbeispiele:
 + PLAN “B” - Vegane Bratwurst
 + LIKE MEAT - Like Bratwurst
 
-**Salami**
+#### Salami
 Vegane Produktbeispiele:
 + REWE - Veganer Aufschnitt Typ Salami
 + MÜHLENHOF - Vegane Mühlen Salami
 
-**Speck**
+#### Speck
 Vegane Produktbeispiele:
 + VIVERA - Veganer Speck
 
-**Burgerpatties**
+#### Burgerpatties
 Vegane Produktbeispiele:
-+ BEYOND MEAT - Beyond Burger
++BEYOND MEAT - Beyond Burger
 + THE WONDER BURGER - Vegane Burger Patties
 + FOLLOWFOODS - Freiburger
     
-## Milch
+### Milch
 
-**Sojamilch** gilt als der »klassische« Kuhmilchersatz. Gute Proteinquelle. Leicht nussiger/bohnenartiger Geschmack. Besonders gut zum Kochen.
+#### **Sojamilch** gilt als der »klassische« Kuhmilchersatz. Gute Proteinquelle. Leicht nussiger/bohnenartiger Geschmack. Besonders gut zum Kochen.
 Vegane Produktbeispiele:
 + ALPRO Soya
 + ALPRO Soya Vanille (mein Favorit für Müsli)
 + EDEKA Sojadrink
 
-**Mandelmilch** hat einen leicht süßlicher Eigengeschmack, eher cremige Konsistenz, besonders gut für Porridge o.Ä.
+#### **Mandelmilch** hat einen leicht süßlicher Eigengeschmack, eher cremige Konsistenz, besonders gut für Porridge o.Ä.
 Vegane Produktbeispiele:
 + ALPRO Mandel
 + PROVAMEL Almond Mandel
 
-**Hafermilch** hat einen leicht süßlicher Eigengeschmack, leicht dickflüssige Konsistenz, besonders gut für Kaffee, Kakao, Porridge o.Ä.
+#### **Hafermilch** hat einen leicht süßlicher Eigengeschmack, leicht dickflüssige Konsistenz, besonders gut für Kaffee, Kakao, Porridge o.Ä.
 Vegane Produktbeispiele:
 + ALPRO Hafer
 + ALPRO Barista Hafer (Perfekt für Kaffee)
 + OATLY Hafer (Perfekt für Kaffee)
 
-**Reismilch** hat einen leichten, milden Eigengeschmack, besonders gut für Fruchtsäfte, Smoothies o.Ä., eher sehr dünnflüssig
+#### **Reismilch** hat einen leichten, milden Eigengeschmack, besonders gut für Fruchtsäfte, Smoothies o.Ä., eher sehr dünnflüssig
 Vegane Produktbeispiele:
 + ALPRO Reis
 + ALNATURA Reisdrink
 
-## Käse
+### Käse
 
-**»Käsegeschmack«** in Gerichten lässt sich recht einfach mit Hefeflocken nachstellen. Hefeflocken sind reich an Vitaminen und eine gute Proteinquelle. Nicht verwunderlich, dass in sehr vielen veganen Gerichten Hefeflocken verarbeitet sind.
+#### **»Käsegeschmack«** in Gerichten lässt sich recht einfach mit Hefeflocken nachstellen. Hefeflocken sind reich an Vitaminen und eine gute Proteinquelle. Nicht verwunderlich, dass in sehr vielen veganen Gerichten Hefeflocken verarbeitet sind.
 Vegane Produktbeispiele:
 + VITAM Hefeflocken
 + RAPUNZEL Hefeflocken
 + VANTASTIC FOODS Hefeflocken
 
-**Scheibenkäse** auf Basis von z.B. Kokosöl, Walnuss, Cashewnuss, Mandeln o.Ä.
+#### **Scheibenkäse** auf Basis von z.B. Kokosöl, Walnuss, Cashewnuss, Mandeln o.Ä.
 Vegane Produktbeispiele:
 + SimplyV Nussig 
 + SimplyV Würzig 
@@ -414,93 +417,93 @@ Vegane Produktbeispiele:
 + BEDDA Scheiben Classic
 + GRÜNKRAFT Bauernscheibe Pur
 
-**Frischkäse** auf Basis von z.B. Soja oder Mandel
+#### **Frischkäse** auf Basis von z.B. Soja oder Mandel
 Vegane Produktbeispiele:
 + SimplyV Streichgenuss
 + VIOLIFE Creamy
 + BEDDA Veganaufstrich
 
-**Streukäse** auf Basis von Kokosöl oder Mandel (Tipp: Reibekäse vorher in einer Schüssel mit Öl vermengen, bevor man ihn über den Auflauf o.Ä. gibt)
+#### **Streukäse** auf Basis von Kokosöl oder Mandel (Tipp: Reibekäse vorher in einer Schüssel mit Öl vermengen, bevor man ihn über den Auflauf o.Ä. gibt)
 Vegane Produktbeispiele:
 + SimplyV Reibegenuss
 + BEDDA zum streuen reiberei
 
-**Parmesan** auf Basis von Soja oder geriebenen Nüssen
+#### **Parmesan** auf Basis von Soja oder geriebenen Nüssen
 Vegane Produktbeispiele:
 + DM Veganes Pasta Topping
 + BEDDA zum streuen granvegano
 + SimplyV Pastagenuss
 
-**Mozzarella** auf Basis von Vollkornreis oder Kokosöl
+#### **Mozzarella** auf Basis von Vollkornreis oder Kokosöl
 Vegane Produktbeispiele:
 + VIOLIFE Geriebener Mozzarella
 + Bio Risella Mozzarella
 
-**Feta** auf Basis von Kokosöl
+#### **Feta** <small>auf Basis von Kokosöl</small>
 Vegane Produktbeispiele:
 + VIOLIFE Greek White BLOCK
 + BEDDA in Salzlake
     
-## Butter
+### Butter
 
-**Rapsöl** oder anderes pflanzliches Öl zum Beispiel zum Anbraten
+#### **Rapsöl** oder anderes pflanzliches Öl zum Beispiel zum Anbraten
 Vegane Produktbeispiele:
 + Rapso 100% reines Rapsöl
 + Rapsgold universelles Rapsöl
 + Rapsgold Rapsöl mit Buttergeschmack
 
-**Pflanzliche Margarine** zum Bestreichen von Brot, Brötchen etc. oder zum Backen. **Achtung!** Einige Margarine Produkte beinhalten dennoch Kuhmilchprodukte
+#### **Pflanzliche Margarine** zum Bestreichen von Brot, Brötchen etc. oder zum Backen. **Achtung!** Einige Margarine Produkte beinhalten dennoch Kuhmilchprodukte
 Vegane Produktbeispiele:
 + Rama 100% pflanzliche Margarine
 + Becel Vegan
 
-**Pflanzliche Butter** ebenfalls zum Bestreichen von Brot, Brötchen etc. oder zum Backen
+#### **Pflanzliche Butter** ebenfalls zum Bestreichen von Brot, Brötchen etc. oder zum Backen
 Vegane Produktbeispiele: 
 + Rama »Die 100% Pflanzliche«
 + Violife Vioblock
 + Alsan-Bio
 + Naturli’: Organic Vegan Block
 
-## Joghurt
+### Joghurt
 
-**Soja-Joghurt** auf Basis von Sojabohnen. Milder eher bohnenartiger Eigengeschmack, dünnflüssiger als Kuhmilch-Joghurt. Vielseitig einsetzbar, gut zu süßen oder aromatisieren.
+#### **Soja-Joghurt** auf Basis von Sojabohnen. Milder eher bohnenartiger Eigengeschmack, dünnflüssiger als Kuhmilch-Joghurt. Vielseitig einsetzbar, gut zu süßen oder aromatisieren.
 Vegane Produktbeispiele:
 + Alpro Natur
 + Alpro Natur ohne Zucker
 + Alpro Heidelbeere, etc
 + REWE Sojagurt Natur
 
-**Kokosnussjoghurt** auf Basis von Kokosmilch. Milder, cremiger Geschmack. Gut zum Müsli, Bowls, Currygerichten o.Ä. oder einfach pur. 
+#### **Kokosnussjoghurt** auf Basis von Kokosmilch. Milder, cremiger Geschmack. Gut zum Müsli, Bowls, Currygerichten o.Ä. oder einfach pur. 
 Vegane Produktbeispiele:
 + ALPRO Absolutely Kokosnuss
 + ALNATURA Kokos Natur
 
-## Eier
+### Eier
 
-**Als Bindemittel** z.B. beim Backen:
+#### **Als Bindemittel** z.B. beim Backen:
 + ½ zerdrückte Banane
 + 3 EL Apfelmus
 + 1 EL Chiasamen + 3 EL Wasser
 + 1 EL Leinsamen + 3 EL Wasser
-+ BIOVEGAN Ei-Ersatz 
++ BIOVEGAN Ei-Ersatz
 
-**Für Eischnee:**
+#### Für Eischnee:
 + 2 EL Aquafaba aufschlagen (Aquafaba ist das Kochwasser von Kichererbsen)
 
-**Eigeschmack:**
+#### Eigeschmack:
 + Kala Namak (Schwarzsalz, welches dem typischen Ei-Geschmack sehr nah kommt)
 
-**Eifarbe:**
+#### Eifarbe:
 + Kurkuma (auch: Safranwurz, starke gelbe Farbe)
 
-## Saucen
+### Saucen
 
-**Mayonnaise**, meistens auf Basis von Sonnenblumenöl, Rapsöl o.Ä.
+#### **Mayonnaise**, meistens auf Basis von Sonnenblumenöl, Rapsöl o.Ä.
 Vegane Produktbeispiele:
 + HELLMANS Vegan Mayo
 + HEINZ Mayo Vegan
 
-**Andere Saucen**
+#### Andere Saucen
 Vegane Produktbeispiele:
 + DEVELEY Curry Sauce
 + DEVELEY Süß-Sauer Sauce
@@ -508,30 +511,30 @@ Vegane Produktbeispiele:
 + DEVELEY Pommes Sauce
 + HELA Gewürzketchup 
 
-**Tomatenketchup** ist übrigens eigentlich immer vegan. Schaut aber bitte ruhig auf die Zutatenliste.
+#### **Tomatenketchup** ist übrigens eigentlich immer vegan. Schaut aber bitte ruhig auf die Zutatenliste.
 
-## Honig
+### Honig
 
-**Agavendicksaft/Agavensirup** ist ein Süßungsmittel auf Basis der Agave. Süßer als Honig, leicht dünnflüssiger. Allround-Ersatz für Honig.
+#### **Agavendicksaft/Agavensirup** ist ein Süßungsmittel auf Basis der Agave. Süßer als Honig, leicht dünnflüssiger. Allround-Ersatz für Honig.
 Vegane Produktbeispiele:
 + REWE Agavendicksaft
 + EDEKA Agavendicksaft
 + ALNATURA Agavendicksaft
 
-**Ahornsirup** ist ein Süßungsmittel auf Basis des Zucker-Ahorns. Karamellartiger kräftiger Eigengeschmack, klebrige Konsistenz. Gut zu z.b. Pancakes.
+#### Ahornsirup ist ein Süßungsmittel auf Basis des Zucker-Ahorns. Karamellartiger kräftiger Eigengeschmack, klebrige Konsistenz. Gut zu z.b. Pancakes.
 Vegane Produktbeispiele:
 + REWE Ahornsirup
 + RAPUNZEL Ahornsirup
 + ALNATURA Ahornsirup
 
-**Reissirup** ist ein Süßungsmittel auf Basis von fermentierten Reis. Milder Eigengeschmack. Reines Zuckerkonzentrat. Gut zum milden Süßen.
+#### **Reissirup** ist ein Süßungsmittel auf Basis von fermentierten Reis. Milder Eigengeschmack. Reines Zuckerkonzentrat. Gut zum milden Süßen.
 Vegane Produktbeispiele:
 + DM Reissirup
 + EDEKA Reissirup
 + ALNATURA Reissirup
 
 
-# Inhaltsstoffe
+## Inhaltsstoffe
 
 Was ist nicht vegan? Worauf muss ich beim Einkauf achten? Grundsätzlich gilt bei veganer Ernährung: **Kein Verzehr von tierischen Produkten**
 Hier ein kleiner Guide, um zu identifizieren, was alles unter “tierische Produkte” fällt.
@@ -540,7 +543,7 @@ Hier ein kleiner Guide, um zu identifizieren, was alles unter “tierische Produ
 
 Niemand erwartet, dass der Inhalt auswendig gelernt wird, zur Hilfe gibt es Apps, wie zum Beispiel [CodeCheck - Kostenfreie App mit Werbung und zusätzlichen Bezahloptionen.](https://www.codecheck.info/so-gehts/mobil) Persönliche Empfehlung: Nur für die Kennzeichnung ob ein Produkt vegan oder nicht ist benutzen. Das kann zum Einstieg während des Einkaufens helfen. (Es besteht keine Kooperation oder Verbindung zu der Firma.)
 
-Label können auch als Orientierungshilfe genutzt werden, gängige Label sind hier:
+Label können auch als Orientierungshilfe genutzt werden, gängige Label sind:
 
 <figure class="flex flex-col md:flex-row items-center gap-6">
 <img src="https://cloud.brandsafe.cc/apps/files_sharing/publicpreview/x7AyDFZeEd66Srt?x=1914&y=587&a=true&file=vegan.png&scalingup=0" class="h-48" alt="Das V-Label der Europäischen Vegetarier Union">
@@ -636,7 +639,7 @@ Nummer | Inhalt
 <mark>Anmerkung zu *möglicherweise vegan*: Es gibt mehrere Möglichkeiten verschiedene Stoffe herzustellen, ein gutes Beispiel ist Lecithin (E322). Lecithin wird meistens aus pflanzlichen Stoffen gewonnen, es gibt aber die Möglichkeit, dass tierische Erzeugnisse zur Gewinnung benutzt werden. [Verbraucherzentrale - Lecithin](https://www.verbraucherzentrale-bayern.de/wissen/haetten-sies-gewusst/ist-der-zusatzstoff-lecithin-tierisch-oder-vegan-8904)</mark>
 
 
-# Quellen
+## Quellen
 
 [^1]: (1.) https://www.ernaehrung.de/lexikon/ernaehrung/k/Kritische-Naehrstoffe.php
 [^2]: (2.) https://vegan-masterclass.de/wp-content/uploads/2020/10/kritische_naehrstoffe.pdf (Seite 2) - Rittenau, N. Vegan-Klischee ade! Wissenschaftliche Antworten auf kritische Fragen zu pflanzlicher Ernährung.
