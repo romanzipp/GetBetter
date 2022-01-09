@@ -1,6 +1,10 @@
 <template>
-    <section :class="{'dark': dark}">
+    <section :class="{'dark': dark}"
+             class="focus:outline-none"
+             ref="mainContent"
+             tabindex="-1">
         <div class="min-h-screen flex flex-col border-8 md:border-16 border-green-100 dark:border-greener-600 bg-green-100 dark:bg-greener-600">
+            <vue-announcer />
             <header>
                 <Navbar />
             </header>
@@ -93,5 +97,15 @@ export default {
             this.noticeDismissed = true;
         },
     },
+
+    watch: {
+        $route: {
+            handler() {
+                console.log('HIER');
+                this.$refs.mainContent.focus();
+            },
+        },
+    },
+
 };
 </script>
