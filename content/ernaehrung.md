@@ -268,7 +268,7 @@ Es kursieren viele Mythen rund um Soja. So zum Beispiel, dass Sojakonsum die Bru
 
 **Soja und Brustkrebs**
 
-Es ist nachweislich nicht nur so, dass Sojakonsum in moderaten Mengen nicht nur keine negative Auswirkung auf das Brustkrebsrisiko hat, sondern Studien aus asiatischen Ländern zeigen, dass sogar ein geringeres Brustkrebsrisiko mit dem regelmäßigen, moderaten Konsum von Soja einhergeht, vor allem dann, wenn im jungen Alter schon Soja zu sich genommen wurde. 
+Studien belegen, dass der moderate Konsum von Soja keine negative Auswirkung auf das Brustkrebsrisiko hat. Weiterführende wissenschaftliche Untersuchungen aus asiatischen Ländern zeigen, dass ein geringeres Brustkrebsrisiko mit dem regelmäßigen, moderaten Konsum von Soja einhergeht, vor allem dann, wenn im jungen Alter schon Soja zu sich genommen wurde.
 
 <mark>*»Results reviewed here suggest that women consuming moderate amounts of soy throughout their life have lower breast cancer risk than women who do not consume soy; however, this protective effect may originate from soy intake early in life.«*[^46]</mark><br>
 <br>
