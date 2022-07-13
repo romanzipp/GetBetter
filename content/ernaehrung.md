@@ -517,7 +517,7 @@ Vegane Produktbeispiele:
 + Grafschafter Goldsaft
 + ALNATURA Goldsirup
 
-**Agavendicksaft/Agavensirup** ist ein Süßungsmittel auf Basis der Agave. Dünnflüssiger und süßer als Honig mit mildem Eigengeschmack. Aufgrund eines sehr hohen Fructoseanteils und der Gewinnung aus Agaven-Monokulturen in Mexiko sollte er jedoch nur sparsam verwendet werden.[^61]
+**Agavendicksaft/Agavensirup** ist ein Süßungsmittel auf Basis der Agave. Dünnflüssiger und süßer als Honig mit mildem Eigengeschmack. Aufgrund eines sehr hohen Fructoseanteils und der Gewinnung aus Agaven-Monokulturen in Mexiko sollte er jedoch nur sparsam verwendet werden.
 Vegane Produktbeispiele:
 + REWE Agavendicksaft
 + EDEKA Agavendicksaft
@@ -703,4 +703,3 @@ Nummer | Inhalt
 [^58]: (58.) https://veganesk.de/wissen/e-nummern-versteckte-tierprodukte
 [^59]: (59.) https://www.codecheck.info/hintergrund/vegan
 [^60]: (60.) https://eatsmarter.de/ernaehrung/gesund-ernaehren/was-ist-nicht-vegan
-[^61]: (61.) https://www.quarks.de/gesundheit/ernaehrung/darum-ist-agavendicksaft-gar-nicht-so-gut
