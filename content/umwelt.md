@@ -131,7 +131,7 @@ Diesen Beitrag können wir täglich leisten, für unsere Gesundheit, die Tiere u
 [^18]: (18) https://www.regenwald-schuetzen.org/verbrauchertipps/soja-und-fleischkonsum/die-komplexen-folgen-der-massentierhaltung
 [^19]: (19) http://www.fao.org/3/i9540en/i9540en.pdf (Seite 6)
 [^20]: (20) https://www.bfr.bund.de/de/zoonosen.html
-[^21]: (21) http://www.fao.org/Newsroom/en/news/2007/1000660/index.html
+[^21]: (21) https://web.archive.org/web/20180630034756/http://www.fao.org/newsroom/en/news/2007/1000660/
 [^22]: (22) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629502/
 [^23]: (23) https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1005&context=sota_2007
 [^24]: (24) https://www.bund.net/massentierhaltung/antibiotika/
