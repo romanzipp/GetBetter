@@ -16,7 +16,7 @@ Im Discord von [Dekarldent](https://www.twitch.tv/dekarldent), der das Projekt �
 </summary>
 
 Grundsätzlich kann jeder Nährstoff über pflanzliche Ernährung aufgenommen werden, mit der Ausnahme von B12, welches Veganer*innen auf jeden Fall supplementieren sollten.
-Zu allen möglicherweise kritischen Nährstoffe findet ihr auf der Homepage dafür dedizierte Seiten. Eine Überprüfung der eigenen Blutwerte ist in vielen Fällen äußerst sinnvoll.
+Zu allen möglicherweise kritischen Nährstoffen findet ihr auf der Homepage dafür dedizierte Seiten. Eine Überprüfung der eigenen Blutwerte ist in vielen Fällen äußerst sinnvoll.
 -> Siehe: [Ernährung](/ernaehrung)
 </details>
 
@@ -44,7 +44,7 @@ Eine vegane Ernährung garantiert nicht gleichzeitig eine gesunde Ernährung. Au
     Welche Vitamine oder Nährstoffe muss ich mir über Tabletten holen, weil sie über eine ausgewogene vegane Ernährung nicht ausreichend zugeführt werden?
 </summary>
 
-Veganer\*innen sollten in jedem Fall ein B12 Präparat zu sich nehmen. [Siehe: B12](/ernaehrung/#vitamin-b12). Eine »ausgewogenen veganen Ernährung« impliziert ja bereits, dass man sich so ernährt, dass man alle kritischen Nährstoffe zu sich nimmt. Jedoch sollte man, wenn man sich unsicher ist, seine Blutwerte ärztlich überprüfen lassen um möglichen Mangelerscheinungen (durch vielleicht eine doch nicht so ausgewogene Ernährung) vorbeugen zu können.
+Veganer\*innen sollten in jedem Fall ein B12 Präparat zu sich nehmen. [Siehe: B12](/ernaehrung/#vitamin-b12). Eine »ausgewogene vegane Ernährung« impliziert ja bereits, dass man sich so ernährt, dass man alle kritischen Nährstoffe zu sich nimmt. Jedoch sollte man, wenn man sich unsicher ist, seine Blutwerte ärztlich überprüfen lassen um möglichen Mangelerscheinungen (durch vielleicht eine doch nicht so ausgewogene Ernährung) vorbeugen zu können.
 </details>
 
 <details>
@@ -53,7 +53,7 @@ Veganer\*innen sollten in jedem Fall ein B12 Präparat zu sich nehmen. [Siehe: B
 </summary>
 
 Gerade bei einer geringen Nährstoffaufnahme durch Lebensmittel sollte man seine Blutwerte überprüfen und danach gegebenenfalls kritische Nährstoffe supplementieren.
-Die meisten Nährstoffe werden pro kg des eigenen Gewichts angegeben, das würde bedeuten, dass man möglicherweise weniger supplementieren muss. Eine ausgewogene, Kalorien- und Nährstoffreiche Ernährung würde der Notwendigkeit der Einnahme von Nahrungsergänzungsmitteln entgegenwirken. (Ausnahme: B12 bei veganer Ernährungsweise)
+Die meisten Nährstoffe werden pro kg des eigenen Körpergewichts angegeben. Das würde bedeuten, dass man möglicherweise weniger supplementieren muss. Eine ausgewogene, Kalorien- und Nährstoffreiche Ernährung würde der Notwendigkeit der Einnahme von Nahrungsergänzungsmitteln entgegenwirken. (Ausnahme: B12 bei veganer Ernährungsweise)
 </details>
 
 <details>
@@ -61,7 +61,7 @@ Die meisten Nährstoffe werden pro kg des eigenen Gewichts angegeben, das würde
     Muss eine schwangere oder stillende Person mehr oder anders supplementieren?
 </summary>
 
-Als schwangere oder stillende Person nimmt man grundsätzlich sowieso Nahrungsergänzungsmittel ein um den erhöhten Nährstoffbedarf zu decken. Ernährt man sich rein pflanzlich, sollte man vor allem auf Vitamin B12 zusätzlich achten. Bei Erwachsenen tägliche Bedarf an Vitamin B12 bei 4μg, bei Schwangeren liegt er bei 4,5μg und bei Stillenden bei 5μg. Bitte wendet euch aber bei Schwangerschaft oder in der Stillzeit an eine\*n Ärzt\*in. Für mehr Vorinformationen meldet euch gerne bei mir im Discord (Mimi#2964) oder auf Twitter (https://www.twitter.com/heymibbi).
+Als schwangere oder stillende Person nimmt man grundsätzlich sowieso Nahrungsergänzungsmittel ein um den erhöhten Nährstoffbedarf zu decken. Ernährt man sich rein pflanzlich, sollte man vor allem auf Vitamin B12 zusätzlich achten. Bei Erwachsenen liegt der tägliche Bedarf an Vitamin B12 bei 4μg, bei Schwangeren liegt er bei 4,5μg und bei Stillenden bei 5μg. Bitte wendet euch aber bei Schwangerschaft oder in der Stillzeit an eine\*n Ärzt\*in. Für mehr Vorinformationen meldet euch gerne bei mir im Discord (Mimi#2964) oder auf Twitter (https://www.twitter.com/heymibbi).
 </details>
 
 <details>
@@ -69,7 +69,7 @@ Als schwangere oder stillende Person nimmt man grundsätzlich sowieso Nahrungser
     Kann man sich auch mit Zöliakie (Glutenunverträglichkeit) ausgewogen vegan ernähren?
 </summary>
 
-Ja, das ist möglich, wenn auch mit einigen Hindernissen verbunden. Hierbei sollte auf jeden Fall vermehrt auf eine Vitamin B12-, Eisen und Kalziumzufuhr geachtet werden. Diese beiden Seiten, können dabei mehr Aufklärung leisten: [DZG-Online - PDF](https://www.dzg-online.de/files/2016_11_td-gesunde_ern__hrung.pdf) und [24vita - Vegan leben trotz Glutenunverträglichkeit](https://www.24vita.de/allergien-unvertraeglichkeiten/unvertraeglichkeiten/zoeliakie/vegan-ernaehrung-deutsche-zoeliakie-gesellschaft-stuttgart-gluten-unvertraeglichkeit-betroffene-90174794.html) 
+Ja, das ist möglich, wenn auch mit einigen Hindernissen verbunden. Hierbei sollte auf jeden Fall vermehrt auf eine Vitamin B12-, Eisen und Kalziumzufuhr geachtet werden. Diese beiden Seiten können dabei mehr Aufklärung leisten: [DZG-Online - PDF](https://www.dzg-online.de/files/2016_11_td-gesunde_ern__hrung.pdf) und [24vita - Vegan leben trotz Glutenunverträglichkeit](https://www.24vita.de/allergien-unvertraeglichkeiten/unvertraeglichkeiten/zoeliakie/vegan-ernaehrung-deutsche-zoeliakie-gesellschaft-stuttgart-gluten-unvertraeglichkeit-betroffene-90174794.html) 
 </details>
 
 <details>
@@ -77,7 +77,7 @@ Ja, das ist möglich, wenn auch mit einigen Hindernissen verbunden. Hierbei soll
     Kann man sich auch bei einer Schalenfrucht-/Nussallergie ausgewogen vegan ernähren?
 </summary>
 
-Auch hier, wie auch bei einer Zöliakie, gilt, dass dies grundsätzlich möglich ist. Bei einer Nussallergie ist jedoch, anders als bei der Zöliakie, der »allergic threshold« meistens sehr gering. Der »allergic threshold« beschreibt die Maximalmenge an Substanz, die man zu sich nehmen darf, ohne, dass es zu einer allergische Reaktion kommt. Deswegen ist bei Nussallergien grundsätzlich schwieriger um Allergene herumzukommen. Möglich ist es aber dennoch, jedoch wäre ein Besuch bei einem\*einer Allergolog\*in ratsam.
+Auch hier, wie auch bei einer Zöliakie gilt, dass dies grundsätzlich möglich ist. Bei einer Nussallergie ist jedoch, anders als bei der Zöliakie, der »allergic threshold« meistens sehr gering. Der »allergic threshold« beschreibt die Maximalmenge an Substanz, die man zu sich nehmen darf, ohne, dass es zu einer allergischen Reaktion kommt. Deswegen ist es bei Nussallergien grundsätzlich schwieriger um Allergene herumzukommen. Möglich ist es aber dennoch, jedoch wäre ein Besuch bei einem\*einer Allergolog\*in ratsam.
 </details>
 
 <details>
@@ -101,7 +101,7 @@ Zu Soja und den enthaltenen Isoflavonen gibt es ein komplettes dediziertes Kapit
     Ist der Nährwert/Kalorienwert von veganen Mahlzeiten vergleichbar mit »normalen« tierprodukthaltigen Mahlzeiten?
 </summary>
 
-Die Kaloriendichte bei tierischen Produkten ist meistens höher als bei pflanzlichen Produkten. Grundsätzlich ist das aber abhängig von den Mahlzeiten die man zubereitet. Eine Nährwert- und kaloriendeckende Ernährung ist aber auf jeden Fall pflanzlich genauso möglich, wie mit tierischen Produkten.
+Die Kaloriendichte bei tierischen Produkten ist meistens höher als bei pflanzlichen Produkten. Grundsätzlich ist das aber abhängig von den Mahlzeiten, welche man zubereitet. Eine Nährwert- und kaloriendeckende Ernährung ist aber auf jeden Fall pflanzlich genauso möglich, wie mit tierischen Produkten.
 </details>
 
 <details>
@@ -128,7 +128,7 @@ In der Entwicklungsphase sind einige Nährstoffe von höherem Bedarf, gerne kann
     Kann ich mich auch ohne fancy Ersatzprodukte oder Zusätzliche Lebensmittel wie Hefeflocken/Algen etc. ausgewogen ernähren, ohne Tabletten zu mir nehmen zu müssen?
 </summary>
 
-Gänzlich ohne Tabletten respektive B12 Präparate ist eine vegane Ernährung nicht empfehlenswert. Schau aber gerne mal in [Ernährung](/ernaehrung/#potentiell-kritische-nährstoffe-in-der-veganen-ernährung) vorbei, wo der Grund erklärt wird. Hefeflocken und Algen sind grundsätzlich nicht essentiell in einer ausgewogenen veganen Ernährung, wichtig ist hier nicht *wie*, sondern grundlegend nur, dass der Nährstoffbedarf gedeckt ist.
+Gänzlich ohne Tabletten respektive B12 Präparate ist eine vegane Ernährung nicht empfehlenswert. Schau aber gerne mal in [Ernährung](/ernaehrung/#potentiell-kritische-nährstoffe-in-der-veganen-ernährung) vorbei, wo der Grund erklärt wird. Hefeflocken und Algen sind grundsätzlich nicht essentiell in einer ausgewogenen veganen Ernährung. Wichtig ist hier nicht *wie*, sondern grundlegend nur, dass der Nährstoffbedarf gedeckt ist.
 </details>
 
 <details>
@@ -136,7 +136,7 @@ Gänzlich ohne Tabletten respektive B12 Präparate ist eine vegane Ernährung ni
     Kann ich mich ausgewogen vegan ernähren, wenn ich nur lokales und saisonales Getreide/Obst/Gemüse zu mir nehmen möchte?
 </summary>
 
-Ja, das ist natürlich »mehr Aufwand«, aber grundsätzlich möglich, wenn man mit den regionalen und saisonalen Lebensmitteln seinen Nährstoffbedarf deckt. Viele Supermärkte haben eine Bioabteilung, die wiederum bezieht oftmals ihre Produkte aus regionalen, saisonalen Anbauten. Hier gibt unterschiedliche [Kalender für regionales und saisonales Obst und Gemüse.](https://www.regional-saisonal.de/saisonkalender)
+Ja, das ist natürlich »mehr Aufwand«, aber grundsätzlich möglich, wenn man mit den regionalen und saisonalen Lebensmitteln seinen Nährstoffbedarf deckt. Viele Supermärkte haben eine Bioabteilung, die wiederum bezieht oftmals ihre Produkte aus regionalen, saisonalen Anbauten. Hier gibt es unterschiedliche [Kalender für regionales und saisonales Obst und Gemüse.](https://www.regional-saisonal.de/saisonkalender)
 </details>
 
 <details>
@@ -171,7 +171,7 @@ Wenn man die Qualität nach dem Faktor der biologischen Wertigkeit messen möcht
 </summary>
 
 Wer der Ansicht ist, dass er seinen Proteinbedarf nicht ausschließlich durch seine Nahrung zu sich nehmen kann oder möchte, kann zusätzlich Proteinpulver zu sich nehmen.
-Merkmale nach denen man sein Proteinpulver aussuchen sollte sind: Es sollte frei von Schadstoffen und frei von Rückständen sein. Dazu sollte es ein Mehrkomponentenprotein, also ein Protein aus mehreren Quellen, sein, damit dadurch alle essentiellen Aminosäuren abgedeckt werden. Desweiteren spielt der Geschmack natürlich eine ausschlaggebende Rolle.
+Merkmale nach denen man sein Proteinpulver aussuchen sollte sind: Es sollte frei von Schadstoffen und frei von Rückständen sein. Dazu sollte es ein Mehrkomponentenprotein, also ein Protein aus mehreren Quellen sein, damit dadurch alle essentiellen Aminosäuren abgedeckt werden. Desweiteren spielt der Geschmack natürlich eine ausschlaggebende Rolle.
 
 Vegane Produktvorschläge:
 + **VIVOLIFE** aus Erbsen- und Hanfprotein, vollwertiges Aminosäureprofil (46,99 für 1kg / 4,70€ pro 100g)
@@ -244,7 +244,7 @@ Eine vegane Ernährung kann auch komplett ohne Ersatzprodukte ausgewogen und ges
     Besteht die Möglichkeit sich vegan zu ernähren trotz geringen Einkommens? Wie würde das aussehen?
 </summary>
 
-Wenn man auf günstige Lebensmittel zurückgreifen möchte oder muss, sollte man wenig vegane Ersatzprodukte kaufen und lieber auf vollwertige Kost zurückgreifen, welche man sich selbst zubereitet. Bohnen, Reis und saisonale Lebensmittel sind zum Beispiel relativ günstig. Grundsätzlich gestaltet sich eine ausgewogene Ernährung schwieriger, je geringer das Einkommen ist, jedoch ist eine vegane Ernährung nicht unbedingt eine teurere Ernährung.
+Wenn man auf günstige Lebensmittel zurückgreifen möchte oder muss, sollte man wenig vegane Ersatzprodukte kaufen und lieber auf vollwertige Kost zurückgreifen, welche man sich selbst zubereitet. Bohnen, Reis und saisonale Lebensmittel sind zum Beispiel relativ günstig. Grundsätzlich gestaltet sich eine ausgewogene Ernährung schwieriger, je geringer das Einkommen ist. Eine vegane Ernährung ist jedoch nicht unbedingt eine teurere Ernährung.
 </details>
 
 <details>
