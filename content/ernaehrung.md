@@ -644,7 +644,7 @@ Nummer | Inhalt
 # Quellen
 
 [^1]: (1.) https://www.ernaehrung.de/lexikon/ernaehrung/k/Kritische-Naehrstoffe.php
-[^2]: (2.) https://vegan-masterclass.de/wp-content/uploads/2020/10/kritische_naehrstoffe.pdf (Seite 2) - Rittenau, N. Vegan-Klischee ade! Wissenschaftliche Antworten auf kritische Fragen zu pflanzlicher Ernährung.
+[^2]: (2.) Rittenau, N. Vegan-Klischee ade! Wissenschaftliche Antworten auf kritische Fragen zu pflanzlicher Ernährung. Seite 2
 [^3]: (3.) https://de.wikipedia.org/wiki/Cobalamine
 [^4]: (4.) https://www.hopkinsmedicine.org/health/conditions-and-diseases/vitamin-b12-deficiency-anemia
 [^5]: (5.) https://utopia.de/ratgeber/vitamin-b12/
