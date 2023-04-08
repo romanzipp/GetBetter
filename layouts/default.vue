@@ -69,6 +69,11 @@ export default {
         bodyAttrs: {
             class: 'bg-green-100',
         },
+        script: [{
+            src: 'https://p.ich.wtf/js/script.js',
+            'data-domain': 'get-better.me',
+            async: true,
+        }],
     },
 
     async fetch() {
