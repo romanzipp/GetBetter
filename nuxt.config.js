@@ -83,6 +83,6 @@ export default {
 
     tailwindcss: {
         configPath: 'tailwind.config.js',
-        cssPath: '~/assets/scss/tailwind.css',
+        cssPath: '~/assets/css/tailwind.css',
     },
 };
