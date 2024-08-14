@@ -35,8 +35,8 @@ export default {
     data: () => ({
         links: [
             { title: 'Open Source', url: 'https://github.com/romanzipp/GetBetter', logo: GitHubLogo },
-            { title: 'Impressum', url: 'https://ich.wtf/imprint' },
-            { title: 'Datenschutz', url: 'https://ich.wtf/privacy' },
+            { title: 'Impressum', url: 'https://ich.wtf/impressum' },
+            { title: 'Datenschutz', url: 'https://ich.wtf/datenschutzerklaerung' },
         ],
     }),
 };
