@@ -195,7 +195,7 @@ Ganz grob zusammengefasst sind Proteine Makromoleküle - also recht große Molek
 
 **Wofür brauchen wir Proteine?**
 
-Hier eine übersichtliche Grafik, welche Funktionen Proteine in unserem Körper erfüllen - [Grafik](https://www.eufic.org/images/uploads/whats-in-food/protein-functions_de.png) [^34]
+Hier eine übersichtliche Grafik, welche Funktionen Proteine in unserem Körper erfüllen - [Grafik](https://www.eufic.org/en/images/uploads/whats-in-food/protein-functions_de.png) [^34]
 
 **Wie viel Proteine brauche ich?**
 
