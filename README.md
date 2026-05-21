@@ -1,5 +1,8 @@
 # Get Better
 
+> [!NOTE]
+> Dieses Projekt wird primär auf [Codeberg](https://codeberg.org/romanzipp/get-better.me) entwickelt und nur nach GitHub gespiegelt. Bitte Issues und Pull Requests dort eröffnen.
+
 [![Lint](https://github.com/romanzipp/GetBetter/actions/workflows/ci.yml/badge.svg)](https://github.com/romanzipp/GetBetter/actions/workflows/ci.yml)
 [![Deploy](https://github.com/romanzipp/GetBetter/actions/workflows/cd.yml/badge.svg)](https://github.com/romanzipp/GetBetter/actions/workflows/cd.yml)
 
