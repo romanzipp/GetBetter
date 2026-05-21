@@ -1,0 +1,12 @@
+.git
+.github
+.idea
+.vscode
+node_modules
+dist
+.nuxt
+.eslintcache
+*.log
+.DS_Store
+preview.png
+README.md
