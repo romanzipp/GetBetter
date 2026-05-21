@@ -46,7 +46,7 @@ export default {
         ],
         script: [
             ...production ? [{
-                src: 'https://u.ich.wtf/s.js', async: true, defer: true, 'data-website-id': '3ae24d79-f274-4687-b533-c3421a5aa73e',
+                src: 'https://u.romanzipp.cloud/script.js', defer: true, 'data-website-id': '06abc411-f242-4a23-994d-b83b9339ed7d',
             }] : [],
         ],
     },
@@ -61,7 +61,7 @@ export default {
 
     // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
     buildModules: [
-    // https://go.nuxtjs.dev/eslint
+        // https://go.nuxtjs.dev/eslint
         '@nuxtjs/eslint-module',
         // https://go.nuxtjs.dev/tailwindcss
         '@nuxtjs/tailwindcss',
@@ -69,7 +69,7 @@ export default {
 
     // Modules: https://go.nuxtjs.dev/config-modules
     modules: [
-    // https://go.nuxtjs.dev/axios
+        // https://go.nuxtjs.dev/axios
         '@nuxtjs/axios',
         // https://go.nuxtjs.dev/content
         '@nuxt/content',

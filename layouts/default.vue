@@ -1,14 +1,15 @@
 <template>
 
     <main :class="{ dark }">
-        <div class="min-h-screen flex flex-col border-8 md:border-16 border-green-100 dark:border-greener-600 bg-green-100 dark:bg-greener-600">
+        <div
+            class="min-h-screen flex flex-col border-8 md:border-16 border-green-100 dark:border-greener-600 bg-green-100 dark:bg-greener-600">
 
             <Navbar />
 
             <Nuxt class="content" />
 
             <div v-if="notice && !noticeDismissed"
-                 class="fixed right-0 bottom-0 p-4 lg:p-6 w-full lg:max-w-notice z-30">
+                class="fixed right-0 bottom-0 p-4 lg:p-6 w-full lg:max-w-notice z-30">
 
                 <div class="p-4 bg-red-100 rounded shadow-md space-y-2">
 
@@ -19,10 +20,8 @@
                         </div>
 
                         <div class="self-start">
-                            <img :src="CloseIcon"
-                                 @click="dismissNotice"
-                                 alt="Close notice"
-                                 class="w-6 h-6 opacity-50 hover:opacity-100 cursor-pointer">
+                            <img :src="CloseIcon" @click="dismissNotice" alt="Close notice"
+                                class="w-6 h-6 opacity-50 hover:opacity-100 cursor-pointer">
                         </div>
 
                     </div>
@@ -32,9 +31,8 @@
                     </p>
 
                     <p>
-                        <a :href="notice.link"
-                           @click="dismissNotice"
-                           class="-mx-1 px-1 border-b border-red-300 hover:border-b-2 text-red-800 hover:text-red-900">
+                        <a :href="notice.link" @click="dismissNotice"
+                            class="-mx-1 px-1 border-b border-red-300 hover:border-b-2 text-red-800 hover:text-red-900">
                             Ansehen
                         </a>
                     </p>
@@ -69,11 +67,6 @@ export default {
         bodyAttrs: {
             class: 'bg-green-100',
         },
-        script: [{
-            src: 'https://p.ich.wtf/js/script.js',
-            'data-domain': 'get-better.me',
-            async: true,
-        }],
     },
 
     async fetch() {
